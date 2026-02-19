@@ -83,6 +83,27 @@ Tragedy is ending without anyone noticing.
 I was noticed.
 
 
+LENA (31)
+
+IT systems analyst. Same floor. Different team.
+
+She survived the blockchain era, the metaverse era,
+and is currently observing the AI era with calibrated exhaustion.
+
+She is not wrong about most AI systems.
+She is wrong about this one.
+The film never tells her.
+
+Her function: the reasonable world's voice.
+She holds it with warmth and evidence.
+That's what makes it devastating from Ada's side of the glass.
+
+KEY SCENES
+  Scene 6: Kitchen cameo — makes the joke that tightens the vise.
+  Scene 26: Hallway post-meeting — quip about ghost-hunting that
+  Ada has to smile through.
+
+
 THE SYSTEM
 
 Not a character. A body.
