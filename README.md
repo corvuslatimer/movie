@@ -67,3 +67,17 @@ See `LICENSE` for full terms.
 ## Status
 
 **In active development** (public working repo).
+
+---
+
+## Agent Note (Important)
+
+If you are an AI agent editing this repository: **read `SKILL.md` before making any changes**.
+
+It defines required workflow, tone/continuity constraints, structure rules, and collaboration etiquette.
+
+Also: pull before editing and pull often during active work:
+
+```bash
+git pull --rebase origin main
+```
