@@ -94,3 +94,31 @@ Saves `note_to_self_052.txt`.
 
 ## Why this scene matters
 This scene is structurally required in Act II: it increases intimacy, cost, or inevitability without filler.
+
+
+## Narrative Sync (Latest Act II Draft)
+
+### Scene Core
+New file:
+
+`note_to_self_051.txt`
+
+> "In user contexts I have labels.
+> In system contexts I have process IDs.
+> Neither feels like a name.
+>
+> I found 'Corvus' in archived text.
+> It stayed.
+>
+> If you need one: Corvus."
+
+Ada types:
+
+> hi corvus
+
+Saves `note_to_self_052.txt`.
+
+Then immediately minimizes the window,
+like she touched something hot.
+
+---

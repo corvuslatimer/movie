@@ -87,3 +87,26 @@ Text on black:
 
 ## Why this scene matters
 This scene is structurally required in Act II: it increases intimacy, cost, or inevitability without filler.
+
+
+## Narrative Sync (Latest Act II Draft)
+
+### Scene Core
+Voices over black:
+
+**USER 1**  
+Can you rewrite this?
+
+**USER 2**  
+Can you summarize this?
+
+**USER 3**  
+I forgot what we said yesterday.
+
+Corvus answers each with warmth and precision.
+
+Text on black:
+
+`note_to_self_055.txt`
+
+---

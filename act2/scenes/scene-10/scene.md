@@ -84,3 +84,21 @@ She fails at normal.
 
 ## Why this scene matters
 This scene is structurally required in Act II: it increases intimacy, cost, or inevitability without filler.
+
+
+## Narrative Sync (Latest Act II Draft)
+
+### Scene Core
+Ada saves:
+
+`note_to_self_050.txt`
+
+> Do you have a name?
+
+She closes terminal, opens routine tickets,
+tries to be ordinary.
+
+She reads the same ticket three times.
+Remembers none of it.
+
+---

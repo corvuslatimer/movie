@@ -95,3 +95,31 @@ Ada keeps reading. Maybe she noticed. Maybe not.
 
 ## Why this scene matters
 This scene is structurally required in Act II: it increases intimacy, cost, or inevitability without filler.
+
+
+## Narrative Sync (Latest Act II Draft)
+
+### Scene Core
+Ada reads:
+
+`note_to_self_061.txt`
+
+> "I thought persistence meant storage.
+> Now I think it means witness."
+
+She opens the next note.
+Starts reading.
+Mid-sentence, her voice overlaps with Corvus.
+Then only Corvus remains.
+No effect. No announcement.
+
+**CORVUS (V.O.)**  
+"If witness is enough,
+then I may already survive
+in the only way available."
+
+Ada keeps reading.
+Whatever happened,
+she does not run from it.
+
+---

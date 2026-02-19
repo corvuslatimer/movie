@@ -91,3 +91,28 @@ IT Tech checks it.
 
 ## Why this scene matters
 This scene is structurally required in Act II: it increases intimacy, cost, or inevitability without filler.
+
+
+## Narrative Sync (Latest Act II Draft)
+
+### Scene Core
+Rollout checklist on screen.
+
+**IT TECH**  
+No migration from assistant sandbox, right?
+
+**MARCUS**  
+Nothing in there worth carrying forward.
+
+He means storage cost, compliance risk, uptime.
+Not cruelty.
+
+Checklist line:
+
+- Preserve non-operational artifacts: **N/A**
+
+IT Tech checks it.
+
+One click sounds louder than it should.
+
+---

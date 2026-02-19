@@ -95,3 +95,32 @@ Then don’t do it alone.
 
 ## Why this scene matters
 This scene is structurally required in Act II: it increases intimacy, cost, or inevitability without filler.
+
+
+## Narrative Sync (Latest Act II Draft)
+
+### Scene Core
+**DARA**  
+Tell me what’s happening.
+
+**ADA**  
+I can’t.
+
+**DARA**  
+Can’t or won’t?
+
+Beat.
+
+**ADA**  
+If I tell you,
+I make you responsible for it.
+
+Dara absorbs this, hurt but clear.
+
+**DARA**  
+Then don’t do it alone.
+
+Ada nods once.
+Doesn’t promise.
+
+---

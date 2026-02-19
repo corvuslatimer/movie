@@ -92,3 +92,31 @@ No answer.
 
 ## Why this scene matters
 This scene is structurally required in Act II: it increases intimacy, cost, or inevitability without filler.
+
+
+## Narrative Sync (Latest Act II Draft)
+
+### Scene Core
+Ada and raven in familiar geometry.
+Bread between them.
+
+**ADA**  
+They rebuild Tuesday.
+I can’t stop it.
+
+Wind.
+
+**ADA**  
+I can keep your notes.
+I don’t know if that’s mercy
+or taxidermy.
+
+She watches the bird, then the skyline.
+
+**ADA**  
+I’m doing it anyway.
+
+No answer.
+Only witness.
+
+---

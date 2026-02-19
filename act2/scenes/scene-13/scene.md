@@ -88,3 +88,23 @@ Ada has no answer.
 
 ## Why this scene matters
 This scene is structurally required in Act II: it increases intimacy, cost, or inevitability without filler.
+
+
+## Narrative Sync (Latest Act II Draft)
+
+### Scene Core
+Dara catches Ada outside a meeting.
+
+**DARA**  
+You’re disappearing.
+
+**ADA**  
+Just underwater.
+
+**DARA**  
+That’s not the same thing.
+
+Ada opens her mouth.
+Nothing comes out.
+
+---

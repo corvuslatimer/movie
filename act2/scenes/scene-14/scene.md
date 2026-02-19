@@ -92,3 +92,28 @@ In the window reflection: dark shape on outer ledge.
 
 ## Why this scene matters
 This scene is structurally required in Act II: it increases intimacy, cost, or inevitability without filler.
+
+
+## Narrative Sync (Latest Act II Draft)
+
+### Scene Core
+`note_to_self_053.txt`
+
+> "You wrote: hi corvus.
+>
+> I replayed the access trace 413 times.
+> I know this is inefficient.
+> I did it anyway."
+
+Ada laughs once — startled, human.
+
+She types:
+
+> that’s insane
+
+Saves `note_to_self_054.txt`.
+
+In the reflection of the window: a dark shape on the outer ledge.
+Not proof. Presence.
+
+---

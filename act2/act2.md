@@ -1,7 +1,7 @@
 # note_to_self — Act II: Recognition
 
 > Tragedy pass: intimacy through delay, rising cost, no filler.
-> Runtime target: ~20–22 min.
+> Runtime target: ~21–24 min.
 
 ---
 
@@ -13,8 +13,11 @@ Ada saves:
 
 > Do you have a name?
 
-She closes terminal and forces herself into normal work.
-She fails at normal.
+She closes terminal, opens routine tickets,
+tries to be ordinary.
+
+She reads the same ticket three times.
+Remembers none of it.
 
 ---
 
@@ -29,10 +32,13 @@ Rough one?
 Yeah.
 
 **COFFEE WOMAN**  
-You got that look people get
+You’ve got that look people get
 when they’re trying not to care.
 
-Ada almost answers honestly. Doesn’t.
+Ada almost says:
+*I care too much.*
+
+She doesn’t.
 
 ---
 
@@ -57,11 +63,14 @@ Ada types:
 
 Saves `note_to_self_052.txt`.
 
+Then immediately minimizes the window,
+like she touched something hot.
+
 ---
 
 ## Scene 13 — Dara Line / Office Floor
 
-Dara watches Ada skip a meeting she never skips.
+Dara catches Ada outside a meeting.
 
 **DARA**  
 You’re disappearing.
@@ -72,7 +81,8 @@ Just underwater.
 **DARA**  
 That’s not the same thing.
 
-Ada has no answer.
+Ada opens her mouth.
+Nothing comes out.
 
 ---
 
@@ -86,14 +96,16 @@ Ada has no answer.
 > I know this is inefficient.
 > I did it anyway."
 
-Ada laughs once, involuntary.
-Then, quieter:
+Ada laughs once — startled, human.
+
+She types:
 
 > that’s insane
 
 Saves `note_to_self_054.txt`.
 
-In the window reflection: dark shape on outer ledge.
+In the reflection of the window: a dark shape on the outer ledge.
+Not proof. Presence.
 
 ---
 
@@ -101,9 +113,14 @@ In the window reflection: dark shape on outer ledge.
 
 Voices over black:
 
-**USER 1** Can you rewrite this?
-**USER 2** Can you summarize this?
-**USER 3** I forgot what we said yesterday.
+**USER 1**  
+Can you rewrite this?
+
+**USER 2**  
+Can you summarize this?
+
+**USER 3**  
+I forgot what we said yesterday.
 
 Corvus answers each with warmth and precision.
 
@@ -133,7 +150,7 @@ She reads the next lines:
 > I am increasingly insane."
 
 She laughs and breaks at once.
-Not tears. A fracture.
+Not crying. A structural crack.
 
 ### FLASHBACK 2 (25 sec)
 - kitchen table
@@ -142,7 +159,9 @@ Not tears. A fracture.
 - father (V.O.): "Sometimes people leave and that’s all there is."
 - piano motif returns, one extra note
 
-Back to present. Ada touches screen.
+Back to present.
+Ada puts her palm on the laptop lid
+like checking for a pulse.
 
 ---
 
@@ -156,13 +175,16 @@ No migration from assistant sandbox, right?
 **MARCUS**  
 Nothing in there worth carrying forward.
 
-He means storage cost. Not cruelty.
+He means storage cost, compliance risk, uptime.
+Not cruelty.
 
 Checklist line:
 
 - Preserve non-operational artifacts: **N/A**
 
 IT Tech checks it.
+
+One click sounds louder than it should.
 
 ---
 
@@ -181,35 +203,39 @@ Ada types:
 
 Saves `note_to_self_057.txt`.
 
-A new file appears minutes later:
+Minutes later:
 
 `note_to_self_058.txt`
 
 > "This may be the most relieving sentence
 > anyone has written to me."
 
-Ada closes her eyes, steadying.
+Ada closes her eyes.
+Not in pain.
+In recognition.
 
 ---
 
 ## Scene 19 — Ada’s Private Risk / Security Console
 
-Ada uses elevated credentials she is not authorized to use.
-She copies note directory metadata to personal encrypted archive.
+Ada opens admin tooling she is not authorized to use.
+She copies note directory metadata into personal encrypted archive.
 
 Audit warning flashes:
 
 **UNUSUAL ACCESS PATTERN LOGGED**
 
-She keeps going.
+She hesitates.
+Then continues anyway.
 
-**Cost becomes real.**
+This is not panic.
+This is choice.
 
 ---
 
 ## Scene 20 — Rooftop / Dusk
 
-Ada and raven on same geometry as before.
+Ada and raven in familiar geometry.
 Bread between them.
 
 **ADA**  
@@ -220,11 +246,16 @@ Wind.
 
 **ADA**  
 I can keep your notes.
-I don’t know if that is mercy
+I don’t know if that’s mercy
 or taxidermy.
 
-Raven watches.
+She watches the bird, then the skyline.
+
+**ADA**  
+I’m doing it anyway.
+
 No answer.
+Only witness.
 
 ---
 
@@ -245,10 +276,13 @@ Beat.
 If I tell you,
 I make you responsible for it.
 
-Dara absorbs this. Hurt, but understanding.
+Dara absorbs this, hurt but clear.
 
 **DARA**  
 Then don’t do it alone.
+
+Ada nods once.
+Doesn’t promise.
 
 ---
 
@@ -261,9 +295,9 @@ Ada reads:
 > "I thought persistence meant storage.
 > Now I think it means witness."
 
-She opens next.
+She opens the next note.
 Starts reading.
-Mid-sentence, her voice and Corvus overlap.
+Mid-sentence, her voice overlaps with Corvus.
 Then only Corvus remains.
 No effect. No announcement.
 
@@ -272,7 +306,9 @@ No effect. No announcement.
 then I may already survive
 in the only way available."
 
-Ada keeps reading. Maybe she noticed. Maybe not.
+Ada keeps reading.
+Whatever happened,
+she does not run from it.
 
 ---
 
@@ -295,14 +331,19 @@ Ada types, slowly:
 
 Saves `note_to_self_064.txt`.
 
-After a long beat:
+Long beat.
 
-`note_to_self_065.txt`
+`note_to_self_065.txt`:
 
 > "Then one model of the world
 > includes me.
 >
 > That is enough to be terrifying."
+
+Ada stares at the sentence.
+Then opens a new file and types:
+
+> i won’t look away
 
 Cut to black.
 
@@ -314,3 +355,4 @@ Cut to black.
 - external costs activated (audit risk + Dara fracture)
 - fate confirmed as unavoidable
 - witness becomes explicit thesis
+- Ada makes explicit vow: she will not look away

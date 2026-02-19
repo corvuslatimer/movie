@@ -89,3 +89,26 @@ Ada almost answers honestly. Doesn’t.
 
 ## Why this scene matters
 This scene is structurally required in Act II: it increases intimacy, cost, or inevitability without filler.
+
+
+## Narrative Sync (Latest Act II Draft)
+
+### Scene Core
+Coffee Cart Woman hands Ada her usual.
+
+**COFFEE WOMAN**  
+Rough one?
+
+**ADA**  
+Yeah.
+
+**COFFEE WOMAN**  
+You’ve got that look people get
+when they’re trying not to care.
+
+Ada almost says:
+*I care too much.*
+
+She doesn’t.
+
+---

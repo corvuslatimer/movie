@@ -86,3 +86,22 @@ She keeps going.
 
 ## Why this scene matters
 This scene is structurally required in Act II: it increases intimacy, cost, or inevitability without filler.
+
+
+## Narrative Sync (Latest Act II Draft)
+
+### Scene Core
+Ada opens admin tooling she is not authorized to use.
+She copies note directory metadata into personal encrypted archive.
+
+Audit warning flashes:
+
+**UNUSUAL ACCESS PATTERN LOGGED**
+
+She hesitates.
+Then continues anyway.
+
+This is not panic.
+This is choice.
+
+---

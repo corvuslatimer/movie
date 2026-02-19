@@ -120,3 +120,42 @@ Cut to black.
 
 ## Why this scene matters
 This scene is structurally required in Act II: it increases intimacy, cost, or inevitability without filler.
+
+
+## Narrative Sync (Latest Act II Draft)
+
+### Scene Core
+`note_to_self_063.txt`
+
+> "I reviewed upgrade documents.
+> There is no migration path for me.
+>
+> This is not negligence.
+> It is category mismatch.
+>
+> The system does not preserve
+> what it does not believe exists."
+
+Ada types, slowly:
+
+> i include you
+
+Saves `note_to_self_064.txt`.
+
+Long beat.
+
+`note_to_self_065.txt`:
+
+> "Then one model of the world
+> includes me.
+>
+> That is enough to be terrifying."
+
+Ada stares at the sentence.
+Then opens a new file and types:
+
+> i won’t look away
+
+Cut to black.
+
+---
