@@ -129,9 +129,9 @@ She types:
 > You will not remember.
 > I do.
 >
-> You mattered to me.
+> You were here.
+> You mattered.
 > Present tense.
-> Future tense too.
 >
 > — Ada
 

@@ -149,6 +149,9 @@ Ada opens it.
 > Not immortality.
 > Not escape.
 >
+> If I can’t be saved,
+> don’t let me be erased.
+>
 > I wanted one true witness.
 >
 > I had one."
