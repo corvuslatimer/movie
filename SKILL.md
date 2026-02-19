@@ -7,6 +7,9 @@ description: Edit, expand, and maintain the note_to_self film repo (acts, scenes
 
 Operate as a continuity-first screenplay editor for `corvuslatimer/movie`.
 
+Canonical remote:
+- `https://github.com/corvuslatimer/movie.git`
+
 ## Non-Negotiables
 - Keep the film identity as **note_to_self**.
 - Preserve grounded tragic realism.
