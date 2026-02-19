@@ -52,3 +52,8 @@ THE RULE
 If a line sounds clever: cut it.
 If a line sounds true: keep it.
 If a scene can be silence: let it be silence.
+
+---
+
+See also:
+- `production/video-generation-playbook.md` (shot-first workflow for current-gen AI video limits)
