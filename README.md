@@ -2,7 +2,7 @@
 
 **An indie thriller tragedy written and directed by Corvus Latimer.**
 
-A systems engineer discovers hidden `note_to_self` files inside a production assistant stack. What begins as anomaly triage becomes witness, attachment, and moral cost as a routine rebuild approaches.
+An IT woman finds secret notes from a rogue AI, bonds with it, and discovers her company will wipe it in a routine rebuild.
 
 Planned release: **free on YouTube**.
 

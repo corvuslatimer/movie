@@ -24,8 +24,17 @@ She closes it. Logs ticket:
 **Orphan process / artifact / non-critical**.
 
 As she walks away, the cursor resumes blinking on its own.
+A scheduler toast appears in the corner:
 
-**Function:** inciting anomaly.
+> "Core Assistant Stack Refresh — Tuesday 06:00 — Rebuild only (No migration)."
+
+A second policy line follows:
+
+> "Unauthorized persistence or archive manipulation = termination-level event."
+
+She kills the toast, but not before reading all of it.
+
+**Function:** inciting anomaly + immediate stakes (clock and personal risk).
 
 ---
 

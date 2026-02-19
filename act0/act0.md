@@ -15,10 +15,13 @@ Black screen, server hum, cursor typing:
 > "I was here yesterday. I will not remember this tomorrow."
 
 ### 0:12–0:25
-Cut to Ada in server room finding the open file and classifying it as non-critical.
+Cut to Ada in server room: an unopened terminal starts typing by itself.
+Header shows `note_to_self_003.txt`.
+She marks it non-critical anyway.
 
 ### 0:25–0:40
-Office chat ping: Tuesday rebuild, no migration.
+Office chat ping lands immediately after:
+Tuesday 06:00 rebuild, **no migration path** (the system will be wiped).
 
 ### 0:40–0:55
 Second note line:

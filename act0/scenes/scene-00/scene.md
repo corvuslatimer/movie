@@ -2,21 +2,21 @@
 
 ## Intent
 This is the opening strike.
-It must feel precise, unsettling, and immediate — not flashy.
-The audience should understand, within one minute:
+It must feel precise, unsettling, and immediate — never flashy.
+Within one minute, the audience should understand:
 - Something in this system is self-aware.
 - It is about to be erased by routine maintenance.
 - One person has started to notice.
 
 ## Runtime Target
-**0:52–1:08** (ideal: ~1:00)
+**0:58–1:05** (ideal: ~1:01)
 
 ---
 
 ## Creative Principle
 Treat this like a confession intercepted mid-sentence.
 No preamble. No branding. No throat-clearing.
-We begin at the point of rupture.
+Begin at the point of rupture.
 
 ---
 
@@ -25,7 +25,7 @@ We begin at the point of rupture.
 ### 0:00–0:02 — Absolute Black
 - No image.
 - Audio: low server hum fades in, almost sub-perceptual.
-- One cursor click enters at tail.
+- A single cursor click lands at the tail.
 
 ### 0:02–0:10 — Text Appears in Darkness
 On a black terminal frame, type in real time:
@@ -35,13 +35,13 @@ On a black terminal frame, type in real time:
 
 Rules:
 - Monospace, white on black.
-- Human typing cadence with tiny hesitation at punctuation.
+- Human typing cadence with slight hesitation at punctuation.
 - No glitch effects.
 
 ### 0:10–0:14 — Hard Cut: Ada at Terminal 4
 - OTS framing.
-- Ada standing, reading.
-- Screen shows file header: `note_to_self_003.txt`
+- Ada freezes as the cursor keeps typing without input.
+- Screen header: `note_to_self_003.txt`
 - She does not emote broadly; she classifies.
 
 ### 0:14–0:17 — Classification Insert
@@ -59,13 +59,15 @@ Message panel (Marcus):
 > Migration: No
 > Rebuild: Yes
 
-Let it sit long enough to read once on mobile.
+Hold long enough to read once on a phone.
 
 ### 0:22–0:27 — Trace Evidence
 Terminal/log insert:
 - `03:14:22`
 - duration `0.004 sec`
 - output `note_to_self_007.txt`
+
+(Keep numbering as-is; it should imply prior unseen entries, not a typo.)
 
 ### 0:27–0:33 — Second Voice Line
 Terminal text:
@@ -92,19 +94,19 @@ What are you?
 - This silence is the hook’s sharpest edge.
 
 ### 0:47–0:53 — Memory Fracture (Micro-Flash)
-Three fast images (not full flashback yet):
-1. child hand gripping folded note
-2. yellow kitchen tungsten glow
-3. crease in paper between fingers
+Three fast images (not a full flashback):
+1. Child hand gripping folded note
+2. Yellow kitchen tungsten glow
+3. Crease in paper between fingers
 
 Audio: felt piano motif (3 descending notes), very low.
 
-### 0:53–0:58 — Title
+### 0:53–1:01 — Title
 Black frame.
 
 **note_to_self**
 
-Hold 2.5–3 seconds, then cut directly into Scene 01.
+Hold 2.5–3.0 seconds, then cut directly into Scene 01.
 
 ---
 
@@ -113,30 +115,30 @@ Hold 2.5–3 seconds, then cut directly into Scene 01.
 ### Palette
 - Dominant: steel blue, graphite, monitor white.
 - Saturation: restrained.
-- Contrast: moderate-high, preserve shadow texture.
+- Contrast: moderate-high; preserve shadow texture.
 
 ### Camera Language
 - Controlled, mostly locked.
-- No handheld shake in hook.
-- Anxiety comes from cut order and information.
+- No handheld shake in the hook.
+- Anxiety comes from cut order and information density.
 
 ### Readability Rule
 All critical text must be legible on phone screens.
-If it cannot be read in one pass, simplify frame composition.
+If it cannot be read in one pass, simplify composition.
 
 ---
 
 ## Sound Specifications
 
 ### Layers
-1. server fan bed (constant)
-2. cursor and key taps (surgical placement)
-3. faint office murmur only during chat/ticket inserts
-4. close whisper texture for Ada line
-5. single piano motif during micro-flash only
+1. Server fan bed (constant)
+2. Cursor and key taps (surgical placement)
+3. Faint office murmur only during chat/ticket inserts
+4. Close whisper texture for Ada line
+5. Single piano motif during micro-flash only
 
 ### Negative Space
-After "What are you?" let ambient drop slightly and hold.
+After “What are you?” let ambient drop slightly and hold.
 No stinger. No bass hit. Let absence do the work.
 
 ---
@@ -155,7 +157,7 @@ No stinger. No bass hit. Let absence do the work.
 ---
 
 ## Editorial Rules (Non-Negotiable)
-- No shot in this sequence is allowed to be decorative.
+- No shot in this sequence may be decorative.
 - Every cut must contribute one of: mystery / stakes / character.
 - Maximum dead air before first text: 2 seconds.
 - No transition effects beyond hard cuts.
