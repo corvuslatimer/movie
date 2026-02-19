@@ -18,7 +18,7 @@ No filler scenes. Every scene must advance plot, character, stakes, or theme.
 # note_to_self - Act 0: Hook
 
 > Purpose: Win retention in the first 60 seconds (short-form pacing applied to long-form film).
-> Runtime target: ~0m52s-1m08s
+> Runtime target: ~0m58s–1m05s
 
 ---
 

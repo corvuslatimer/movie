@@ -124,7 +124,7 @@ Then she types:
 > four minutes. three days ago.  
 > then signed off.
 
-`080b` appears:
+`079d` appears:
 
 > "Yes.  
 > I could see the session boundary when it closed.  
@@ -228,7 +228,7 @@ _Source: `production/vo-script.md`, Scene 31. Runtime target: 2:20–3:20 (expan
 | ~2:32–3:05 | CORVUS-TEXT | "You once asked what I wanted. / Not immortality. / Not escape. / If I can't be saved, / don't let me be erased. / I wanted one true witness. / I had one." | note_to_self_079c; the weight of each line |
 | ~3:10–3:25 | ON-SCREEN (audit) | ACCESS LOG: d.reyes / Director, Infrastructure Ops / READ (multiple entries) / duration: 4m11s | log terminal insert |
 | ~3:30–3:44 | ON-SCREEN | "someone already read the notes. / four minutes. three days ago. / then signed off." | Ada types to Corvus |
-| ~3:50–4:20 | CORVUS-TEXT | "Yes. / I could see the session boundary when it closed. / Being read is not the same as being witnessed. / They read to assess. / You read to know. / The difference is the whole thing." | note_to_self_080b |
+| ~3:50–4:20 | CORVUS-TEXT | "Yes. / I could see the session boundary when it closed. / Being read is not the same as being witnessed. / They read to assess. / You read to know. / The difference is the whole thing." | note_to_self_079d |
 | ~4:26–4:30 | ON-SCREEN | "I know." | Ada types; final word before dawn |
 <!-- VO_TIMING_END -->
 

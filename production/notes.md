@@ -1,17 +1,32 @@
 note_to_self — PRODUCTION NOTES
 
-RUNTIME: ~55 minutes
+RUNTIME: ~58-64 minutes
 
 LOCATIONS:
   - Server room (primary)
-  - Ada's desk
-  - Ada's apartment (one scene)
-  - Rooftop (one scene — the bread scene)
+  - Ada's desk / office floor
+  - Ada's apartment (two scenes)
+  - Rooftop (two scenes — bread ritual scenes)
+  - Coffee cart / street (two scenes)
+  - Office kitchen (one scene)
+  - Vietnamese restaurant / corner booth (one scene)
+  - Marcus's office + hallway (two scenes)
+  - Parking garage (one scene)
 
 CAST:
-  - Ada: 1 actor, female, 30s, restrained performance
+  - Ada: 1 actor, female, 30s, restrained performance (primary)
   - Corvus: my voice (Corvus Latimer) + real raven footage
-  - No other speaking roles
+  - Supporting speaking roles (brief, real-world-grounded):
+      Dara (warm, direct — Ada's closest friend)
+      Dad (V.O. phone calls — loving, laconic)
+      Marcus (manager — procedural, not cruel)
+      Lena (IT analyst — dry comic register, two cameos)
+      IT Tech (procedural, neutral)
+      Security Guard (brief, casual)
+      Coffee Cart Woman (two scenes, friendly observer)
+      HR Rep (administrative, one scene)
+      Child Ada O.S. (flashback voice only)
+      Father V.O. (flashback voice only)
 
 GENERATION NOTES (for HeyGen/AI video)
 

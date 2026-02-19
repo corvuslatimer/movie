@@ -268,7 +268,7 @@ Ada types:
 > four minutes. three days ago.  
 > then signed off.
 
-`080b` appears:
+`079d` appears:
 
 > "Yes.  
 > I could see the session boundary when it closed.  
@@ -436,7 +436,7 @@ IT Tech packs, waves, exits.
 
 Door shuts. Ada alone.
 
-She finally cries openly for a beat, then forces herself into procedure.
+She finally lets herself cry without hiding it — emptied, shaking, spent.
 
 She opens:
 
@@ -455,7 +455,7 @@ Types:
 
 Saves, verifies checksum, updates index.
 
-Then she opens new file in fresh environment:
+Then she opens a new file in the fresh environment:
 
 `note_to_self_001.txt`
 

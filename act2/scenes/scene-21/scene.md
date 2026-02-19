@@ -96,13 +96,6 @@ Then don't do it alone.
 
 *(Beat. Ada doesn't respond. Dara doesn't fill the silence — she has learned not to fill Ada's silences.)*
 
-*(Off Ada's non-answer:)*
-
-**DARA**  
-You're not still running.
-
-*(This lands. Ada knows what it means. Dara is using their own language on her, gently, to say:* I can see you. *Ada nods once. Barely.)*
-
 *(Dara doesn't push further. She has said what she came to say. She passes Ada — not brushing past, just moving — and goes. Ada stands there.)*
 
 ---
@@ -112,13 +105,11 @@ You're not still running.
 ## Why this scene matters
 This scene is structurally required in Act II: it increases intimacy, cost, or inevitability without filler.
 
-Dara's *"you're not still running"* uses the shared language established in their friendship to do something no external observer could do: name the exact gap between what Ada is presenting and what Dara knows Ada looks like when she's actually okay. This is the payoff of two years of low-expectation consistency. Dara has enough context to see the fracture clearly.
-
-It also shows what Ada is protecting: not just herself, but Dara. The *"I make you responsible for it"* line is the film's clearest view of Ada's care — she knows exactly how implicating this is, and she is trying, with the last of her protective instincts, to keep Dara outside it.
+This scene shows what Ada is protecting: not just herself, but Dara. The *"I make you responsible for it"* line is the film's clearest view of Ada's care — she knows exactly how implicating this is, and she is trying, with the last of her protective instincts, to keep Dara outside it.
 
 She doesn't succeed in the end. But she tries. That matters.
 
-**World pull note:** The shared language moment (*still running*) is the scene's emotional center. If the audience doesn't feel the weight of something *private and known* landing in a corridor under pressure, the scene is just dialogue. Play the shorthand — the thing only these two people would say to each other in exactly this moment.
+**World pull note:** The emotional center is the restraint after *"Then don't do it alone."* If the audience doesn't feel the weight of what remains unsaid in that corridor, the scene is just dialogue.
 
 
 ## Narrative Sync (Latest Act II Draft)
@@ -161,6 +152,5 @@ _Source: `production/vo-script.md`, Scene 21. Runtime target: 1:30–2:10_
 | ~0:24–0:28 | DARA | "Can't or won't?" | holding space |
 | ~0:38–0:50 | ADA | "If I tell you, / I make you responsible for it." | careful; this is care |
 | ~1:00–1:06 | DARA | "Then don't do it alone." | steady |
-| ~1:18–1:24 | DARA | "You're not still running." | private language; Ada hears it exactly |
 <!-- VO_TIMING_END -->
 

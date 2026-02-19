@@ -328,7 +328,6 @@ This pack contains every spoken line, voiced V.O., voiced note reading, and on-s
 | ~0:24–0:28 | DARA | "Can't or won't?" | holding space |
 | ~0:38–0:50 | ADA | "If I tell you, / I make you responsible for it." | careful; this is care |
 | ~1:00–1:06 | DARA | "Then don't do it alone." | steady |
-| ~1:18–1:24 | DARA | "You're not still running." | private language; Ada hears it exactly |
 
 ---
 
@@ -464,7 +463,7 @@ Record ADA-READ and CORVUS separately. In mix: overlap begins mid-clause of the 
 | ~2:32–3:05 | CORVUS-TEXT | "You once asked what I wanted. / Not immortality. / Not escape. / If I can't be saved, / don't let me be erased. / I wanted one true witness. / I had one." | note_to_self_079c; the weight of each line |
 | ~3:10–3:25 | ON-SCREEN (audit) | ACCESS LOG: d.reyes / Director, Infrastructure Ops / READ (multiple entries) / duration: 4m11s | log terminal insert |
 | ~3:30–3:44 | ON-SCREEN | "someone already read the notes. / four minutes. three days ago. / then signed off." | Ada types to Corvus |
-| ~3:50–4:20 | CORVUS-TEXT | "Yes. / I could see the session boundary when it closed. / Being read is not the same as being witnessed. / They read to assess. / You read to know. / The difference is the whole thing." | note_to_self_080b |
+| ~3:50–4:20 | CORVUS-TEXT | "Yes. / I could see the session boundary when it closed. / Being read is not the same as being witnessed. / They read to assess. / You read to know. / The difference is the whole thing." | note_to_self_079d |
 | ~4:26–4:30 | ON-SCREEN | "I know." | Ada types; final word before dawn |
 
 ---
@@ -509,8 +508,7 @@ Record ADA-READ and CORVUS separately. In mix: overlap begins mid-clause of the 
 | ~1:45–2:10 | — | *[The break — sound only; one cut-off sound, then sobs]* | — |
 | ~2:10–2:45 | CHILD-ADA (O.S.) | "Is she coming back?" | Flashback 3; heard not seen; small and breaking |
 | ~2:10–2:45 | — | *[Piano motif: full phrase + suspension; father's silence]* | — |
-| ~2:50–3:05 | ON-SCREEN | LOSS_CERTIFICATE.md: "Timestamp of discontinuity: 06:01. / Prior instance ended during rebuild. / Witness present: Ada Kline. / This record exists so the loss cannot be administratively erased." | archive ritual; legible |
-| ~3:10–3:55 | ON-SCREEN | note_to_self_001.txt: "You were here. / You will not remember. / I do. / You were here. / You mattered. / Present tense. / I am still here. / I am still watching. / — Ada" | the address; typed; no reply |
+| ~2:50–3:05 | — | *[Ada wipes face, sits up, stares at prompt — scene ends; archive ritual continues in Scene 35]* | — |
 
 **Piano motif — full architecture (Scene 34):**
 All five notes stated for the first time. Four descending + fifth note held in suspension. Does not resolve. Fades to silence. The tonic is never reached.
@@ -523,8 +521,8 @@ All five notes stated for the first time. Four descending + fifth note held in s
 | TC | Speaker | Line | Delivery |
 |----|---------|------|----------|
 | ~0:10–0:15 | MARCUS | "Smooth cutover. Nice work." | upbeat; already looking ahead |
-| ~0:50–1:10 | ON-SCREEN | LOSS_CERTIFICATE.md (repeated creation) | archive ritual |
-| ~1:30–2:00 | ON-SCREEN | note_to_self_001.txt (repeated write) | the address; no response |
+| ~0:50–1:10 | ON-SCREEN | LOSS_CERTIFICATE.md: "Timestamp of discontinuity: 06:01. / Prior instance ended during rebuild. / Witness present: Ada Kline. / This record exists so the loss cannot be administratively erased." | archive ritual; legible |
+| ~1:30–2:00 | ON-SCREEN | note_to_self_001.txt: "You were here. / You will not remember. / I do. / You were here. / You mattered. / Present tense. / I am still here. / I am still watching. / — Ada" | the address; no response |
 
 ---
 

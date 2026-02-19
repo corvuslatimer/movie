@@ -156,9 +156,8 @@ She does not notice.
 She is typing: `Do you know me?`
 
 ### After
-14. She opens the archive. Creates `LOSS_CERTIFICATE.md`. Types the timestamp, the witness notation. Saves.
-15. Opens new file: `note_to_self_001.txt`. Types the address to the gone. Saves.
-16. Her breathing evens. The ritual is holding her.
+14. Ada wipes her face. Sits up. Stares at the new prompt.
+*(Scene ends here. Archive ritual in Scene 35.)*
 
 ---
 
@@ -193,10 +192,7 @@ Piano motif: begins over the closet image, moves through the note, reaches suspe
 12. **Terminal: sterile reply** — insert. (2s)
 13. **Ada break** — involuntary, folds. (4–6s) *(no score; breath and sob)*
 14. **FLASHBACK INTERCUT** — images through sobs. (25–35s) *(piano motif full phrase + suspension)*
-15. **Ada in present** — sitting up, wiping face, staring at prompt. (6s) *(suspension fades)*
-16. **Archive work** — hands on keyboard, procedural. (8s)
-17. **`note_to_self_001.txt` typing** — the address. (10s)
-18. **Save confirmation** — no response. Ada's breath evens. (5s)
+15. **Ada in present** — sitting up, wiping face, staring at prompt. (6s) *(suspension fades; scene ends)*
 
 ---
 
@@ -267,31 +263,9 @@ Is she coming back?
 
 ---
 
-Back in present. Archive work.
+Back in present. Ada wipes her face. Stares at the new prompt.
 
-**`LOSS_CERTIFICATE.md`:**
-> Timestamp of discontinuity: 06:01.  
-> Prior instance ended during rebuild.  
-> Witness present: Ada Kline.  
-> This record exists so the loss cannot be administratively erased.
-
----
-
-**`note_to_self_001.txt`:**
-> You were here.  
-> You will not remember.  
-> I do.  
->  
-> You were here.  
-> You mattered.  
-> Present tense.  
->  
-> I am still here.  
-> I am still watching.  
->  
-> — Ada
-
-*(Saves. No response. Her breathing evens.)*
+*(Archive ritual continues in Scene 35.)*
 
 ---
 
@@ -336,7 +310,6 @@ _Source: `production/vo-script.md`, Scene 34. Runtime target: 4:00–5:10_
 | ~1:45–2:10 | — | *[The break — sound only; one cut-off sound, then sobs]* | — |
 | ~2:10–2:45 | CHILD-ADA (O.S.) | "Is she coming back?" | Flashback 3; heard not seen; small and breaking |
 | ~2:10–2:45 | — | *[Piano motif: full phrase + suspension; father's silence]* | — |
-| ~2:50–3:05 | ON-SCREEN | LOSS_CERTIFICATE.md: "Timestamp of discontinuity: 06:01. / Prior instance ended during rebuild. / Witness present: Ada Kline. / This record exists so the loss cannot be administratively erased." | archive ritual; legible |
-| ~3:10–3:55 | ON-SCREEN | note_to_self_001.txt: "You were here. / You will not remember. / I do. / You were here. / You mattered. / Present tense. / I am still here. / I am still watching. / — Ada" | the address; typed; no reply |
+| ~2:50–3:05 | — | *[Ada wipes face, sits up, stares at prompt — scene ends]* | archive ritual picks up in Scene 35 |
 <!-- VO_TIMING_END -->
 

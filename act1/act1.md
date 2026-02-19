@@ -166,12 +166,26 @@ You okay?
 **ADA**  
 Yeah. Just tired.
 
+Dara doesn’t believe her. Lets it pass.
+
+Then Lena enters — grabbing coffee, reading the room from a distance.
+
+**LENA**  
+*(not quite to them)*  
+You look like someone told you the AI went sentient.  
+*(beat)*  
+Finally.
+
+She exits. Already onto the next thing.
+
+Beat. Dara watches Ada’s face.
+
 **DARA**  
-You’ve been weird since the refresh thread. Don’t get yourself fired over a ghost in the logs.
+Don’t get yourself fired chasing ghosts in the logs.
 
-Dara doesn’t believe her, but lets it go.
+Ada holds the smile for two seconds after Lena’s gone. Then it goes.
 
-**Function:** external pressure begins; Ada’s secrecy has cost.
+**Function:** external pressure begins; Ada’s secrecy has cost. Lena names the thing in the wrong key — the world is present, friendly, and looking the other way.
 
 ---
 
