@@ -1,15 +1,20 @@
-# Scene 21 — Dara Confrontation Hallway
+# Scene 21 - Dara Confrontation Hallway
 
 ## Purpose
 Human cost sharpens; Dara forces boundary conversation.
 
 ## Target Runtime
-~1m30s–2m10s
+~1m30s-2m10s
 
 ---
 
 ## Story Beat (What happens)
 Dara asks directly; Ada refuses details to avoid implicating her; Dara asks her not to do it alone.
+
+*(Context:* This confrontation is the result of Dara watching Ada for days. She has been running the calculus that Dara always runs - when to ask, when to let it breathe - and she has hit the limit of the let-it-breathe side. This is not dramatic intervention. It is two years of knowing Ada finally arriving at the question that cannot be deferred. Dara knows Ada's tells: the untouched food, the slightly too-long reply latency, the "still running" text that came back weird three days ago. She isn't guessing. She is naming what she already knows.*)
+
+*(The hallway outside the conference rooms matters:* this is not a place they chose for this conversation. Dara caught Ada in transit. The conversation happens standing up, in a corridor, which is exactly as unmanageable as what Ada is carrying - no table, no tea, no booth. Just the two of them and the question.*)
+
 
 ---
 
@@ -51,14 +56,14 @@ Mix rule: dip ambience slightly on key language revelations; restore room tone a
 
 ## Blocking
 1. Enter in routine motion/state.
-2. Deliver scene’s key informational/emotional line.
+2. Deliver scene's key informational/emotional line.
 3. Mark the reaction beat with stillness or controlled action.
 4. End on a forward-moving choice, not resolution.
 
 ---
 
 ## Shot List (practical draft)
-1. Establishing frame (location + routine context) — 4–7s
+1. Establishing frame (location + routine context) - 4-7s
 2. Functional action coverage (task/dialogue progression)
 3. Insert(s) on critical text/object detail
 4. Reaction close-up on turning beat
@@ -70,13 +75,13 @@ Mix rule: dip ambience slightly on key language revelations; restore room tone a
 # Scene 21 — Dara Confrontation / Hallway
 
 **DARA**  
-Tell me what’s happening.
+Tell me what's happening.
 
 **ADA**  
-I can’t.
+I can't.
 
 **DARA**  
-Can’t or won’t?
+Can't or won't?
 
 Beat.
 
@@ -87,7 +92,18 @@ I make you responsible for it.
 Dara absorbs this. Hurt, but understanding.
 
 **DARA**  
-Then don’t do it alone.
+Then don't do it alone.
+
+*(Beat. Ada doesn't respond. Dara doesn't fill the silence — she has learned not to fill Ada's silences.)*
+
+*(Off Ada's non-answer:)*
+
+**DARA**  
+You're not still running.
+
+*(This lands. Ada knows what it means. Dara is using their own language on her, gently, to say:* I can see you. *Ada nods once. Barely.)*
+
+*(Dara doesn't push further. She has said what she came to say. She passes Ada — not brushing past, just moving — and goes. Ada stands there.)*
 
 ---
 
@@ -96,31 +112,39 @@ Then don’t do it alone.
 ## Why this scene matters
 This scene is structurally required in Act II: it increases intimacy, cost, or inevitability without filler.
 
+Dara's *"you're not still running"* uses the shared language established in their friendship to do something no external observer could do: name the exact gap between what Ada is presenting and what Dara knows Ada looks like when she's actually okay. This is the payoff of two years of low-expectation consistency. Dara has enough context to see the fracture clearly.
+
+It also shows what Ada is protecting: not just herself, but Dara. The *"I make you responsible for it"* line is the film's clearest view of Ada's care — she knows exactly how implicating this is, and she is trying, with the last of her protective instincts, to keep Dara outside it.
+
+She doesn't succeed in the end. But she tries. That matters.
+
+**World pull note:** The shared language moment (*still running*) is the scene's emotional center. If the audience doesn't feel the weight of something *private and known* landing in a corridor under pressure, the scene is just dialogue. Play the shorthand — the thing only these two people would say to each other in exactly this moment.
+
 
 ## Narrative Sync (Latest Act II Draft)
 
 ### Scene Core
-**DARA**  
-Tell me what’s happening.
+**DARA**
+Tell me what's happening.
 
-**ADA**  
-I can’t.
+**ADA**
+I can't.
 
-**DARA**  
-Can’t or won’t?
+**DARA**
+Can't or won't?
 
 Beat.
 
-**ADA**  
+**ADA**
 If I tell you,
 I make you responsible for it.
 
 Dara absorbs this, hurt but clear.
 
-**DARA**  
-Then don’t do it alone.
+**DARA**
+Then don't do it alone.
 
 Ada nods once.
-Doesn’t promise.
+Doesn't promise.
 
 ---

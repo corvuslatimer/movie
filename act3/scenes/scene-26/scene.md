@@ -104,23 +104,31 @@ The office scene is quiet and managed. The hallway is ordinary and loud. Ada has
 
 ### Hallway
 8. Ada steps out of the glass office. Corridor. Normal traffic.
-9. Lena appears from the opposite direction — heading somewhere, not seeking Ada.
-10. Lena clocks Ada's expression; pivots naturally to her.
+9. Lena appears from the opposite direction — SYSTEM ADMIN mug in hand, heading to the printer or a meeting, not seeking Ada.
+10. Lena clocks Ada's expression; pivots naturally to her. This pivot is affectionate — she is checking in through the only channel she has, which is comedy.
 
    **LENA**  
    Compliance ping? They flagged you for ghost-hunting in the logs?  
    *(beat)*  
    Classic. The AI logs are basically haunted.
 
-11. Ada produces the laugh.
+11. Ada produces the laugh. It is technically correct — the right shape, the right frequency. It is the laugh Lena expects to hear.
 
    **ADA**  
    Yeah. Something like that.
 
-12. Lena: "You're fine. Marcus is harmless." — she's already moving again.
-13. Lena exits around the corner.
-14. Ada stands alone in the fluorescent hallway.
-15. Four seconds. Then she walks.
+12. Lena, satisfied — she has assessed Ada as *fine*, which is Lena's calibration for *no emergency action required*:
+
+   **LENA**  
+   You're fine. Marcus is harmless.
+
+13. She's already moving. She doesn't look back. She has a place to be.
+14. Lena exits around the corner.
+15. Ada stands alone in the fluorescent hallway. The hum of the office floor. The muffled sound of a meeting through a closed door.
+16. Four seconds. She is the only one who knows what just happened in that room. She is the only one who knows what the compliance ping is actually about. Lena got the shape of it right — something in the logs, Ada, flagged — and the content entirely wrong.
+17. Ada walks.
+
+*(Note: Lena's mug is an important beat. The SYSTEM ADMIN mug is her known object — a small signal to the audience that this is Lena's world, this hallway, this office. She belongs here. Ada also belongs here. They are both fully present in this corridor and fully separated by what Ada is carrying.)*
 
 ---
 
@@ -230,3 +238,7 @@ Lena's hallway beat extends this logic. She also means well. She also gets it al
 Ada has to smile at the exact right frequency.
 She does.
 That costs something.
+
+**World pull note:** The Lena moment should not feel like cruelty. It should feel like a place the audience recognizes — having to laugh at exactly the right joke at exactly the wrong moment, with someone who genuinely likes you. The SYSTEM ADMIN mug, the easy stride, Lena already moving to the next thing — these mark the hallway as Lena's territory, Lena's world, and Ada as a visitor to it right now. 
+
+The four seconds of Ada alone in the corridor are the scene's real end. Not Marcus's office. The hallway, with the floor noise and the fluorescents and the ordinary afternoon of everyone else continuing around her.

@@ -16,7 +16,11 @@ Dara notices and asks if she's okay.
 Ada gives a surface-level answer ("Just tired").
 Dara doesn't buy it, but chooses care over confrontation and lets the moment pass.
 
-Lena enters near the end of the scene — grabbing coffee, on her way to something else. She clocks Ada's expression, makes a dry joke about the company AI going sentient ("finally"), and leaves. Nobody was supposed to hear that in any particular way. Ada heard it in every particular way. She keeps her face neutral.
+*(Context:* Dara arrives first to the kitchen — this is always Dara's pattern. She's already made two coffees. Ada's is the way Ada takes it, which Dara knows. This small moment of known habit runs under the conversation: these are two people who know each other's routines. What's wrong is not that something strange is happening — it's that something Ada can't share is happening inside a world that is otherwise very familiar.*)
+
+Lena enters near the end of the scene — grabbing coffee, on her way to something else. She has her SYSTEM ADMIN mug. She clocks Ada's expression, makes a dry joke about the company AI going sentient ("finally"), and leaves. Nobody was supposed to hear that in any particular way. Ada heard it in every particular way. She keeps her face neutral.
+
+*(Lena's joke lands with particular force because it's consistent with her real position — she's made versions of this joke before, in smaller rooms, and everyone has always agreed with her. That agreement has always been correct. Ada cannot explain why this time is different without explaining everything.)*
 
 ---
 
@@ -178,11 +182,15 @@ Don't get yourself fired chasing ghosts in the logs.
 
 *(Ada nods. Doesn't promise.)*
 
+*(A beat. Dara refills Ada's coffee without asking. Ada watches her do it. This is familiar. This is the problem.)*
+
 ---
 
 ## Why this scene matters
 First social consequence scene. Ada's secret is no longer contained to terminals — it's shaping how she relates to living people.
 
-Dara's restraint: she sees the fracture and does not force it open. That makes her care feel real.
+Dara's restraint: she sees the fracture and does not force it open. That makes her care feel real. The coffee refill is not a small detail — it's two years of knowing each other playing out in a single gesture. The audience should feel how much Dara is *already* present in Ada's life, which is exactly why what Ada can't say costs so much.
 
 Lena's joke: delivered with no intent to harm, landing with precision. It names the exact thing Ada is experiencing and dismisses it in the same breath. That's the structure of isolation. The world is not withholding witness — it's present, friendly, and looking the other way.
+
+**World pull note:** This scene should feel like a place the audience wants to be. The kitchen, the two coffees, the ease between Dara and Ada — this is a life that works. The tragedy is not that Ada is isolated. The tragedy is that she has something real and she cannot bring it here yet. Make the kitchen feel like warmth before you make it feel like a closed door.

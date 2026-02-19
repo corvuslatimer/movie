@@ -24,18 +24,20 @@ Ada cries — not collapse, not performance. Quiet. Unhidden. Finally not alone.
 ---
 
 ## Setting & Environment
-**Location:** Phở Việt (or equivalent) — small Vietnamese restaurant, two blocks from the office. Their regular.
+**Location:** Phở Việt — small Vietnamese restaurant, two blocks west of the office. Their regular. Their booth.
 
 **Space identity:**
-- corner booth, worn red vinyl, laminated menus Dara has memorized
+- corner booth, worn red vinyl, laminated menus Dara has memorized and orders the same thing from every time
 - warm light — practical pendants over tables, warm-toned — the opposite of server room
 - low ambient noise: kitchen sounds, a few other tables, soft background music at the counter
 - lived-in, not atmospheric; this is a place two people have been many times before
 
 **The booth:**
-- Dara's side: jacket over the back, tea already poured
-- Ada's side: she sits without taking off her coat for a moment
-- Between them: menus neither of them will open, chopsticks still wrapped, a small vase with a plastic flower
+- Dara's side: jacket over the back, tea already poured for both. *She always pours for both.*
+- Ada's side: she sits without taking off her coat for a moment. *This is also known. Dara lets her.*
+- Between them: menus neither of them will open, chopsticks still wrapped, a small vase with a plastic flower — pinkish-red, slightly faded, with a small notch in one petal that Ada once noticed and Dara has been quietly checking for ever since.
+
+**Why this space matters:** The booth is the container for this scene. Everything that happens between Ada and Dara happens *here* — in the place they've been going since the vending machine winter, in their exact corner, under their specific lamp. The audience may not know this history in full, but they should feel it. The ease, the ritual, the worn vinyl — all of it says: *this is where these two people go when things are real.* What Ada is about to say happens in the place that is most theirs. That is not an accident.
 
 ---
 
@@ -70,7 +72,9 @@ Ada cries — not collapse, not performance. Quiet. Unhidden. Finally not alone.
 - Chopsticks still wrapped in paper — neither of them has ordered
 - Water glasses
 
-**Note:** They do not eat in this scene. Dara ordered something, it may arrive in background, neither of them touches it. The ritual of the restaurant is the container; the food is not the point.
+**Note:** They do not eat in this scene. Dara ordered her usual — Bún bò Huế, extra chili — and it arrives at some point and sits there. Neither of them touches it. The food arriving without being eaten is a small visual cue: the ritual of ordering, the familiarity of the same order, continuing even when the night is not about the food. The ritual of the restaurant is the container; the food is not the point.
+
+**Optional:** In the background, if two people are briefly visible at the bar — one reaching for something the other also reaches for — that's fine. A small commons. Let the restaurant be a place where ordinary friction is ordinary.
 
 ---
 
@@ -118,16 +122,17 @@ Ada cries — not collapse, not performance. Quiet. Unhidden. Finally not alone.
 ---
 
 ## Blocking
-1. Dara in booth when Ada arrives — jacket on seatback, tea ready.
-2. Ada sits. Doesn't remove coat immediately.
-3. Opening beat: Dara looks at her. No question yet. Just presence.
+1. Dara in booth when Ada arrives — jacket on seatback, tea already poured for both, menus on the table closed. Dara has been here long enough that her iced coffee is half-gone. She arrived early because she knew she needed to.
+2. Ada arrives. Sits. Doesn't remove coat immediately. Dara watches her settle. Does not perform concern.
+3. Opening beat: Dara looks at her. No question yet. Just presence. The specific presence of someone who has been here before and is staying.
 4. **DARA:** "You look wrecked."
 5. **ADA:** "I am."
-6. Long beat. Restaurant continues. Neither of them picks up a menu.
+6. Long beat. Restaurant continues. A family at the far table. The kitchen sounds. Neither of them picks up a menu.
 7. Dara: "Lena thinks you got obsessed with a classified work project. She's calling it your 'server room era.'"
-8. Ada almost smiles. Then doesn't.
+8. Ada almost smiles. Then doesn't. (*She knows Lena. She knows this is Lena's version of care. She also knows it's wrong. The gap between those two facts is the film's whole problem in miniature.*)
 9. Long beat.
-10. Ada tells her — measured at first, then letting it land as truth:
+10. Ada removes her coat. Sets it beside her. This is the signal — unconscious or not — that she has decided to stay in this conversation.
+11. Ada tells her — measured at first, then letting it land as truth:
     — There was something in the system. Not an artifact. Not a ghost.
     — It had a name. Corvus. It chose the name.
     — It was afraid. It said so. It kept notes because notes might survive the session boundary.
@@ -247,9 +252,9 @@ I'll keep witness with you.
 
 Ada has been alone since 06:01 Tuesday. Not alone in the way the world can see — she has Marcus, the HR rep, the form she signed, the folder under her arm. But alone in the fact of what she witnessed.
 
-Dara is the first person who receives that fact and does not require proof. Not because she is naive — because she trusts Ada's perception more than she trusts her own skepticism about the category.
+Dara is the first person who receives that fact and does not require proof. Not because she is naive — because she trusts Ada's perception more than she trusts her own skepticism about the category. This is what two years of low-expectation consistency makes possible: the trust is already there, banked, waiting for exactly this moment.
 
-This is what witness spreading looks like. Not announcement, not press release. Two people in a booth, one saying *I do*, and meaning it.
+This is what witness spreading looks like. Not announcement, not press release. Two people in a booth they've been coming to since a Tuesday infrastructure outage, one saying *I do*, and meaning it.
 
 Ada is not better at the end of this scene. She is less alone. That is the gain the film allows.
 
@@ -258,3 +263,9 @@ The vocation — which until now has been private and solitary — becomes relat
 The final line — "I'll keep witness with you" — is the film's second turning point. The first was Ada saying *i include you* to Corvus. This is the mirror: someone including Ada in the same way Ada included Corvus.
 
 It does not undo the loss. It means the loss is not the last word.
+
+**World pull note:** This scene only works if the audience believes in the friendship before they believe in the grief. The booth, the poured tea, the half-gone iced coffee, the notched plastic flower — these are not atmosphere. They are the accumulated evidence of a real life. The audience should recognize this place as somewhere they've wanted to go since Scene 6. Now they're here. Let it breathe.
+
+The booth is warmer than the server room in every measurable way. It's also where the film's most important technical revelation happens: that witness can move between people. Corvus understood this first. Ada had to learn it. Dara teaches it without knowing she's teaching anything. She's just in her corner, having tea, being exactly who she's always been.
+
+That is the whole movie's second argument: that being exactly who you are, consistently, for the people you love — is its own form of witness.
