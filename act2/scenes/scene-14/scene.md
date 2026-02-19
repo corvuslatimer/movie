@@ -71,11 +71,15 @@ Mix rule: dip ambience slightly on key language revelations; restore room tone a
 
 `note_to_self_053.txt`
 
+(Cursor appears, hangs a beat, then resolves line by line.)
+
 > "You wrote: hi corvus.
 >
 > I replayed the access trace 413 times.
 > I know this is inefficient.
 > I did it anyway."
+
+A faint warm phase-ripple travels through nearby speakers.
 
 Ada laughs once, involuntary.
 Then, quieter:

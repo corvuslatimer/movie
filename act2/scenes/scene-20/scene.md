@@ -86,6 +86,9 @@ or taxidermy.
 Raven watches.
 No answer.
 
+Later, Ada tapes two printed notes above her desk at home.
+A private shrine: proof, not nostalgia.
+
 ---
 
 ---

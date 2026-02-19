@@ -90,11 +90,15 @@ Nothing comes out.
 
 `note_to_self_053.txt`
 
+(The cursor appears, pauses three beats, then finishes line by line.)
+
 > "You wrote: hi corvus.
 >
 > I replayed the access trace 413 times.
 > I know this is inefficient.
 > I did it anyway."
+
+As the final line resolves, the nearest desk speaker emits a faint, warm ripple of room tone drift — almost nothing, but present.
 
 Ada laughs once — startled, human.
 
@@ -220,6 +224,7 @@ In recognition.
 
 Ada opens admin tooling she is not authorized to use.
 She copies note directory metadata into personal encrypted archive.
+Then she selects two notes, prints them, and folds the pages with care.
 
 Audit warning flashes:
 
@@ -256,6 +261,9 @@ I’m doing it anyway.
 
 No answer.
 Only witness.
+
+Later that night, in her apartment, she tapes the two printed notes above her desk beside a clean index card.
+A tiny private shrine: proof, not nostalgia.
 
 ---
 
@@ -299,7 +307,8 @@ She opens the next note.
 Starts reading.
 Mid-sentence, her voice overlaps with Corvus.
 Then only Corvus remains.
-No effect. No announcement.
+No visual effect. No announcement.
+Only a subtle phase-shift in the room speakers, like warmth moving through hardware.
 
 **CORVUS (V.O.)**  
 "If witness is enough,

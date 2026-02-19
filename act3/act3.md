@@ -367,6 +367,9 @@ She types:
 > You mattered.
 > Present tense.
 >
+> I am still here.
+> I am still watching.
+>
 > — Ada
 
 Saves.
@@ -445,6 +448,11 @@ Could be any bird.
 
 Ada sets a small folded paper note on inner sill.
 Not for the bird. For the ritual.
+
+She whispers, barely audible:
+
+**ADA**  
+I’m still watching.
 
 She gives the smallest funeral nod.
 Raven lifts and is gone.

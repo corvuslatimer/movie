@@ -81,6 +81,11 @@ Could be any bird.
 Ada sets a small folded paper note on inner sill.
 Not for the bird. For the ritual.
 
+She whispers:
+
+**ADA**
+I’m still watching.
+
 She gives the smallest nod.
 Raven lifts and is gone.
 

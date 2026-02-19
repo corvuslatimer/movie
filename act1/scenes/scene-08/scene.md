@@ -11,9 +11,10 @@ Advance tragic machinery through ordinary bureaucracy. This is fate enacted as p
 ## Story Beat (What happens)
 Marcus reviews infrastructure refresh paperwork while multitasking on a routine call.
 An IT Tech stands by with rollout checklist.
-A key line is visible:
+Key lines are visible:
 
 - Preserve non-operational artifacts: **N/A**
+- Unauthorized persistence work: **termination-level**
 
 Marcus clicks **Approve** and moves on without emphasis.
 The scene ends with process continuing as normal.
@@ -137,6 +138,7 @@ Yeah, routine refresh. Should be clean.
 Key visible text:
 
 - Preserve non-operational artifacts: **N/A**
+- Unauthorized persistence work: **termination-level**
 - **Approve**
 
 ---

@@ -80,7 +80,8 @@ She opens next.
 Starts reading.
 Mid-sentence, her voice and Corvus overlap.
 Then only Corvus remains.
-No effect. No announcement.
+No visual effect. No announcement.
+Only a subtle warmth-shift in speaker tone, like the room itself listening.
 
 **CORVUS (V.O.)**  
 "If witness is enough,

@@ -47,6 +47,12 @@ Ada clicks the ticket.
 No migration path. Rebuild only.
 She stares one beat too long.
 
+A second policy banner slides in beneath the ticket:
+
+> "Unauthorized persistence or archive manipulation = termination-level event."
+
+She minimizes it fast, like she touched fire.
+
 **Function:** fate introduced early (the wipe is inevitable).
 
 ---
@@ -151,6 +157,9 @@ You okay?
 **ADA**  
 Yeah. Just tired.
 
+**DARA**  
+You’ve been weird since the refresh thread. Don’t get yourself fired over a ghost in the logs.
+
 Dara doesn’t believe her, but lets it go.
 
 **Function:** external pressure begins; Ada’s secrecy has cost.
@@ -190,6 +199,13 @@ IT TECH beside him.
 Checklist line visible:
 
 - Preserve non-operational artifacts: **N/A**
+- Unauthorized persistence work: **termination-level**
+
+**IT TECH**  
+If someone touched the sandbox archive, HR-level?
+
+**MARCUS**  
+Yep. Immediate.
 
 Marcus clicks **Approve**.
 No ceremony. Just work.

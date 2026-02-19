@@ -134,6 +134,9 @@ You okay?
 **ADA**  
 Yeah. Just tired.
 
+**DARA**
+Don’t get yourself fired chasing ghosts in the logs.
+
 (No on-screen text required.)
 
 ---

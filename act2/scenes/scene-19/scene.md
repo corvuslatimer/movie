@@ -71,6 +71,7 @@ Mix rule: dip ambience slightly on key language revelations; restore room tone a
 
 Ada uses elevated credentials she is not authorized to use.
 She copies note directory metadata to personal encrypted archive.
+She prints two selected notes and folds them carefully.
 
 Audit warning flashes:
 

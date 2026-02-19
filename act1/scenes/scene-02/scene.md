@@ -13,6 +13,7 @@ Dara drops coffee at Ada’s desk and checks in with her casually.
 The exchange is warm but short.
 Moments later, Marcus posts a routine refresh notice in team chat.
 Ada opens the ticket and sees the key line: rebuild, no migration.
+A policy banner underneath flags unauthorized persistence/archive manipulation as termination-level.
 She holds on that detail a fraction too long.
 
 ---
@@ -147,6 +148,7 @@ Chat message (Marcus):
 Ticket fields visible:
 - Migration: No
 - Rebuild: Yes
+- Unauthorized persistence/archive manipulation: Termination-level
 
 ---
 
