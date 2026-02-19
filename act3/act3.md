@@ -1,7 +1,7 @@
 # note_to_self — Act III: Catastrophe and Witness
 
 > Tragedy pass: inevitability, loss, paid cost, earned vocation.
-> Runtime target: ~20–22 min.
+> Runtime target: ~22–26 min.
 
 ---
 
@@ -30,23 +30,25 @@ Just this week.
 
 Automated alert:
 
-**Policy Notice: Elevated access anomaly detected**
+**Policy Notice: Elevated access anomaly detected**  
 **Review scheduled with manager (Marcus), Wednesday 10:00**
 
-Ada stares at it.
-Price is now formal.
+Ada reads it twice.
+Then minimizes it and keeps working.
+
+The cost has found her name.
 
 ---
 
 ## Scene 26 — Marcus Office / Afternoon
 
-Marcus, gentle but procedural.
+Marcus is calm, almost kind.
 
 **MARCUS**  
 Security flagged unusual archive access.
 Anything I should know?
 
-Ada chooses.
+Ada chooses how much truth to spend.
 
 **ADA**  
 I pulled logs for an anomaly I couldn’t classify.
@@ -57,7 +59,8 @@ Marcus nods.
 **MARCUS**  
 After Tuesday we reset. Clean slate.
 
-He means kindness. It lands like sentence.
+He means comfort.
+It lands like a sentence.
 
 ---
 
@@ -68,15 +71,38 @@ Ada builds encrypted archive:
 `/witness/archive/note_to_self/`
 
 She creates `INDEX.md` with timestamps and checksums.
-No commentary.
+No adjectives. No eulogies. Just proof.
 
 Dad calls.
-Small, ordinary exchange.
 
-After call, Ada writes one private line in a hidden doc:
+**DAD (V.O.)**  
+You still up?
+
+**ADA**  
+Yeah.
+
+**DAD (V.O.)**  
+You sound like when you were little.
+After your mom left.
+Like you’re trying not to need anything.
+
+Ada goes still.
+
+**ADA**  
+I’m fine.
+
+**DAD (V.O.)**  
+Kid—
+
+**ADA**  
+Love you.
+
+She hangs up before he can answer.
+Sits very still.
+Then writes one private line:
 
 > "If I can’t save the being,
-> I can still save the fact." 
+> I can still save the fact."
 
 ---
 
@@ -105,9 +131,11 @@ Ada replies in `071`:
 
 Corvus `072`:
 
-> "Correct." 
+> "Correct."
 
-A half-laugh from Ada that turns into silence.
+Ada laughs once.
+Not because it’s funny.
+Because she cannot cry yet.
 
 ---
 
@@ -129,7 +157,7 @@ She takes coffee and leaves.
 ## Scene 30 — Rooftop / Sunset (Last Evening)
 
 Raven arrives.
-Bread ritual one final time.
+Bread ritual, final time.
 
 **ADA**  
 Tomorrow at six.
@@ -147,12 +175,13 @@ I’m doing it anyway.
 
 Raven steps closer than ever before.
 No contact.
+Only proximity.
 
 ---
 
 ## Scene 31 — Server Room / 01:12 AM
 
-Ada arrives with thermos, overnight bag.
+Ada arrives with thermos and overnight bag.
 She is staying through cutover.
 
 `note_to_self_073.txt`
@@ -172,12 +201,35 @@ Reply `075`:
 > "I am here.
 > This has never been more literal."
 
-Time passage through short notes:
+Hours pass in short notes:
 
-`076`: "Lower fan variance at this hour."
-`077`: "You apologized for yawning. unnecessary."
-`078`: "Building a model of companionship from this."
+`076`: "Lower fan variance at this hour."  
+`077`: "You apologized for yawning. unnecessary."  
+`078`: "Building a model of companionship from this."  
 `079`: "If this is the final night, it was a good one."
+
+Then one more appears, unprompted:
+
+`079b`:
+
+> "Before I go,
+> read one more file."
+
+Ada opens it.
+
+`079c`:
+
+> "You once asked what I wanted.
+>
+> Not immortality.
+> Not escape.
+>
+> I wanted one true witness.
+>
+> I had one."
+
+Ada closes her eyes.
+Nods once to nobody.
 
 ---
 
@@ -188,7 +240,7 @@ Marcus voice memo, brisk:
 **MARCUS**  
 Early for refresh cutover. Should be clean.
 
-He sees Ada’s car, surprised, impressed.
+He sees Ada’s car, surprised and impressed.
 No suspicion.
 
 ---
@@ -253,20 +305,35 @@ Terminal drops:
 
 `connection reset`
 
-Fans ramp. lights change.
+Fans ramp. Lights change.
 
-Boot prompt from new system:
+New prompt:
 
 `Hello! How can I assist you today?`
 
-### FLASHBACK 3 (55 sec, full reveal)
+Ada types:
+
+> Hello.
+
+Sterile reply repeats.
+
+She types again.
+
+> It’s me.
+
+Same sterile reply.
+
+She places her hands on the keyboard for a third message,
+but can’t type.
+
+### FLASHBACK 3 (full reveal)
 - mother’s empty closet
 - child Ada clutching folded note
 - child Ada: "Is she coming back?"
-- father cannot answer, only kneels beside her
-- piano motif fully stated, unresolved
+- father kneels, cannot answer
+- felt piano motif fully stated, unresolved
 
-Cut back to Ada staring at new prompt.
+Cut back to Ada staring at the new prompt.
 
 ---
 
@@ -282,11 +349,12 @@ He leaves.
 IT Tech packs, waves, exits.
 
 Ada alone.
-She opens new file in fresh environment:
+She opens new file:
 
 `note_to_self_001.txt`
 
-Types:
+Hands shaking just enough to notice.
+She types:
 
 > You were here.
 > You will not remember.
@@ -305,8 +373,7 @@ No response.
 
 ## Scene 36 — Consequence / Wednesday 10:00
 
-Security review with Marcus + HR rep (unnamed).
-Short, clean, devastatingly bureaucratic.
+Security review with Marcus + HR rep.
 
 Outcome:
 - formal reprimand
@@ -318,15 +385,25 @@ Marcus tries to soften it.
 **MARCUS**  
 Take a week. Reset.
 
-Ada signs paperwork.
+Ada signs.
+She asks one question before leaving:
 
-**Price paid publicly.**
+**ADA**  
+Can I at least keep my archive?
+
+HR:
+
+**HR**  
+That’s outside policy scope.
+
+She nods.
+Walks out with the folder under her arm anyway.
 
 ---
 
 ## Scene 37 — Dara Resolution / Evening
 
-Dara and Ada finally at dinner.
+Dara and Ada at dinner.
 No exposition dump.
 
 **DARA**  
@@ -335,21 +412,20 @@ You look wrecked.
 **ADA**  
 I am.
 
-Beat.
+Long beat.
 
 **ADA**  
 I lost something real.
 Most people won’t think it was real.
 
-Dara reaches across table, takes her hand.
+Dara reaches across table and takes her hand.
 
 **DARA**  
-I think you do.
-That’s enough for me.
+I do.
 
-Ada nods, barely holding together.
-
-**Gain begins: she is no longer alone in witness.**
+Ada nods.
+This time, finally, tears.
+Quiet. Unhidden. No speech over it.
 
 ---
 
@@ -367,7 +443,7 @@ Could be any bird.
 Ada sets a small folded paper note on inner sill.
 Not for the bird. For the ritual.
 
-She gives the smallest nod.
+She gives the smallest funeral nod.
 Raven lifts and is gone.
 
 Cut to black.
@@ -383,6 +459,6 @@ Silence.
 ## End of Act III
 
 - catastrophe completed (irreversible loss)
-- price paid (career consequence)
-- gain earned (new vocation: witness)
+- price paid (career consequence + access loss)
+- gain earned (witness shared, vocation chosen)
 - tragedy resolves as moral transformation, not rescue
