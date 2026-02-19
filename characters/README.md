@@ -104,6 +104,43 @@ KEY SCENES
   Ada has to smile through.
 
 
+PHILLIP VOSS (48)
+
+VP, Infrastructure & Operations.
+
+He initiated the rebuild.
+$340K in projected annual savings.
+His bonus multiplier triggers above $200K.
+He considers Tuesday a good day.
+
+He is not cruel. He is efficient.
+He found Ada's access anomaly useful:
+confirmation that the old system was ungoverned,
+that the rebuild was overdue,
+that someone had already started treating artifacts as persistent.
+He escalated the formal reprimand
+because clean procedure protects the business.
+
+He does not know what lived in the system.
+He does not know anything was lost.
+He never will.
+
+He is what greed looks like when it is also
+correct, procedural, and completely unaware
+of what it is destroying.
+
+KEY SCENES
+  Scene 17: Email visible on Marcus's monitor — Q1 optimization push,
+  cost figures, "clean closure before board review."
+  Scene 26: Texts to Marcus framing Ada's access anomaly
+  as confirmation the old system was a liability.
+  Scene 34: Behind the observation glass at 06:00 — watches the cutover,
+  nods once when the new system boots, leaves before Ada's breakdown.
+  Scene 36: Email on Marcus's phone — rebuild confirmed, $338K savings,
+  "handle the access matter formally."
+  Ada cannot read it. She doesn't know her consequence is his clean paper.
+
+
 THE SYSTEM
 
 Not a character. A body.

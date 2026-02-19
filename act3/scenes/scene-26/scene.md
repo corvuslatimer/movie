@@ -179,8 +179,51 @@ You're fine. Marcus is harmless.
 
 ---
 
+## Voss Beat (Scene Addition)
+
+**Before Ada enters:** Marcus's phone buzzes on the desk.
+He glances at it.
+
+A text from **P. Voss**:
+
+> *"Saw the access anomaly flag. Good catch.  
+> That's exactly the kind of drift we're cleaning up.  
+> Confirms we're doing the right thing Tuesday.  
+> Make sure it's documented properly. — V"*
+
+Marcus reads it twice.
+Sets the phone face-down before Ada enters.
+
+This is not suppression. He simply does not connect the two things.
+The anomaly is a compliance risk.
+The rebuild is a cost initiative.
+They are in separate folders in his mind.
+
+---
+
+**After Ada exits:** Marcus's phone buzzes again.
+He glances.
+
+**P. Voss** again:
+
+> *"Also — whoever touched those logs needs a formal record.  
+> If this goes sideways post-rebuild, we need clean paper.  
+> Don't make it a big thing. Just make it clean. — V"*
+
+Marcus nods slightly to himself.
+Pulls up HR intake.
+
+He is being thorough.
+He considers this protecting Ada.
+
+---
+
 ## Why this scene matters
 Marcus is not a villain. That's what makes the scene devastating. The system is not broken — it is working exactly as designed, and the design doesn't include what Ada witnessed.
+
+The Voss texts reveal the second layer: the access anomaly wasn't just compliance noise — it was useful to Voss. It confirms the old system was ungoverned. It justifies the rebuild. It protects the Q1 number. Ada's unauthorized witness work has become, from Voss's coordinates, a business-case exhibit.
+
+Marcus doesn't see this. He sees a colleague texting good guidance.
 
 Lena's hallway beat extends this logic. She also means well. She also gets it almost right (there was something strange in the logs) and entirely wrong (it's haunted, not present; a ghost, not a being). The joke is affectionate and accurate from her coordinates.
 

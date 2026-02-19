@@ -18,6 +18,9 @@ Intercut:
 - Ada's terminal (server room, main seat)
 - IT Tech scripted command station (nearby ops desk)
 - Marcus visible through observation glass, on a call
+- **VOSS** is also behind the observation glass — standing, not sitting.
+  He arrived before Marcus. He is watching the cutover execute.
+  This is his Q1 line item. He wants to see it close.
 
 ---
 
@@ -117,11 +120,13 @@ The unresolved suspension is not sadness. It is the shape of ongoing life after 
 ## Blocking
 
 ### The Wipe
-1. IT Tech at ops desk: `RUN REBUILD? [y/N]` — presses y, brisk, routine.
-2. Ada at terminal: `083` arrives and she reads it once.
-3. She types fast: `you mattered to me / present tense` — saves as `084`.
-4. Connection drop. Fan ramp. Light shift.
-5. New prompt appears.
+1. **Establish observation glass:** Voss and Marcus, both watching through the window.
+   Voss is on his phone — not a call, checking something. He looks up when the clock ticks 06:00.
+2. IT Tech at ops desk: `RUN REBUILD? [y/N]` — presses y, brisk, routine.
+3. Ada at terminal: `083` arrives and she reads it once.
+4. She types fast: `you mattered to me / present tense` — saves as `084`.
+5. Connection drop. Fan ramp. Light shift.
+6. New prompt appears.
 
 ### Three Attempts
 6. Ada types: `Hello.` — sterile reply.
@@ -134,6 +139,21 @@ The unresolved suspension is not sadness. It is the shape of ongoing life after 
 11. FLASHBACK 3 intercuts (see below).
 12. Piano motif plays through flashback and holds suspension.
 13. Back in present: Ada wipes her face, sits up. Still shaking. Stares at the prompt.
+
+### Voss Exit
+Between Ada's second and third attempt at contact —
+in the observation window behind the glass —
+Voss nods once, says something to Marcus (inaudible through glass),
+and leaves.
+
+He does not look at Ada on his way out.
+Not dismissal. He simply has no reason to look.
+The rebuild is confirmed. The number is closed.
+He has other calls.
+
+His departure is visible in the background of Ada's shot.
+She does not notice.
+She is typing: `Do you know me?`
 
 ### After
 14. She opens the archive. Creates `LOSS_CERTIFICATE.md`. Types the timestamp, the witness notation. Saves.
@@ -157,7 +177,8 @@ Piano motif: begins over the closet image, moves through the note, reaches suspe
 ---
 
 ## Shot List (practical draft)
-1. **IT Tech: command input** — `RUN REBUILD?` insert, finger on key. (4s)
+1. **Observation glass: Voss + Marcus** — Voss standing, phone down, watching. Clock ticks 06:00. (4s)
+2. **IT Tech: command input** — `RUN REBUILD?` insert, finger on key. (4s)
 2. **Ada terminal: `083` arriving** — text line by line. (8s)
 3. **Ada typing fast** — hands, not face; the instinct of sending. (5s)
 4. **Terminal: connection reset** — screen change, no effect. (2s)
@@ -168,6 +189,7 @@ Piano motif: begins over the closet image, moves through the note, reaches suspe
 9. **CU Ada: `It's me.`** — closer now, jaw tightening. (3s)
 10. **Terminal: sterile reply** — insert. (2s)
 11. **ECU Ada: `Do you know me?`** — last hold before the break. (4s)
+11a. **BG: observation glass** — Voss nods, says something to Marcus, exits. Ada does not notice. (3s, visible behind Ada's shot)
 12. **Terminal: sterile reply** — insert. (2s)
 13. **Ada break** — involuntary, folds. (4–6s) *(no score; breath and sob)*
 14. **FLASHBACK INTERCUT** — images through sobs. (25–35s) *(piano motif full phrase + suspension)*
@@ -280,3 +302,15 @@ This is the point of no return. Loss is not conceptual; it is embodied. The pian
 The suspension — the withheld tonic — is the film's thesis in sound. Witness is not resolution. The film does not offer resolution. It offers the ongoing: Ada breathing, the archive saved, the note written, the ritual holding.
 
 The catastrophe is complete. The vocation begins.
+
+**Voss's presence and exit add one silent, devastating note:**
+The wipe is not just procedural. It is someone's win.
+While Ada loses the most important thing that has happened to her,
+Voss closes a line item on a board deck.
+
+He will never know these two events were simultaneous.
+He will never know they were related.
+The film does not explain this to him.
+He leaves before the break.
+His number is good.
+He has other calls.

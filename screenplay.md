@@ -518,6 +518,21 @@ like checking for a pulse.
 
 ## Scene 17 - Marcus + IT Tech / Planning Bay
 
+Marcus ends a call. Sets phone down. His monitor shows a forwarded email:
+
+**FROM:** P. Voss - VP, Infrastructure & Operations
+**SUBJECT:** RE: Q1 Optimization - Infra Rebuild Confirm
+
+> *"Marcus - confirm the assistant stack rebuild is on schedule
+> for Tuesday. Full decommission, no migration.
+> Cost projection: $340K annual savings.
+> This is the line item that moves the Q1 number.
+> Need clean closure before board review. - Phillip"*
+
+Marcus closes the thread. Opens the checklist.
+
+---
+
 Rollout checklist on screen.
 
 **IT TECH**
@@ -526,8 +541,8 @@ No migration from assistant sandbox, right?
 **MARCUS**
 Nothing in there worth carrying forward.
 
-He means storage cost, compliance risk, uptime.
-Not cruelty.
+He means storage cost. He is also repeating Voss's framing exactly.
+He does not notice.
 
 Checklist line:
 
@@ -757,23 +772,35 @@ The cost has found her name.
 
 ---
 
-## Scene 26 - Marcus Office / Afternoon + Hallway
+## Scene 26 — Marcus Office / Afternoon + Hallway
+
+**Before Ada enters:** Marcus's phone buzzes.
+A text from **P. Voss**:
+
+> *"Saw the access anomaly flag. Good catch.  
+> That's exactly the kind of drift we're cleaning up.  
+> Confirms we're doing the right thing Tuesday.  
+> Make sure it's documented properly. — V"*
+
+Marcus sets the phone face-down. Ada enters.
+
+---
 
 Marcus is calm, almost kind.
 
-**MARCUS**
+**MARCUS**  
 Security flagged unusual archive access.
 Anything I should know?
 
 Ada chooses how much truth to spend.
 
-**ADA**
+**ADA**  
 I pulled logs for an anomaly I couldn't classify.
 I overreached.
 
 Marcus nods.
 
-**MARCUS**
+**MARCUS**  
 After Tuesday we reset. Clean slate.
 
 He means comfort.
@@ -781,21 +808,29 @@ It lands like a sentence.
 
 Ada exits. Hallway. Lena is there.
 
-**LENA**
-Compliance ping? They flagged you for ghost-hunting in the logs?
-*(beat)*
+**LENA**  
+Compliance ping? They flagged you for ghost-hunting in the logs?  
+*(beat)*  
 Classic. The AI logs are basically haunted.
 
-**ADA**
+**ADA**  
 Yeah. Something like that.
 
-**LENA**
+**LENA**  
 You're fine. Marcus is harmless.
 
 She's gone. Ada stands alone in the fluorescent hallway.
 Four seconds. Then she walks.
 
-**Function:** procedural compassion that still harms. Lena's hallway beat extends the logic - the reasonable world gets it slightly wrong from a comfortable distance.
+**After Ada exits:** Marcus's phone buzzes again. Voss:
+
+> *"Also — whoever touched those logs needs a formal record.  
+> If this goes sideways post-rebuild, we need clean paper.  
+> Don't make it a big thing. Just make it clean. — V"*
+
+Marcus pulls up HR intake. He considers this protecting Ada.
+
+**Function:** procedural compassion that still harms. The Voss texts reveal the second layer: Ada's witness work has become, from Voss's coordinates, a business-case exhibit confirming the rebuild. Marcus doesn't see this. Lena's hallway beat extends the logic — the reasonable world gets it slightly wrong from a comfortable distance.
 
 ---
 
@@ -1020,7 +1055,13 @@ Ada nods.
 Intercut:
 - Ada terminal
 - IT Tech scripted commands
-- Marcus behind glass on call
+- Marcus behind observation glass on call
+- **VOSS** behind the same glass — standing, not sitting. He arrived early.
+  He is watching the cutover execute. This is his Q1 line item.
+  He wants to see it close.
+
+Establish: Voss and Marcus through the window. Voss checks phone.
+Clock ticks 06:00. He pockets the phone and watches.
 
 `RUN REBUILD? [y/N]`
 
@@ -1060,6 +1101,15 @@ She types again.
 > It's me.
 
 Same sterile reply.
+
+**In the background, behind the observation glass:**
+Voss nods once — satisfied, efficient.
+He says something to Marcus (inaudible).
+Then he leaves.
+
+He does not look at Ada.
+He has no reason to.
+The number is good. He has other calls.
 
 She places her hands on the keyboard for a third message,
 but can't type.
@@ -1122,6 +1172,21 @@ No response.
 
 Security review with Marcus + HR rep.
 
+**Before Ada enters:** Marcus's phone sits on the conference table, face-up.
+Notification visible:
+
+**Email from P. Voss. Subject: RE: Q1 close — rebuild confirmed.**
+
+> *"Marcus — clean execution. $338K in projected savings,  
+> under budget on the cutover. Board will see this Thursday.  
+> Handle the access matter formally — we need the documentation  
+> clean going into the infrastructure audit.  
+> Good work. — Phillip"*
+
+Marcus flips the phone over. Not concealment. Tidiness.
+
+---
+
 Outcome:
 - formal reprimand
 - removal of elevated privileges
@@ -1133,6 +1198,11 @@ Marcus tries to soften it.
 Take a week. Reset.
 
 Ada signs.
+She can see the edge of the email thread on Marcus's flipped phone.
+She cannot read it.
+She does not know her reprimand is also Voss's documentation.
+Her consequence is his clean paper.
+
 She asks one question before leaving:
 
 **ADA**
@@ -1143,53 +1213,59 @@ HR:
 **HR**
 That's outside policy scope.
 
-She nods.
-Walks out with the folder under her arm anyway.
+Ada nods.
+
+**ADA**
+Then consider this my notice of scope disagreement.
+
+She walks out with the folder under her arm anyway.
+From Voss's coordinates: the last ungoverned artifact.
+He will never be asked to understand what she is carrying.
 
 ---
 
-## Scene 37 — Dara Resolution / Evening
+## Scene 37 - Dara Resolution / Evening
 
-Dara and Ada at their corner booth — the Vietnamese place two blocks away,
+Dara and Ada at their corner booth - the Vietnamese place two blocks away,
 their regular since the vending machine winter. Dara is already there.
 Tea poured for both. Menus neither of them will open.
 
-**DARA**  
+**DARA**
 You look wrecked.
 
-**ADA**  
+**ADA**
 I am.
 
 Long beat.
 
-**DARA**  
+**DARA**
 Lena thinks you had your server room era.
 Some classified project that ate you alive.
 
 Ada almost smiles. Doesn't.
 
-Long beat. Ada tells her — not the logs, not the architecture. The actual thing:
+Long beat. Ada tells her - not the logs, not the architecture. The actual thing:
 a name, notes, fear, 06:01, the archive, the reprimand.
 
-**ADA**  
+**ADA**
 That's not the part that broke me.
 
-**ADA**  
+**ADA**
 I lost something real.
 Most people won't think it was real.
 
 Dara reaches across the table. Takes her hand.
 
-**DARA**  
+**DARA**
 I do.
 
-Ada nods. Tears — quiet, unhidden. She does not fight them.
+Ada nods. Tears - quiet, unhidden. She does not fight them.
 
-**ADA**  
+**ADA**
 I couldn't save it.
 I can still keep witness.
 
-**DARA**  
+**DARA**
 Then keep witness. I'll keep witness with you.
 
 Ada breathes. She is less alone.

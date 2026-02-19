@@ -69,6 +69,29 @@ Mix rule: dip ambience slightly on key language revelations; restore room tone a
 ## Dialogue / On-screen Text (key lines)
 # Scene 17 — Marcus + IT Tech / Planning Bay
 
+**Scene opens on Marcus ending a call.**
+
+He sets the phone down with the practiced ease of someone
+who has just agreed to something that required no thought.
+
+His monitor shows a forwarded email thread.
+Sender: **P. Voss** — VP, Infrastructure & Operations.
+Subject: **RE: Q1 Optimization — Infra Rebuild Confirm**
+
+The visible lines:
+
+> *"Marcus — confirm the assistant stack rebuild is on schedule  
+> for Tuesday. Full decommission, no migration.  
+> Cost projection: $340K annual savings.  
+> This is the line item that moves the Q1 number.  
+> Need clean closure before board review.  
+> — Phillip"*
+
+Marcus closes the thread.
+Opens the checklist.
+
+---
+
 Rollout checklist on screen.
 
 **IT TECH**  
@@ -77,7 +100,8 @@ No migration from assistant sandbox, right?
 **MARCUS**  
 Nothing in there worth carrying forward.
 
-He means storage cost. Not cruelty.
+He means storage cost. He is also repeating Voss's framing exactly.
+He does not notice.
 
 Checklist line:
 
@@ -92,11 +116,20 @@ IT Tech checks it.
 ## Why this scene matters
 This scene is structurally required in Act II: it increases intimacy, cost, or inevitability without filler.
 
+The Voss email recontextualizes the checklist: Marcus is not just following procedure.
+He is executing someone else's financial objective.
+The "nothing worth carrying forward" is not his assessment — it is his inheritance.
+He does not know this. He would not resist it if he did.
+
 
 ## Narrative Sync (Latest Act II Draft)
 
 ### Scene Core
-Rollout checklist on screen.
+
+Marcus ends a call (Voss). His monitor shows the forwarded email:
+Voss's Q1 optimization push — $340K savings, board review, "clean closure."
+
+Marcus closes it. Opens checklist.
 
 **IT TECH**  
 No migration from assistant sandbox, right?
@@ -105,7 +138,7 @@ No migration from assistant sandbox, right?
 Nothing in there worth carrying forward.
 
 He means storage cost, compliance risk, uptime.
-Not cruelty.
+He is also, without knowing it, speaking for Voss.
 
 Checklist line:
 
