@@ -83,3 +83,16 @@ No suspicion.
 
 ## Why this scene matters
 This scene is structurally necessary to Act III: it delivers catastrophe progression, paid cost, or earned transformation without filler.
+
+## Narrative Sync (Latest Act III Draft)
+
+### Scene Core
+Marcus voice memo, brisk:
+
+**MARCUS**  
+Early for refresh cutover. Should be clean.
+
+He sees Ada’s car, surprised and impressed.
+No suspicion.
+
+---

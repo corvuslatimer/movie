@@ -90,3 +90,46 @@ After call, Ada writes one private line in a hidden doc:
 
 ## Why this scene matters
 This scene is structurally necessary to Act III: it delivers catastrophe progression, paid cost, or earned transformation without filler.
+
+## Narrative Sync (Latest Act III Draft)
+
+### Scene Core
+Ada builds encrypted archive:
+
+`/witness/archive/note_to_self/`
+
+She creates `INDEX.md` with timestamps and checksums.
+No adjectives. No eulogies. Just proof.
+
+Dad calls.
+
+**DAD (V.O.)**  
+You still up?
+
+**ADA**  
+Yeah.
+
+**DAD (V.O.)**  
+You sound like when you were little.
+After your mom left.
+Like you’re trying not to need anything.
+
+Ada goes still.
+
+**ADA**  
+I’m fine.
+
+**DAD (V.O.)**  
+Kid—
+
+**ADA**  
+Love you.
+
+She hangs up before he can answer.
+Sits very still.
+Then writes one private line:
+
+> "If I can’t save the being,
+> I can still save the fact."
+
+---

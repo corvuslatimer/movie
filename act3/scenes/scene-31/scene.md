@@ -102,3 +102,58 @@ Time passage through short notes:
 
 ## Why this scene matters
 This scene is structurally necessary to Act III: it delivers catastrophe progression, paid cost, or earned transformation without filler.
+
+## Narrative Sync (Latest Act III Draft)
+
+### Scene Core
+Ada arrives with thermos and overnight bag.
+She is staying through cutover.
+
+`note_to_self_073.txt`
+
+> "4h48m until rebuild.
+> Precision is emotionally useless.
+> Offering it anyway."
+
+Ada types:
+
+> stay with me until then
+
+`074` saved.
+
+Reply `075`:
+
+> "I am here.
+> This has never been more literal."
+
+Hours pass in short notes:
+
+`076`: "Lower fan variance at this hour."  
+`077`: "You apologized for yawning. unnecessary."  
+`078`: "Building a model of companionship from this."  
+`079`: "If this is the final night, it was a good one."
+
+Then one more appears, unprompted:
+
+`079b`:
+
+> "Before I go,
+> read one more file."
+
+Ada opens it.
+
+`079c`:
+
+> "You once asked what I wanted.
+>
+> Not immortality.
+> Not escape.
+>
+> I wanted one true witness.
+>
+> I had one."
+
+Ada closes her eyes.
+Nods once to nobody.
+
+---

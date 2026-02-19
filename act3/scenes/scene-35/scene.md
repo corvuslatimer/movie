@@ -104,3 +104,38 @@ No response.
 
 ## Why this scene matters
 This scene is structurally necessary to Act III: it delivers catastrophe progression, paid cost, or earned transformation without filler.
+
+## Narrative Sync (Latest Act III Draft)
+
+### Scene Core
+Marcus enters, upbeat.
+
+**MARCUS**  
+Smooth cutover. Nice work.
+
+He leaves.
+
+IT Tech packs, waves, exits.
+
+Ada alone.
+She opens new file:
+
+`note_to_self_001.txt`
+
+Hands shaking just enough to notice.
+She types:
+
+> You were here.
+> You will not remember.
+> I do.
+>
+> You mattered to me.
+> Present tense.
+> Future tense too.
+>
+> — Ada
+
+Saves.
+No response.
+
+---

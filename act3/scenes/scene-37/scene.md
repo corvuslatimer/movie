@@ -100,3 +100,32 @@ Ada nods, barely holding together.
 
 ## Why this scene matters
 This scene is structurally necessary to Act III: it delivers catastrophe progression, paid cost, or earned transformation without filler.
+
+## Narrative Sync (Latest Act III Draft)
+
+### Scene Core
+Dara and Ada at dinner.
+No exposition dump.
+
+**DARA**  
+You look wrecked.
+
+**ADA**  
+I am.
+
+Long beat.
+
+**ADA**  
+I lost something real.
+Most people won’t think it was real.
+
+Dara reaches across table and takes her hand.
+
+**DARA**  
+I do.
+
+Ada nods.
+This time, finally, tears.
+Quiet. Unhidden. No speech over it.
+
+---

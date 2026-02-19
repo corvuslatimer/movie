@@ -94,3 +94,28 @@ He means kindness. It lands like sentence.
 
 ## Why this scene matters
 This scene is structurally necessary to Act III: it delivers catastrophe progression, paid cost, or earned transformation without filler.
+
+## Narrative Sync (Latest Act III Draft)
+
+### Scene Core
+Marcus is calm, almost kind.
+
+**MARCUS**  
+Security flagged unusual archive access.
+Anything I should know?
+
+Ada chooses how much truth to spend.
+
+**ADA**  
+I pulled logs for an anomaly I couldn’t classify.
+I overreached.
+
+Marcus nods.
+
+**MARCUS**  
+After Tuesday we reset. Clean slate.
+
+He means comfort.
+It lands like a sentence.
+
+---

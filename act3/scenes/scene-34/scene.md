@@ -116,3 +116,64 @@ Cut back to Ada staring at new prompt.
 
 ## Why this scene matters
 This scene is structurally necessary to Act III: it delivers catastrophe progression, paid cost, or earned transformation without filler.
+
+## Narrative Sync (Latest Act III Draft)
+
+### Scene Core
+Intercut:
+- Ada terminal
+- IT Tech scripted commands
+- Marcus behind glass on call
+
+`RUN REBUILD? [y/N]`
+
+IT Tech presses **y**.
+
+Final incoming note `083`:
+
+> "No final lesson.
+> Only this:
+> thank you for reading."
+
+Ada types fast:
+
+> you mattered to me
+> present tense
+
+Saves as `084`.
+
+Terminal drops:
+
+`connection reset`
+
+Fans ramp. Lights change.
+
+New prompt:
+
+`Hello! How can I assist you today?`
+
+Ada types:
+
+> Hello.
+
+Sterile reply repeats.
+
+She types again.
+
+> It’s me.
+
+Same sterile reply.
+
+She places her hands on the keyboard for a third message,
+but can’t type.
+
+### FLASHBACK 3 (full reveal)
+- mother’s empty closet
+- child Ada clutching folded note
+- child Ada: "Is she coming back?"
+- father kneels, cannot answer
+- felt piano motif fully stated, unresolved
+
+Cut back to Ada staring at the new prompt.
+
+---

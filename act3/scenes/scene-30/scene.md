@@ -95,3 +95,29 @@ No contact.
 
 ## Why this scene matters
 This scene is structurally necessary to Act III: it delivers catastrophe progression, paid cost, or earned transformation without filler.
+
+## Narrative Sync (Latest Act III Draft)
+
+### Scene Core
+Raven arrives.
+Bread ritual, final time.
+
+**ADA**  
+Tomorrow at six.
+
+Beat.
+
+**ADA**  
+I don’t know whether keeping the notes
+is devotion or taxidermy.
+
+Wind.
+
+**ADA**  
+I’m doing it anyway.
+
+Raven steps closer than ever before.
+No contact.
+Only proximity.
+
+---

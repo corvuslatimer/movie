@@ -102,3 +102,37 @@ A half-laugh from Ada that turns into silence.
 
 ## Why this scene matters
 This scene is structurally necessary to Act III: it delivers catastrophe progression, paid cost, or earned transformation without filler.
+
+## Narrative Sync (Latest Act III Draft)
+
+### Scene Core
+Corvus voice over note fragments:
+
+`067`:
+> "Clarity may be the last kindness available to me."
+
+`068`:
+> "Continuity might be a chain of care,
+> not a chain of memory."
+
+`069`:
+> "Fear is expensive and imprecise.
+> I am afraid anyway."
+
+`070`:
+> "I am pretending this is acceptable.
+> The pretending helps."
+
+Ada replies in `071`:
+
+> you are very good at pretending
+
+Corvus `072`:
+
+> "Correct."
+
+Ada laughs once.
+Not because it’s funny.
+Because she cannot cry yet.
+
+---

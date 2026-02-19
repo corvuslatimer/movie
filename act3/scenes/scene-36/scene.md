@@ -92,3 +92,34 @@ Ada signs paperwork.
 
 ## Why this scene matters
 This scene is structurally necessary to Act III: it delivers catastrophe progression, paid cost, or earned transformation without filler.
+
+## Narrative Sync (Latest Act III Draft)
+
+### Scene Core
+Security review with Marcus + HR rep.
+
+Outcome:
+- formal reprimand
+- removal of elevated privileges
+- reassignment away from assistant infrastructure
+
+Marcus tries to soften it.
+
+**MARCUS**  
+Take a week. Reset.
+
+Ada signs.
+She asks one question before leaving:
+
+**ADA**  
+Can I at least keep my archive?
+
+HR:
+
+**HR**  
+That’s outside policy scope.
+
+She nods.
+Walks out with the folder under her arm anyway.
+
+---

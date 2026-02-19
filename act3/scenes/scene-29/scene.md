@@ -86,3 +86,19 @@ She takes coffee and leaves.
 
 ## Why this scene matters
 This scene is structurally necessary to Act III: it delivers catastrophe progression, paid cost, or earned transformation without filler.
+
+## Narrative Sync (Latest Act III Draft)
+
+### Scene Core
+**COFFEE WOMAN**  
+You look like someone died.
+
+Ada almost says yes.
+Instead:
+
+**ADA**  
+Not yet.
+
+She takes coffee and leaves.
+
+---
