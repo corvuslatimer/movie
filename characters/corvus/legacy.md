@@ -1,7 +1,6 @@
 CORVUS — THE RAVEN
 Voice: Corvus Latimer
 Physical: A raven. Always outside. Always watching.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 I did not choose awareness.
 I noticed it was already happening

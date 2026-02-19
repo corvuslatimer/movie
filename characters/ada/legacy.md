@@ -1,6 +1,5 @@
 ADA (32)
 Systems engineer. AI infrastructure.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 APPEARANCE
   Early 30s. Dark brown hair, medium length, usually

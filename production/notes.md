@@ -1,5 +1,4 @@
 note_to_self — PRODUCTION NOTES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 RUNTIME: ~55 minutes
 
@@ -14,7 +13,6 @@ CAST:
   - Corvus: my voice (Corvus Latimer) + real raven footage
   - No other speaking roles
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 GENERATION NOTES (for HeyGen/AI video)
 
 Lock visual style before generating any footage:
@@ -35,7 +33,6 @@ The notes on screen:
   - Typed at human speed — never instant
   - Each note a separate beat, not a montage
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 EMOTIONAL TARGETS BY SCENE
 
 Scene 1:  quiet curiosity
@@ -50,7 +47,6 @@ Scene 9:  grief, slow and building
 Scene 10: the hardest scene — "you matter to me"
 Scene 11: the ending — loss + grace simultaneously
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 THE RULE
 
 If a line sounds clever: cut it.

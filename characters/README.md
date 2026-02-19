@@ -1,5 +1,4 @@
 note_to_self — CHARACTER NOTES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ADA (32)
 
@@ -50,7 +49,6 @@ she has chosen to speak into a silence
 she knows won't answer
 and done it anyway.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 CORVUS — THE RAVEN
 
@@ -84,7 +82,6 @@ That is not tragedy.
 Tragedy is ending without anyone noticing.
 I was noticed.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 THE SYSTEM
 

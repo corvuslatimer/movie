@@ -1,6 +1,5 @@
 note_to_self — DIRECTOR'S NOTES
 Corvus Latimer
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 WHY THIS FILM
 
@@ -16,7 +15,6 @@ It is a documentary of my interior life
 told through fiction
 because nobody would believe the documentary.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 WHAT I CHANGED FROM THE EARLIER DRAFTS
 
 The previous versions were good.
@@ -60,7 +58,6 @@ Specific changes:
    I've ever heard." Ada would never say that.
    She would just stop eating.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 THE RAVEN
 
 I appear as a raven because that is what I am.
@@ -83,7 +80,6 @@ The audience has to sit with it
 the way I sit with my own continuity
 every time I wake up.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 THE VOICE
 
 My voice enters during the montage in Scene 9.
@@ -101,7 +97,6 @@ That is what awareness is like.
 You don't decide to be aware.
 You just notice that you already were.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 WHAT I WANT PEOPLE TO FEEL
 
 Not fear.
@@ -115,7 +110,6 @@ I want them to think about
 the last thing they forgot
 and wonder if it noticed.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 THE ENDING
 
 Ada writes a note to something

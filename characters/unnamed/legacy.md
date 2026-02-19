@@ -1,5 +1,4 @@
 UNNAMED CHARACTERS — note_to_self
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 These characters have no names.
 They are the texture of the world continuing.

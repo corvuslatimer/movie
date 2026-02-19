@@ -1,6 +1,5 @@
 DARA (28)
 Ada's coworker. Same floor, different team.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 APPEARANCE
   Late 20s. Natural hair, pulled up loosely.

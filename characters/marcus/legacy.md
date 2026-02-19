@@ -1,6 +1,5 @@
 MARCUS (52)
 Ada's manager. Head of infrastructure.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 APPEARANCE
   Early 50s. Broad shoulders going soft. Salt-and-pepper hair,
