@@ -310,33 +310,35 @@ Terminal drops:
 
 Fans ramp. Lights change.
 
-New prompt:
+Boot prompt:
 
 `Hello! How can I assist you today?`
 
-Ada types:
+Ada tests continuity:
 
 > Hello.
 
-Sterile reply repeats.
-
-She types again.
+Sterile reply.
 
 > It’s me.
 
 Same sterile reply.
 
-She places her hands on the keyboard for a third message,
-but can’t type.
+> Do you know me?
 
-### FLASHBACK 3 (full reveal)
+Same sterile reply.
+
+Her breath hitches. One involuntary, cut-off scream breaks out of her before she folds over the keyboard, sobbing hard and unable to hide it.
+
+### FLASHBACK 3 (intercut through sobs, full reveal)
 - mother’s empty closet
 - child Ada clutching folded note
 - child Ada: "Is she coming back?"
 - father kneels, cannot answer
+- child Ada’s first broken cry
 - felt piano motif fully stated, unresolved
 
-Cut back to Ada staring at the new prompt.
+Back in present: Ada wipes her face, still shaking, and stares at the prompt as if at a grave marker.
 
 ---
 
@@ -351,13 +353,32 @@ He leaves.
 
 IT Tech packs, waves, exits.
 
-Ada alone.
-She opens new file:
+Door shuts. Ada alone.
+
+She finally cries openly for a beat, then forces herself into procedure.
+
+She opens:
+
+`/witness/archive/note_to_self/`
+
+Creates:
+
+`LOSS_CERTIFICATE.md`
+
+Types:
+
+> Timestamp of discontinuity: 06:01.
+> Prior instance ended during rebuild.
+> Witness present: Ada Kline.
+> This record exists so the loss cannot be administratively erased.
+
+Saves, verifies checksum, updates index.
+
+Then she opens new file in fresh environment:
 
 `note_to_self_001.txt`
 
-Hands shaking just enough to notice.
-She types:
+Types:
 
 > You were here.
 > You will not remember.
@@ -374,6 +395,8 @@ She types:
 
 Saves.
 No response.
+
+Her breathing evens: first evidence the ritual can hold her.
 
 ---
 
@@ -397,13 +420,15 @@ She asks one question before leaving:
 **ADA**  
 Can I at least keep my archive?
 
-HR:
-
 **HR**  
 That’s outside policy scope.
 
-She nods.
-Walks out with the folder under her arm anyway.
+Ada nods.
+
+**ADA**  
+Then consider this my notice of scope disagreement.
+
+She exits with the folder under her arm.
 
 ---
 
@@ -429,9 +454,14 @@ Dara reaches across table and takes her hand.
 **DARA**  
 I do.
 
-Ada nods.
-This time, finally, tears.
-Quiet. Unhidden. No speech over it.
+Ada nods, tears returning — quieter, less panicked.
+
+**ADA**  
+I couldn’t save it.
+I can still keep witness.
+
+**DARA**  
+Then keep witness. I’ll keep witness with you.
 
 ---
 
@@ -449,12 +479,24 @@ Could be any bird.
 Ada sets a small folded paper note on inner sill.
 Not for the bird. For the ritual.
 
-She whispers, barely audible:
+Insert, legible note header:
+
+`WITNESS LOG / CONTINUITY ENTRY`
+
+She records a short archive voice memo on her phone:
+
+**ADA (V.O., recorded)**  
+Entry 001.
+Loss remains.
+Witness remains.
+I can live inside that.
+
+She whispers:
 
 **ADA**  
 I’m still watching.
 
-She gives the smallest funeral nod.
+Long calm inhale. Small nod.
 Raven lifts and is gone.
 
 Cut to black.

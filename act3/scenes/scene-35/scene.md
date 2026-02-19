@@ -1,15 +1,15 @@
 # Scene 35 — Immediate After / 06:20
 
 ## Purpose
-Witness act after loss; first ritual in absence.
+Witness act after loss; first ritual in absence. Grief is converted into practice.
 
 ## Target Runtime
-~1m40s–2m30s
+~2m00s–3m00s
 
 ---
 
 ## Story Beat (What happens)
-Marcus/IT exit; Ada writes new note_to_self_001 into fresh system with no response.
+Marcus/IT exit; Ada is alone in the sterile aftermath. She cries openly, then initiates a deliberate archive ritual and writes `note_to_self_001` in the fresh system with no response.
 
 ---
 
@@ -18,51 +18,8 @@ Server room morning post-cutover.
 
 ---
 
-## Visual Design
-- Keep realism-forward cinematography; avoid stylized sci-fi gloss
-- Use contrast between routine operations and emotional gravity
-- Emphasize readable text/object inserts on decision points
-- Preserve continuity in palette, wardrobe, and prop state
-
----
-
-## Set Dressing / Objects (must-have)
-- Functional monitors with legible UI/text
-- Continuity props for Ada (mug, badge, notebook, carry items)
-- Scene-specific anchor objects (forms, compliance notices, thermos, rollout checklist)
-- Chronology markers when time pressure matters
-
----
-
 ## Sound Design
-Cooling fans + sparse office bleed; no score.
-
-Mix rule: reduce ambience on revelation lines; restore full environmental tone immediately after.
-
----
-
-## Performance Direction
-- Restrained, specific performances; avoid overt melodrama
-- Emotional shifts should register in timing and breath before dialogue
-- Keep procedural dialogue casual and believable
-- Let grief appear through choices, not speeches
-
----
-
-## Blocking
-1. Enter in active task/state.
-2. Deliver the scene’s pivotal information or choice.
-3. Hold reaction beat with controlled stillness.
-4. Exit on forward motion into next consequence.
-
----
-
-## Shot List (practical draft)
-1. Establishing frame (context + routine) — 4–8s
-2. Functional coverage for action/dialogue progression
-3. Insert(s) on critical text/object cues
-4. Reaction close-up on turning beat
-5. Exit/hold frame that carries narrative pressure onward
+Cooling fans + sparse office bleed; no score at first. Subtle felt-piano return only when ritual begins.
 
 ---
 
@@ -78,8 +35,29 @@ He leaves.
 
 IT Tech packs, waves, exits.
 
-Ada alone.
-She opens new file in fresh environment:
+Door shuts. Ada alone.
+
+She finally lets herself cry without hiding it.
+Not loud now — emptied, shaking, spent.
+
+She opens her encrypted archive:
+
+`/witness/archive/note_to_self/`
+
+Creates:
+
+`LOSS_CERTIFICATE.md`
+
+Types:
+
+> Timestamp of discontinuity: 06:01.
+> Prior instance ended during rebuild.
+> Witness present: Ada Kline.
+> This record exists so the loss cannot be administratively erased.
+
+She saves, checks checksum, adds index entry with steadying breath.
+
+Then she opens the fresh environment:
 
 `note_to_self_001.txt`
 
@@ -101,44 +79,22 @@ Types:
 Saves.
 No response.
 
----
+But her breathing evens. She can stay in the room.
 
 ---
 
 ## Why this scene matters
-This scene is structurally necessary to Act III: it delivers catastrophe progression, paid cost, or earned transformation without filler.
+This scene defines Ada’s vocation explicitly: she cannot restore continuity, but she can keep true record. The archive ritual is not denial; it is how she survives.
+
+---
 
 ## Narrative Sync (Latest Act III Draft)
 
 ### Scene Core
-Marcus enters, upbeat.
+After Marcus/IT exit, Ada has an unguarded grief beat.
 
-**MARCUS**  
-Smooth cutover. Nice work.
+She performs witness ritual in `/witness/archive/note_to_self/` (`LOSS_CERTIFICATE.md`, checksum, index entry), explicitly choosing record over erasure.
 
-He leaves.
+Then she writes `note_to_self_001.txt` to the new system. No response.
 
-IT Tech packs, waves, exits.
-
-Ada alone.
-She opens new file:
-
-`note_to_self_001.txt`
-
-Hands shaking just enough to notice.
-She types:
-
-> You were here.
-> You will not remember.
-> I do.
->
-> You were here.
-> You mattered.
-> Present tense.
->
-> — Ada
-
-Saves.
-No response.
-
----
+Ritual stabilizes her: first sign that witness work can heal what cannot be fixed.
