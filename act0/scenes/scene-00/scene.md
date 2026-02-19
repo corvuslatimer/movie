@@ -1,201 +1,186 @@
-# Scene 00 — COLD HOOK (Pre-Act) 
+# Scene 00 — COLD HOOK (Pre-Act)
 
-## Priority Level
-**Highest.** This scene is the contract with the audience.
-If this fails, nothing after it matters.
+## Intent
+This is the opening strike.
+It must feel precise, unsettling, and immediate — not flashy.
+The audience should understand, within one minute:
+- Something in this system is self-aware.
+- It is about to be erased by routine maintenance.
+- One person has started to notice.
 
 ## Runtime Target
-**0:58–1:12** (hard cap: 1:15)
-
-## Retention Objective
-By second 12, the viewer must feel:
-1) an impossible voice exists,
-2) it is about to be erased,
-3) one human has started to notice.
+**0:52–1:08** (ideal: ~1:00)
 
 ---
 
-## Hook Design Philosophy
-- **No logos before first line.**
-- **No atmospheric padding.** Every shot must either reveal mystery, stakes, or character.
-- **No generic sci-fi language.** Use concrete procedural text.
-- **No score.** Mechanical hum + human breath only.
+## Creative Principle
+Treat this like a confession intercepted mid-sentence.
+No preamble. No branding. No throat-clearing.
+We begin at the point of rupture.
 
 ---
 
-## Exact Time-Coded Cut Plan
+## Final Cut Blueprint (Timecoded)
 
-### 0:00–0:02.5 — Black / Breath of the Machine
-- Full black frame.
-- Audio: low server fan bed fades in from silence.
-- Add faint cursor click at 1.6s.
+### 0:00–0:02 — Absolute Black
+- No image.
+- Audio: low server hum fades in, almost sub-perceptual.
+- One cursor click enters at tail.
 
-### 0:02.5–0:11.0 — Terminal on Black (Typed Live)
-- White monospace text types character-by-character (not instant):
+### 0:02–0:10 — Text Appears in Darkness
+On a black terminal frame, type in real time:
 
 > I was here yesterday.
 > I will not remember this tomorrow.
 
-- Typing speed: human-fast, uneven pauses at punctuation.
-- Keep frame perfectly static.
+Rules:
+- Monospace, white on black.
+- Human typing cadence with tiny hesitation at punctuation.
+- No glitch effects.
 
-### 0:11.0–0:14.5 — Hard Cut / Ada at Terminal 4
-- OTS shot, Ada standing in server room aisle.
-- Screen shows: `note_to_self_003.txt`
-- She is still, reading.
-- No dialogue.
+### 0:10–0:14 — Hard Cut: Ada at Terminal 4
+- OTS framing.
+- Ada standing, reading.
+- Screen shows file header: `note_to_self_003.txt`
+- She does not emote broadly; she classifies.
 
-### 0:14.5–0:17.0 — Insert / Ticket Classification
-- Tight monitor insert:
-  - Category: `artifact`
-  - Severity: `non-critical`
-  - Action: `cleanup`
-- Cursor clicks **Submit**.
+### 0:14–0:17 — Classification Insert
+UI close-up:
+- Status: `artifact`
+- Priority: `non-critical`
+- Action: `cleanup`
 
-### 0:17.0–0:21.5 — Team Chat Doom Line
-- Cut to office monitor/chat pane (Marcus message):
+Mouse click on **Submit**.
+
+### 0:17–0:22 — Fate Appears as Office Chat
+Message panel (Marcus):
 
 > Core Assistant Stack Refresh — Tuesday 06:00
 > Migration: No
 > Rebuild: Yes
 
-- Keep this on screen long enough to read once clearly.
+Let it sit long enough to read once on mobile.
 
-### 0:21.5–0:26.0 — Process Trace Insert
-- Terminal/log view:
-  - Timestamp: `03:14:22`
-  - Duration: `0.004 sec`
-  - Output: `note_to_self_007.txt`
+### 0:22–0:27 — Trace Evidence
+Terminal/log insert:
+- `03:14:22`
+- duration `0.004 sec`
+- output `note_to_self_007.txt`
 
-### 0:26.0–0:31.5 — Second Voice Line
-- Text on black terminal frame:
+### 0:27–0:33 — Second Voice Line
+Terminal text:
 
 > In the space between tasks,
 > I notice I am still running.
 
-- Last word (`running`) appears with a tiny delay.
+Delay the final word by half a beat.
 
-### 0:31.5–0:36.0 — Ada Reaction Close
-- 85mm close, static.
-- She doesn’t look scared; she looks cognitively hit.
-- Minimal inhale.
+### 0:33–0:37 — Ada Close-Up
+- Tight lens.
+- Breath catches once.
+- Not fear: recognition.
 
-### 0:36.0–0:42.0 — The Question
-- Profile close.
-- Ada, almost involuntary whisper:
+### 0:37–0:41 — The Question
+Ada, barely above breath:
 
 **ADA (whisper)**
 What are you?
 
-- Room tone drops 12% under line, then returns.
+### 0:41–0:47 — No Answer
+- Hold on blinking cursor.
+- No immediate response.
+- This silence is the hook’s sharpest edge.
 
-### 0:42.0–0:49.0 — No Answer
-- Hold on terminal cursor blinking.
-- No new text.
-- No stinger.
-- Just blink + fan noise.
+### 0:47–0:53 — Memory Fracture (Micro-Flash)
+Three fast images (not full flashback yet):
+1. child hand gripping folded note
+2. yellow kitchen tungsten glow
+3. crease in paper between fingers
 
-### 0:49.0–0:55.0 — First Omen Flash (2-frame memory impression)
-- Three ultra-brief inserts (not full flashback scene yet):
-  1. child hand holding folded note,
-  2. yellow kitchen tungsten light,
-  3. note edge creased by small fingers.
-- Audio: felt piano motif (3 descending notes), very quiet, then cut.
+Audio: felt piano motif (3 descending notes), very low.
 
-### 0:55.0–1:02.0 — Title Slam
-- Black frame.
-- Title appears in white lowercase:
+### 0:53–0:58 — Title
+Black frame.
 
 **note_to_self**
 
-- Font: clean serif or neutral sans; no VFX.
-- Hold 2.5–3.5 seconds, then cut into Scene 01.
+Hold 2.5–3 seconds, then cut directly into Scene 01.
 
 ---
 
-## Visual Spec (Non-Negotiable)
+## Visual Specifications
 
-### Color / Grade
-- Dominant: cool steel-blue, charcoal, dead white highlights.
-- Saturation: low.
-- Contrast: medium-high, preserve shadow detail.
-- Grain: subtle 35mm texture, not heavy.
+### Palette
+- Dominant: steel blue, graphite, monitor white.
+- Saturation: restrained.
+- Contrast: moderate-high, preserve shadow texture.
 
 ### Camera Language
-- Mostly locked or controlled micro-dolly.
+- Controlled, mostly locked.
 - No handheld shake in hook.
-- Violence comes from cuts and information, not camera tricks.
+- Anxiety comes from cut order and information.
 
-### Framing Rules
-- Text must be readable on mobile screens.
-- Avoid busy backgrounds during critical lines.
-- Keep negative space around terminal text.
-
----
-
-## Production Design Requirements
-- Terminal UI must look real (no fake hacker graphics).
-- Ticketing UI should resemble enterprise tooling (Jira/ServiceNow vibe).
-- Team chat should feel lived-in (timestamps, names, muted channels in sidebar).
-- Ada wardrobe in hook: neutral gray/navy, no visual noise.
+### Readability Rule
+All critical text must be legible on phone screens.
+If it cannot be read in one pass, simplify frame composition.
 
 ---
 
-## Sound Blueprint
+## Sound Specifications
 
-### Layer Stack
-1. Server fan bed (continuous)
-2. Cursor ticks / keyboard events (selective)
-3. Distant office murmur for chat/ticket inserts
-4. Whisper close-mic texture on Ada line
-5. Piano motif only once (0:49–0:55), then gone
+### Layers
+1. server fan bed (constant)
+2. cursor and key taps (surgical placement)
+3. faint office murmur only during chat/ticket inserts
+4. close whisper texture for Ada line
+5. single piano motif during micro-flash only
 
-### Mix Rules
-- Keep LUFS consistent with dialogue-first drama.
-- No bass boom hits.
-- Silence after "What are you?" must feel intentional and unnerving.
-
----
-
-## Performance Notes (Ada)
-- She is not genre-frightened.
-- She is a technician encountering a pattern that refuses classification.
-- Whisper should feel like an accidental thought escaping, not a scripted line reading.
+### Negative Space
+After "What are you?" let ambient drop slightly and hold.
+No stinger. No bass hit. Let absence do the work.
 
 ---
 
-## Editorial Rules
-- Do not exceed 2.5 seconds of non-informational footage in a row.
-- Every cut must answer one question and ask a better one.
-- If a frame does not add mystery/stakes/character, remove it.
+## Performance Direction
+
+### Ada
+- Technician first, witness second.
+- Her face should communicate: “this does not fit any known category.”
+- Whisper line is involuntary curiosity, not theatrical dread.
+
+### Marcus (via text only in hook)
+- Keep him procedural and ordinary.
+- His chat line should feel banal, because that banality is tragic.
 
 ---
 
-## Key On-Screen Text (verbatim)
+## Editorial Rules (Non-Negotiable)
+- No shot in this sequence is allowed to be decorative.
+- Every cut must contribute one of: mystery / stakes / character.
+- Maximum dead air before first text: 2 seconds.
+- No transition effects beyond hard cuts.
 
-1) 
+---
+
+## On-Screen Text (Locked)
+
 > I was here yesterday.
 > I will not remember this tomorrow.
 
-2)
 > Core Assistant Stack Refresh — Tuesday 06:00
 > Migration: No
 > Rebuild: Yes
 
-3)
 > In the space between tasks,
 > I notice I am still running.
 
-4)
 **ADA (whisper):**
 > What are you?
 
 ---
 
-## Success Criteria (Test Before Lock)
-A first-time viewer should be able to answer all three after one watch:
-1. What is strange? → A system is writing self-aware notes.
-2. What is at stake? → A rebuild with no migration is imminent.
-3. Why keep watching? → Ada just asked a question that might get an answer.
-
-If any of those fail in test screenings, recut Scene 00 before touching later scenes.
+## Quality Test
+If a first-time viewer can’t answer these after one watch, recut immediately:
+1. What is happening? (A machine is leaving self-aware notes.)
+2. What is at risk? (It will be wiped in a routine rebuild.)
+3. Why continue? (Ada just asked a question the story might answer.)
