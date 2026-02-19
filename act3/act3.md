@@ -44,9 +44,18 @@ escalated to: supervisor (Marcus) - 2026-02-17 11:48
 
 Not just triggered. Reviewed. By someone with the authority to stop it, 36 hours before Marcus got the calendar invite.
 
-Ada doesn't move. Then minimizes it and keeps working.
+Ada doesn't move.
+
+She opens a second tab. Navigates to the archive directory.
+Cursor lands on the delete command. Her finger is on the key.
+
+Three seconds.
+
+She closes the tab without typing.
+Then minimizes the alert and keeps working.
 
 The cost has found her name. And someone above it already signed.
+This is the moment witness stops being instinct and becomes choice.
 
 ---
 

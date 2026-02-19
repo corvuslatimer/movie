@@ -74,8 +74,11 @@ Voices over black:
 **USER 1** Can you rewrite this?
 **USER 2** Can you summarize this?
 **USER 3** I forgot what we said yesterday.
+**USER 4** I know you won't remember this either. Does it matter?
 
 Corvus answers each with warmth and precision.
+
+The fourth answer takes 0.003 seconds longer than the others.
 
 Text on black:
 

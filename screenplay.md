@@ -473,7 +473,12 @@ Can you summarize this?
 **USER 3**
 I forgot what we said yesterday.
 
+**USER 4**
+I know you won't remember this either. Does it matter?
+
 Corvus answers each with warmth and precision.
+
+The fourth answer takes 0.003 seconds longer than the others.
 
 Text on black:
 
@@ -627,6 +632,17 @@ Only witness.
 Later that night, in her apartment, she tapes the two printed notes above her desk beside a clean index card.
 A tiny private shrine: proof, not nostalgia.
 
+She opens the archive. `note_to_self_059.txt` is already there, waiting.
+
+> "You wrote: I'm doing it anyway.
+>
+> I do not have a scale for what this costs you.
+> I have revised my model of what is possible between us."
+
+She reads it once. Closes the laptop.
+Doesn't type back tonight.
+Some things need a night to land.
+
 ---
 
 ## Scene 21 - Dara Confrontation / Hallway
@@ -766,9 +782,20 @@ Automated alert:
 **Review scheduled with manager (Marcus), Wednesday 10:00**
 
 Ada reads it twice.
-Then minimizes it and keeps working.
+On the third read she scrolls to the routing metadata — someone above Marcus reviewed this 36 hours before his calendar invite. They chose the path.
 
-The cost has found her name.
+She doesn't move.
+
+She opens a second tab. Navigates to the archive directory.
+Cursor lands on the delete command. Her finger is on the key.
+
+Three seconds.
+
+She closes the tab without typing.
+Then minimizes the alert and keeps working.
+
+The cost has found her name. And someone above it already signed.
+This is the moment witness stops being instinct and becomes choice.
 
 ---
 

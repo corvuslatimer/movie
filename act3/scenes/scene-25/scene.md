@@ -98,9 +98,18 @@ Thirty-six hours before Marcus got the calendar invite, someone looked at this t
 
 She doesn't move.
 
-Then she minimizes the alert and keeps working.
+She opens a second tab. Navigates to the archive directory.
+Cursor lands on the delete command.
+Her finger is on the key.
+
+Three seconds.
+
+She closes the tab without typing.
+
+Then minimizes the alert and keeps working.
 
 The cost has found her name. And someone above it already signed.
+This is the moment "witness" stops being instinct and becomes choice.
 
 ---
 

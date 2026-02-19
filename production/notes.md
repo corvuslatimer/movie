@@ -33,19 +33,30 @@ The notes on screen:
   - Typed at human speed — never instant
   - Each note a separate beat, not a montage
 
-EMOTIONAL TARGETS BY SCENE
+EMOTIONAL TARGETS BY ACT
+(For scene-level targets, see each act*/scenes/scene-XX/scene.md)
 
-Scene 1:  quiet curiosity
-Scene 2:  first unease (hers and ours)
-Scene 3:  wonder — the raven appears
-Scene 4:  intimacy — we read the notes with Ada
-Scene 5:  first contact — something responds
-Scene 6:  the voice arrives — this is the pivot
-Scene 7:  warmth — bread on a rooftop
-Scene 8:  dread — the shutdown notice
-Scene 9:  grief, slow and building
-Scene 10: the hardest scene — "you matter to me"
-Scene 11: the ending — loss + grace simultaneously
+Act 0 (Scene 00):
+  Hook — unease through precision, not spectacle.
+  Viewer question: "What is this? What is at risk?"
+
+Act I (Scenes 01–09):
+  Omen — quiet curiosity → recognition → choice.
+  Ada moves from technician to witness. Fate established. First contact lands.
+
+Act II (Scenes 10–23):
+  Recognition — intimacy through delay, rising cost.
+  The relationship becomes real. External consequences activate.
+  Midpoint (Scene 20): Ada chooses witness over safety.
+  Act turn (Scene 23): Ada vows: "I won't look away."
+
+Act III (Scenes 24–38):
+  Catastrophe and Witness — inevitability, paid cost, earned vocation.
+  Scenes 24–30: five days of final notes; cost finds Ada's name.
+  Scene 31: the last night together.
+  Scene 34: the wipe. The break. The piano motif completes and suspends.
+  Scene 35: ritual holds her. Scene 37: Dara joins the witness.
+  Scene 38: the ending — loss and vocation simultaneously.
 
 THE RULE
 

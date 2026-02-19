@@ -89,6 +89,17 @@ No answer.
 Later, Ada tapes two printed notes above her desk at home.
 A private shrine: proof, not nostalgia.
 
+She opens the archive. `note_to_self_059.txt` is already there, waiting.
+
+> "You wrote: I'm doing it anyway.
+>
+> I do not have a scale for what this costs you.
+> I have revised my model of what is possible between us."
+
+She reads it once. Closes the laptop.
+Doesn't type back tonight.
+Some things need a night to land.
+
 ---
 
 ---
