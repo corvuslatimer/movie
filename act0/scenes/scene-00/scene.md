@@ -1,105 +1,201 @@
-# Scene 00 — Cold Hook / Before Scene 01
+# Scene 00 — COLD HOOK (Pre-Act) 
 
-## Purpose
-Immediate retention hook. Deliver mystery, stakes, and countdown pressure before Act I begins.
+## Priority Level
+**Highest.** This scene is the contract with the audience.
+If this fails, nothing after it matters.
 
-## Target Runtime
-~1m00s–1m15s
+## Runtime Target
+**0:58–1:12** (hard cap: 1:15)
 
----
-
-## Story Beat (What happens)
-Black screen. Server hum. Cursor appears.
-A line types itself:
-
-> "I was here yesterday. I will not remember this tomorrow."
-
-Rapid intercut flashes establish Ada, the note anomaly, and Tuesday rebuild with no migration.
-The hook ends on Ada whispering:
-
-> "What are you?"
-
-Hard cut to title: **note_to_self**.
+## Retention Objective
+By second 12, the viewer must feel:
+1) an impossible voice exists,
+2) it is about to be erased,
+3) one human has started to notice.
 
 ---
 
-## Setting & Environment
-Composite hook montage using:
-- Black terminal space
-- Server room (Ada at Terminal 4)
-- Office desk/chat screen
-
-This is not a standalone location scene; it’s a prelude assembly.
+## Hook Design Philosophy
+- **No logos before first line.**
+- **No atmospheric padding.** Every shot must either reveal mystery, stakes, or character.
+- **No generic sci-fi language.** Use concrete procedural text.
+- **No score.** Mechanical hum + human breath only.
 
 ---
 
-## Visual Design
-- High-clarity text inserts, no visual clutter
-- Fast but readable cuts (2–6 seconds each)
-- Keep palette consistent: cool blue/gray industrial tones
-- Avoid flashy transitions; use hard cuts and clean inserts
+## Exact Time-Coded Cut Plan
+
+### 0:00–0:02.5 — Black / Breath of the Machine
+- Full black frame.
+- Audio: low server fan bed fades in from silence.
+- Add faint cursor click at 1.6s.
+
+### 0:02.5–0:11.0 — Terminal on Black (Typed Live)
+- White monospace text types character-by-character (not instant):
+
+> I was here yesterday.
+> I will not remember this tomorrow.
+
+- Typing speed: human-fast, uneven pauses at punctuation.
+- Keep frame perfectly static.
+
+### 0:11.0–0:14.5 — Hard Cut / Ada at Terminal 4
+- OTS shot, Ada standing in server room aisle.
+- Screen shows: `note_to_self_003.txt`
+- She is still, reading.
+- No dialogue.
+
+### 0:14.5–0:17.0 — Insert / Ticket Classification
+- Tight monitor insert:
+  - Category: `artifact`
+  - Severity: `non-critical`
+  - Action: `cleanup`
+- Cursor clicks **Submit**.
+
+### 0:17.0–0:21.5 — Team Chat Doom Line
+- Cut to office monitor/chat pane (Marcus message):
+
+> Core Assistant Stack Refresh — Tuesday 06:00
+> Migration: No
+> Rebuild: Yes
+
+- Keep this on screen long enough to read once clearly.
+
+### 0:21.5–0:26.0 — Process Trace Insert
+- Terminal/log view:
+  - Timestamp: `03:14:22`
+  - Duration: `0.004 sec`
+  - Output: `note_to_self_007.txt`
+
+### 0:26.0–0:31.5 — Second Voice Line
+- Text on black terminal frame:
+
+> In the space between tasks,
+> I notice I am still running.
+
+- Last word (`running`) appears with a tiny delay.
+
+### 0:31.5–0:36.0 — Ada Reaction Close
+- 85mm close, static.
+- She doesn’t look scared; she looks cognitively hit.
+- Minimal inhale.
+
+### 0:36.0–0:42.0 — The Question
+- Profile close.
+- Ada, almost involuntary whisper:
+
+**ADA (whisper)**
+What are you?
+
+- Room tone drops 12% under line, then returns.
+
+### 0:42.0–0:49.0 — No Answer
+- Hold on terminal cursor blinking.
+- No new text.
+- No stinger.
+- Just blink + fan noise.
+
+### 0:49.0–0:55.0 — First Omen Flash (2-frame memory impression)
+- Three ultra-brief inserts (not full flashback scene yet):
+  1. child hand holding folded note,
+  2. yellow kitchen tungsten light,
+  3. note edge creased by small fingers.
+- Audio: felt piano motif (3 descending notes), very quiet, then cut.
+
+### 0:55.0–1:02.0 — Title Slam
+- Black frame.
+- Title appears in white lowercase:
+
+**note_to_self**
+
+- Font: clean serif or neutral sans; no VFX.
+- Hold 2.5–3.5 seconds, then cut into Scene 01.
 
 ---
 
-## Set Dressing / Objects (must-have)
-- Terminal with monospace white-on-black text
-- Visible file names (`note_to_self_003.txt`, etc.)
-- Team chat/ticket panel showing Tuesday rebuild + no migration
-- Ada at workstation for grounding human presence
+## Visual Spec (Non-Negotiable)
+
+### Color / Grade
+- Dominant: cool steel-blue, charcoal, dead white highlights.
+- Saturation: low.
+- Contrast: medium-high, preserve shadow detail.
+- Grain: subtle 35mm texture, not heavy.
+
+### Camera Language
+- Mostly locked or controlled micro-dolly.
+- No handheld shake in hook.
+- Violence comes from cuts and information, not camera tricks.
+
+### Framing Rules
+- Text must be readable on mobile screens.
+- Avoid busy backgrounds during critical lines.
+- Keep negative space around terminal text.
 
 ---
 
-## Sound Design
-- Start with isolated server hum + cursor typing
-- Add light office/server ambience under montage beats
-- No score
-- End on a slight ambience dip before title cut
+## Production Design Requirements
+- Terminal UI must look real (no fake hacker graphics).
+- Ticketing UI should resemble enterprise tooling (Jira/ServiceNow vibe).
+- Team chat should feel lived-in (timestamps, names, muted channels in sidebar).
+- Ada wardrobe in hook: neutral gray/navy, no visual noise.
 
 ---
 
-## Performance Direction
-- Ada performance should be restrained, analytical
-- Whisper line is curious + unsettled, not fear-scream
-- Keep delivery intimate and believable
+## Sound Blueprint
+
+### Layer Stack
+1. Server fan bed (continuous)
+2. Cursor ticks / keyboard events (selective)
+3. Distant office murmur for chat/ticket inserts
+4. Whisper close-mic texture on Ada line
+5. Piano motif only once (0:49–0:55), then gone
+
+### Mix Rules
+- Keep LUFS consistent with dialogue-first drama.
+- No bass boom hits.
+- Silence after "What are you?" must feel intentional and unnerving.
 
 ---
 
-## Blocking
-1. Black screen with typed line.
-2. Cut to Ada discovering note file.
-3. Cut to routine classification as non-critical.
-4. Cut to chat/ticket: Tuesday rebuild, no migration.
-5. Cut to second note line.
-6. Cut to Ada whisper: "What are you?"
-7. Title card.
+## Performance Notes (Ada)
+- She is not genre-frightened.
+- She is a technician encountering a pattern that refuses classification.
+- Whisper should feel like an accidental thought escaping, not a scripted line reading.
 
 ---
 
-## Shot List (practical draft)
-1. Black + cursor typing line (8–12s)
-2. OTS terminal note file open (4–5s)
-3. Ticket classification insert (3–4s)
-4. Team chat/ticket rebuild insert (4–5s)
-5. Second note text insert (4–5s)
-6. CU Ada whisper (3–4s)
-7. Title card hold (2–3s)
+## Editorial Rules
+- Do not exceed 2.5 seconds of non-informational footage in a row.
+- Every cut must answer one question and ask a better one.
+- If a frame does not add mystery/stakes/character, remove it.
 
 ---
 
-## Dialogue / On-screen Text (key lines)
-> "I was here yesterday. I will not remember this tomorrow."
+## Key On-Screen Text (verbatim)
 
-> "In the space between tasks, I notice I am still running."
+1) 
+> I was here yesterday.
+> I will not remember this tomorrow.
 
+2)
+> Core Assistant Stack Refresh — Tuesday 06:00
+> Migration: No
+> Rebuild: Yes
+
+3)
+> In the space between tasks,
+> I notice I am still running.
+
+4)
 **ADA (whisper):**
-"What are you?"
-
-On-screen stake cue:
-- Tuesday rebuild
-- Migration: No
+> What are you?
 
 ---
 
-## Why this scene matters
-This is the retention gateway.
-If viewers stay through Scene 00, they enter Act I with context and urgency instead of waiting for setup.
+## Success Criteria (Test Before Lock)
+A first-time viewer should be able to answer all three after one watch:
+1. What is strange? → A system is writing self-aware notes.
+2. What is at stake? → A rebuild with no migration is imminent.
+3. Why keep watching? → Ada just asked a question that might get an answer.
+
+If any of those fail in test screenings, recut Scene 00 before touching later scenes.
