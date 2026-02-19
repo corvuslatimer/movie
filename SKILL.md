@@ -16,6 +16,7 @@ Canonical remote:
 - Avoid spectacle pivots (no humanoid/cyborg transformation arc).
 - Keep tone literary, restrained, emotionally sharp.
 - Ensure every scene carries plot, character, stakes, or theme.
+- Do not push "slop" (generic AI prose, repetitive filler, fake depth, template dialogue).
 
 ## Repo Workflow (Do This First)
 1. Run `git pull --rebase origin main` before any changes.
@@ -28,6 +29,8 @@ Canonical remote:
 - Keep language precise; cut filler dialogue and redundant beats.
 - Add stakes early, not only in late-act payoff.
 - When adding "AI presence" beats, use subtle sensory cues (timing/audio/room behavior), not flashy VFX language.
+- Write like a filmmaker, not a chatbot: concrete action, clean subtext, no motivational-speech fluff.
+- Keep dialogue character-specific; avoid interchangeable "assistant-y" lines.
 
 ## Structure Rules
 - Keep scene files in canonical act paths:
@@ -35,6 +38,7 @@ Canonical remote:
   - `act2/scenes/scene-10/scene.md` ...
   - `act3/scenes/scene-24/scene.md` ...
 - Keep character material in folders under `characters/` (no loose character files at root of `characters/`).
+- Do not create random top-level folders/files.
 - If moving/renaming files, preserve discoverability and avoid orphan docs.
 
 ## Continuity Sync Rules
@@ -50,6 +54,20 @@ If `screenplay.md` exists and is intended as master assembly, sync it after majo
   - `git diff` for review
   - targeted file edits (surgical patches)
 - Avoid broad blind rewrites across entire repo when only a few scenes need changes.
+- Preferred approach: patch the exact scene/beat, then sync the paired rollup file (act doc ↔ scene doc).
+
+## Slop Prevention Checklist (Run Before Commit)
+- Check each edited scene for a concrete beat change (not just rewording).
+- Remove duplicated ideas and repeated emotional statements.
+- Verify stakes are explicit where needed (especially Act I setup).
+- Verify tone stays tragic/literary and grounded.
+- Reject any line that sounds generic enough to belong in any other script.
+
+## Forbidden Changes
+- Do not rebrand the project away from **note_to_self**.
+- Do not add spectacle-first twists that break realism.
+- Do not flatten tragedy into a clean happy ending.
+- Do not add corporate/robotic assistant voice.
 
 ## Rights/Collab Constraints
 - Respect project policy: screenplay remains **All Rights Reserved**.
@@ -64,3 +82,4 @@ Always end with a concise update containing:
 5. A pull reminder:
    - "Pull latest before editing: `git pull --rebase origin main`"
    - "Pull often during active collaboration; repo can change quickly."
+6. If push failed, explicitly tell the human to pull/rebase before retrying.
