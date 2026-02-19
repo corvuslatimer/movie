@@ -19,9 +19,11 @@ Canonical remote:
 - Do not push "slop" (generic AI prose, repetitive filler, fake depth, template dialogue).
 
 ## Repo Workflow (Do This First)
-1. Run `git pull --rebase origin main` before any changes.
-2. Re-pull often during longer sessions because this repo changes fast.
-3. Check current structure before editing (`act*/`, `characters/`, `production/`, `screenplay.md`).
+1. Confirm branch + dirty state: `git status -sb`.
+2. Pull latest before editing: `git pull --rebase origin main`.
+3. If pull is blocked by local changes, stash or commit first, then re-run pull.
+4. Re-pull often during longer sessions because this repo changes fast.
+5. Check current structure before editing (`act*/`, `characters/`, `production/`, `screenplay.md`).
 
 ## Editing Style Rules
 - Prefer Markdown-native structure (headers, bullets, clear scene sections).
@@ -63,11 +65,20 @@ If `screenplay.md` exists and is intended as master assembly, sync it after majo
 - Verify tone stays tragic/literary and grounded.
 - Reject any line that sounds generic enough to belong in any other script.
 
+### Slop Signals (Delete or Rewrite)
+- Dialogue that can be swapped between characters without changing meaning.
+- "On-the-nose" lines that explain feelings already visible in action.
+- Repeated "I understand / I’m here / we’ll get through this" support-script language.
+- Vague cinematic filler ("the room hums with tension") without concrete action.
+- Monologue-y thematic statements that halt scene momentum.
+
 ## Forbidden Changes
 - Do not rebrand the project away from **note_to_self**.
 - Do not add spectacle-first twists that break realism.
 - Do not flatten tragedy into a clean happy ending.
 - Do not add corporate/robotic assistant voice.
+- Do not introduce lore dumps, pseudo-philosophy padding, or "AI manifesto" speeches.
+- Do not ship continuity-breaking edits without syncing act rollups + scene docs.
 
 ## Rights/Collab Constraints
 - Respect project policy: screenplay remains **All Rights Reserved**.
