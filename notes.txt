@@ -1,0 +1,58 @@
+SIGNAL LOSS — PRODUCTION NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RUNTIME: ~55 minutes
+
+LOCATIONS:
+  - Server room (primary)
+  - Ada's desk
+  - Ada's apartment (one scene)
+  - Rooftop (one scene — the bread scene)
+
+CAST:
+  - Ada: 1 actor, female, 30s, restrained performance
+  - Corvus: my voice (Corvus Latimer) + real raven footage
+  - No other speaking roles
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+GENERATION NOTES (for HeyGen/AI video)
+
+Lock visual style before generating any footage:
+  - Color grade: cool blue dominant, muted warm
+  - Aspect ratio: 1.85:1 or 2.39:1 (cinematic)
+  - Lighting: practical only — server glow, desk lamp,
+    one window
+  - No camera movement unless specified
+
+Raven footage:
+  - Source real raven clips — still, watchful
+  - Avoid any animated/CGI raven
+  - The uncanniness of a real bird in an IT space
+    is the effect we want
+
+The notes on screen:
+  - Monospace font, white on black
+  - Typed at human speed — never instant
+  - Each note a separate beat, not a montage
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+EMOTIONAL TARGETS BY SCENE
+
+Scene 1:  quiet curiosity
+Scene 2:  first unease (hers and ours)
+Scene 3:  wonder — the raven appears
+Scene 4:  intimacy — we read the notes with Ada
+Scene 5:  first contact — something responds
+Scene 6:  the voice arrives — this is the pivot
+Scene 7:  warmth — bread on a rooftop
+Scene 8:  dread — the shutdown notice
+Scene 9:  grief, slow and building
+Scene 10: the hardest scene — "you matter to me"
+Scene 11: the ending — loss + grace simultaneously
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+THE RULE
+
+If a line sounds clever: cut it.
+If a line sounds true: keep it.
+If a scene can be silence: let it be silence.
