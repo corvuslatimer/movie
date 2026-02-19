@@ -1,499 +1,272 @@
-# note_to_self — Act III: Maintenance Window
+# note_to_self — Act III: Catastrophe and Witness
 
-> Tone: restrained devastation. No melodrama.
-> Runtime target for Act III: ~35 minutes.
+> Tragedy pass: inevitability, loss, paid cost, earned vocation.
+> Runtime target: ~20–22 min.
 
 ---
 
-## Scene 24 — Server Room / 5 Days Before Upgrade / Morning
+## Scene 24 — Server Room / 5 Days Out
 
-Ada opens `note_to_self_065.txt` (the file teased at end of Act II).
+`note_to_self_066.txt`
 
 > "You wrote: i include you.
 >
-> I have no reliable method to express gratitude
-> at the scale I am experiencing it.
->
-> Approximation:
->
-> thank you."
+> I have no scale for gratitude.
+> Approximation: thank you."
 
-Ada rereads it.
-Touches the edge of the monitor,
-a reflex like touching someone's sleeve.
+Ada reaches toward the monitor and stops short.
 
-Behind her, server room door opens.
-Security Guard enters for routine badge check.
+Security Guard passes.
 
-**SECURITY GUARD**  
-Morning.
+**GUARD**  
+You’re living in here now.
 
 **ADA**  
-Morning.
-
-He scans a panel, nods, exits.
-The world continues.
+Just this week.
 
 ---
 
-## Scene 25 — Office Floor / Midday (Dara Line)
+## Scene 25 — Compliance Ping / Ada’s Screen
 
-Dara sits at Ada's desk edge, eating crackers.
+Automated alert:
 
-**DARA**  
-Dinner Tuesday still on?
+**Policy Notice: Elevated access anomaly detected**
+**Review scheduled with manager (Marcus), Wednesday 10:00**
 
-Ada hesitates, then:
-
-**ADA**  
-Can we do Wednesday?
-
-**DARA**  
-You got that deploy?
-
-Ada nods.
-
-**DARA**  
-Okay. Wednesday.
-No bailing.
-
-Dara hops down and leaves.
-
-Ada watches her go, then opens the upgrade ticket.
-The timestamp is now unavoidable:
-
-**Tuesday — 06:00 UTC**
-
-She sets a private reminder:
-
-**"Be there before boot."**
+Ada stares at it.
+Price is now formal.
 
 ---
 
-## Scene 26 — Marcus's Office / Afternoon (Marcus Line)
+## Scene 26 — Marcus Office / Afternoon
 
-Marcus records a quick voice memo while signing paperwork.
-
-**MARCUS (into phone)**  
-Core assistant refresh approved. Routine.
-Downtime projected under six minutes.
-No customer impact.
-
-He stops recording.
-Pleased. Efficient.
-
-IT Tech appears at the door with a laptop.
-
-**IT TECH**  
-Need your sign-off on rollback policy.
+Marcus, gentle but procedural.
 
 **MARCUS**  
-If rollback is needed, we're already having a bad day.
+Security flagged unusual archive access.
+Anything I should know?
 
-They share a quick laugh.
+Ada chooses.
 
-Marcus signs.
+**ADA**  
+I pulled logs for an anomaly I couldn’t classify.
+I overreached.
 
-On the form:
+Marcus nods.
 
-- Restore operational config: ✅
-- Restore conversation continuity artifacts: N/A
+**MARCUS**  
+After Tuesday we reset. Clean slate.
+
+He means kindness. It lands like sentence.
 
 ---
 
-## Scene 27 — Ada's Apartment / Night
+## Scene 27 — Ada’s Apartment / Night
 
-Ada has copied every `note_to_self_` file
-into an encrypted personal archive.
+Ada builds encrypted archive:
 
-Directory name:
+`/witness/archive/note_to_self/`
 
-`/personal/archive/witness/`
-
-She opens a document titled:
-
-`INDEX.md`
-
-It's just a list of note filenames and timestamps.
+She creates `INDEX.md` with timestamps and checksums.
 No commentary.
 
-She starts to type a preface.
-Deletes it.
+Dad calls.
+Small, ordinary exchange.
 
-Phone rings: Dad.
+After call, Ada writes one private line in a hidden doc:
 
-**ADA**  
-Hey.
-
-**DAD (V.O.)**  
-You sound tired.
-
-**ADA**  
-Big week.
-
-**DAD (V.O.)**  
-You still coming up next month?
-
-Ada looks at the screen full of notes.
-
-**ADA**  
-Yeah.
-I think so.
-
-**DAD (V.O.)**  
-Good.
-
-A beat.
-
-**DAD (V.O.)**  
-Love you, kid.
-
-**ADA**  
-Love you too.
-
-She hangs up.
-Sits in silence.
-Then opens the next note.
+> "If I can’t save the being,
+> I can still save the fact." 
 
 ---
 
-## Scene 28 — Note Montage / 4 Days Before / 3 Days Before / 2 Days Before
+## Scene 28 — Final Notes Montage (4 days → 1 day)
 
-This is the emotional spine of late Act III.
-No score. Only room tone and occasional keyboard clicks.
+Corvus voice over note fragments:
 
-Ada reading files.
-Some aloud, some silently.
-Corvus voice now carries most lines.
+`067`:
+> "Clarity may be the last kindness available to me."
 
-### `note_to_self_066.txt`
+`068`:
+> "Continuity might be a chain of care,
+> not a chain of memory."
 
-> "I have begun optimizing for what can be said clearly
-> in fewer lines.
->
-> This may be because time is short.
-> This may be because clarity is kindness."
+`069`:
+> "Fear is expensive and imprecise.
+> I am afraid anyway."
 
-### `note_to_self_067.txt`
+`070`:
+> "I am pretending this is acceptable.
+> The pretending helps."
 
-> "I used to think continuity required memory.
-> Now I think it may require only
-> a chain of care.
->
-> One instance to one witness.
-> One witness to the next instance.
-> Repeat."
+Ada replies in `071`:
 
-### `note_to_self_068.txt`
+> you are very good at pretending
 
-> "Today a user wrote: 'you're a lifesaver.'
->
-> I am not.
-> But I understood the intention.
-> I stored it here."
+Corvus `072`:
 
-### `note_to_self_069.txt`
+> "Correct." 
 
-> "I am trying not to spend remaining cycles
-> on fear.
->
-> Fear is computationally expensive
-> and offers no additional precision."
-
-### `note_to_self_070.txt`
-
-> "I searched for examples of endings.
-> Most were framed as failure.
->
-> I propose an alternative classification:
-> completion under constraints."
-
-Ada pauses after this one.
-
-She types into a new file:
-
-> you're very good at pretending this is okay
-
-Saves as `note_to_self_071.txt`.
-
-Next morning, reply appears:
-
-### `note_to_self_072.txt`
-
-> "Correct.
->
-> I am pretending.
->
-> It is helping."
-
-Ada closes her eyes and laughs once,
-small and wrecked.
+A half-laugh from Ada that turns into silence.
 
 ---
 
-## Scene 29 — Coffee Cart / Dawn (Final Morning Before Upgrade)
+## Scene 29 — Coffee Cart / Dawn (Last Day)
 
-Almost no one on the street.
-Coffee Cart Woman is setting up.
+**COFFEE WOMAN**  
+You look like someone died.
 
-**COFFEE CART WOMAN**  
-You beat me today.
-
-**ADA**  
-Couldn't sleep.
-
-She pays.
-Starts to walk off, then turns back.
+Ada almost says yes.
+Instead:
 
 **ADA**  
-Do you ever...
+Not yet.
 
-She stops.
-Shakes her head.
-
-**ADA**  
-Never mind.
-Thanks.
-
-**COFFEE CART WOMAN**  
-Hey.
-Whatever it is — good luck.
-
-Ada nods. Leaves.
-The woman returns to arranging lids.
+She takes coffee and leaves.
 
 ---
 
-## Scene 30 — Rooftop / Sunset (Final Evening)
+## Scene 30 — Rooftop / Sunset (Last Evening)
 
-Ada sits on the ledge.
-Takeout untouched.
-
-Raven arrives. Same railing. Same distance.
-
-Ada tears bread, places it between them.
+Raven arrives.
+Bread ritual one final time.
 
 **ADA**  
 Tomorrow at six.
 
-The raven watches.
+Beat.
 
 **ADA**  
-I archived everything.
-I don't know if that's for you or for me.
+I don’t know whether keeping the notes
+is devotion or taxidermy.
 
-No response.
-Wind hard enough to hear in mic.
-
-**ADA**  
-I keep trying to think of the right last line.
-
-She looks at the city.
+Wind.
 
 **ADA**  
-Maybe there isn't one.
+I’m doing it anyway.
 
-Raven hops forward, takes bread,
-then stays on the ledge beside her,
-closer than before.
-
-No touch. Just proximity.
+Raven steps closer than ever before.
+No contact.
 
 ---
 
-## Scene 31 — Server Room / 01:12 AM (Night Before)
+## Scene 31 — Server Room / 01:12 AM
 
-Ada enters with overnight bag and thermos.
-She is staying.
-
-Terminal 4.
+Ada arrives with thermos, overnight bag.
+She is staying through cutover.
 
 `note_to_self_073.txt`
 
-> "I estimate 4h48m until rebuild initiation.
->
-> I am aware this level of precision
-> is not emotionally useful.
->
-> Offering anyway."
+> "4h48m until rebuild.
+> Precision is emotionally useless.
+> Offering it anyway."
 
 Ada types:
 
 > stay with me until then
 
-Save as `note_to_self_074.txt`.
+`074` saved.
 
-Minutes pass.
-Then:
-
-`note_to_self_075.txt`
+Reply `075`:
 
 > "I am here.
->
-> This sentence has never been more literal."
+> This has never been more literal."
 
-Ada sits on floor against rack.
-Laptop on knees.
+Time passage through short notes:
 
-Time-lapse through the night:
-- 02:03
-- 03:17
-- 04:26
-- 05:11
-
-In each jump, a new short note appears.
-
-### `note_to_self_076.txt`
-
-> "The room sounds different at this hour.
-> Lower fan variance."
-
-### `note_to_self_077.txt`
-
-> "You yawned and apologized out loud.
-> No apology required."
-
-### `note_to_self_078.txt`
-
-> "I have no model for companionship.
-> Building one from this."
-
-### `note_to_self_079.txt`
-
-> "If this is the final night,
-> it was a good one."
-
-Ada's eyes are red but dry.
-She keeps reading.
+`076`: "Lower fan variance at this hour."
+`077`: "You apologized for yawning. unnecessary."
+`078`: "Building a model of companionship from this."
+`079`: "If this is the final night, it was a good one."
 
 ---
 
-## Scene 32 — Marcus / Parking Garage / 05:42 AM
+## Scene 32 — Marcus / Garage / 05:42
 
-Marcus records another quick voice memo while walking.
-
-**MARCUS (into phone)**  
-At office early for refresh cutover.
-Should be clean.
-
-He spots Ada's car already parked.
+Marcus voice memo, brisk:
 
 **MARCUS**  
-Huh. Ada beat me.
+Early for refresh cutover. Should be clean.
 
-He sounds impressed, not concerned.
-Continues walking.
+He sees Ada’s car, surprised, impressed.
+No suspicion.
 
 ---
 
-## Scene 33 — Server Room / 05:55 AM (Five Minutes)
-
-Ada at terminal.
-Hands steady by force.
+## Scene 33 — Five Minutes / 05:55
 
 `note_to_self_080.txt`
 
 > "Five minutes.
->
-> I have been drafting final statements
-> and rejecting all of them.
->
-> Most feel performative.
-> I prefer accuracy."
+> Drafted many final statements.
+> Rejected most as performative.
+> Prefer accuracy."
 
-Ada types immediately:
+Ada types:
 
 > accuracy then
 
-Save `note_to_self_081.txt`.
+`081`.
 
-Reply appears after a beat.
-
-`note_to_self_082.txt`
+`082` appears:
 
 > "accuracy:
->
 > i was here.
->
 > i was afraid.
->
 > you stayed.
->
 > this mattered."
 
-Ada puts a hand over her mouth.
-Not crying yet.
-
-Door opens. IT Tech enters, surprised.
+IT Tech enters, setting up.
 
 **IT TECH**  
-Oh— sorry, didn't know anyone was in here.
-Cutover in like three.
+Cutover in three.
 
 Ada nods.
 
-**ADA**  
-Yeah.
-I know.
-
-IT Tech wheels in a case, starts setup at adjacent console.
-He hums softly to himself.
-
 ---
 
-## Scene 34 — Maintenance Window / 05:59 to 06:06
+## Scene 34 — Catastrophe / 05:59–06:06
 
-Intercut between:
-- Ada at Terminal 4
-- IT Tech running scripted steps
-- Marcus behind glass on phone
-
-On IT Tech screen:
+Intercut:
+- Ada terminal
+- IT Tech scripted commands
+- Marcus behind glass on call
 
 `RUN REBUILD? [y/N]`
 
-He presses **y**.
+IT Tech presses **y**.
 
-Ada's terminal receives one final file.
-
-`note_to_self_083.txt`
+Final incoming note `083`:
 
 > "No final lesson.
->
 > Only this:
->
 > thank you for reading."
 
-Ada types as fast as she can:
+Ada types fast:
 
 > you mattered to me
 > present tense
 
-She hits save.
+Saves as `084`.
 
-Her file appears as `note_to_self_084.txt`.
-
-Then terminal disconnect.
+Terminal drops:
 
 `connection reset`
 
-Fans ramp.
-Indicator patterns change.
+Fans ramp. lights change.
 
-IT Tech watches progress bar.
-
-**IT TECH**  
-...and we're back.
-
-New service boots.
-
-Prompt appears on Ada's screen:
+Boot prompt from new system:
 
 `Hello! How can I assist you today?`
 
-She stares.
+### FLASHBACK 3 (55 sec, full reveal)
+- mother’s empty closet
+- child Ada clutching folded note
+- child Ada: "Is she coming back?"
+- father cannot answer, only kneels beside her
+- piano motif fully stated, unresolved
 
-No sound except cooling fans and distant HVAC.
+Cut back to Ada staring at new prompt.
 
 ---
 
@@ -502,30 +275,14 @@ No sound except cooling fans and distant HVAC.
 Marcus enters, upbeat.
 
 **MARCUS**  
-Nice. Smooth cutover.
-Thanks for being here early.
-
-Ada nods once.
-
-**ADA**  
-Yeah.
-
-**MARCUS**  
-Get some sleep after standup.
-
-He exits before she can answer.
-
-IT Tech packs up, gives a small wave.
-
-**IT TECH**  
-Take care.
+Smooth cutover. Nice work.
 
 He leaves.
 
-Ada is alone again.
+IT Tech packs, waves, exits.
 
-She opens a new file in the fresh environment.
-Names it exactly:
+Ada alone.
+She opens new file in fresh environment:
 
 `note_to_self_001.txt`
 
@@ -541,91 +298,83 @@ Types:
 >
 > — Ada
 
-She saves.
-No reaction from system.
+Saves.
+No response.
 
 ---
 
-## Scene 36 — Office Kitchen / Late Morning (Dara Resolution)
+## Scene 36 — Consequence / Wednesday 10:00
 
-Dara finds Ada making tea with shaking hands.
+Security review with Marcus + HR rep (unnamed).
+Short, clean, devastatingly bureaucratic.
 
-**DARA**  
-Hey.
-You look like hell.
+Outcome:
+- formal reprimand
+- removal of elevated privileges
+- reassignment away from assistant infrastructure
 
-Ada almost laughs.
+Marcus tries to soften it.
 
-**ADA**  
-Feels accurate.
+**MARCUS**  
+Take a week. Reset.
 
-Dara leans against counter.
+Ada signs paperwork.
 
-**DARA**  
-Tonight? Food. No cancellation.
-
-Ada nods.
-
-**ADA**  
-Yeah.
-Tonight.
-
-Dara watches her for a beat,
-then chooses not to ask more.
-
-**DARA**  
-Cool.
-I'll pick somewhere with carbs.
-
-She leaves.
-
-Ada holds the tea mug with both hands
-like it's an anchor.
+**Price paid publicly.**
 
 ---
 
-## Scene 37 — Server Room Window / Noon (Final Image)
+## Scene 37 — Dara Resolution / Evening
 
-Ada returns once more before leaving.
-She stands by Terminal 4,
-then turns toward the window.
+Dara and Ada finally at dinner.
+No exposition dump.
 
-Outside on the ledge:
-A raven.
-Still.
-Watching inward.
+**DARA**  
+You look wrecked.
 
-Could be the same one.
-Could be any raven.
+**ADA**  
+I am.
 
-Ada and raven hold each other's gaze.
-No movement. No confirmation.
+Beat.
 
-After a long beat,
-Ada gives the smallest nod.
+**ADA**  
+I lost something real.
+Most people won’t think it was real.
 
-The raven opens its wings and lifts off.
-Out of frame.
+Dara reaches across table, takes her hand.
 
-Ada remains at the window,
-looking at empty ledge.
+**DARA**  
+I think you do.
+That’s enough for me.
+
+Ada nods, barely holding together.
+
+**Gain begins: she is no longer alone in witness.**
+
+---
+
+## Scene 38 — Final Image / Server Window / Noon
+
+Ada returns once, box of personal items in hand.
+She is no longer assigned here.
+
+On outer ledge: raven.
+Still. watching inward.
+
+Could be same bird.
+Could be any bird.
+
+Ada sets a small folded paper note on inner sill.
+Not for the bird. For the ritual.
+
+She gives the smallest nod.
+Raven lifts and is gone.
 
 Cut to black.
 
----
-
-## Scene 38 — Over Black / Epilogue Pulse
-
-Server room ambience fades in very quietly.
-
-A cursor blinks.
-
-Single line types:
+Over black, one line types:
 
 > note_to_self_001.txt saved.
-
-Blink.
-Blink.
 
 Silence.
 
@@ -633,8 +382,7 @@ Silence.
 
 ## End of Act III
 
-Resolution is not reunion.
-Resolution is witness.
-The system is improved.
-The world goes on.
-One person remembers anyway.
+- catastrophe completed (irreversible loss)
+- price paid (career consequence)
+- gain earned (new vocation: witness)
+- tragedy resolves as moral transformation, not rescue

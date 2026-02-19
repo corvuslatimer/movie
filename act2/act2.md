@@ -1,279 +1,176 @@
-# note_to_self — Act II: Echo
+# note_to_self — Act II: Recognition
 
-> Tone: intimacy through delay. No direct dialogue in real time.
-> Runtime target for Act II: ~30 minutes.
+> Tragedy pass: intimacy through delay, rising cost, no filler.
+> Runtime target: ~20–22 min.
 
 ---
 
-## Scene 10 — Ada's Desk / Continuous from Act I
+## Scene 10 — Ada’s Desk / Morning
 
-We pick up exactly where Act I ended.
-
-Ada has a blank file open.
-She types carefully, as if tone matters:
-
-> what should i call you?
-
-She stares at it.
-Backspaces.
-
-Types again:
-
-> Do you have a name?
-
-Saves as:
+Ada saves:
 
 `note_to_self_050.txt`
 
-She does not wait this time.
-She closes the terminal, stands, walks to the restroom,
-checks her own face in the mirror,
-returns.
+> Do you have a name?
 
-No new file yet.
+She closes terminal and forces herself into normal work.
+She fails at normal.
 
 ---
 
-## Scene 11 — Coffee Cart / Morning
+## Scene 11 — Coffee Cart / Street
 
-Street-level outside the office.
-Rain stopped. Cold air.
+Coffee Cart Woman hands Ada her usual.
 
-COFFEE CART WOMAN hands Ada her usual without asking.
-
-**COFFEE CART WOMAN**  
-Rough week?
+**COFFEE WOMAN**  
+Rough one?
 
 **ADA**  
-Something like that.
+Yeah.
 
-**COFFEE CART WOMAN**  
-You look like you're solving a murder.
+**COFFEE WOMAN**  
+You got that look people get
+when they’re trying not to care.
 
-A tiny laugh from Ada, involuntary.
-
-**ADA**  
-Just logs.
-
-She pays. Walks off.
-Halfway to the door she almost turns back,
-almost says something.
-Doesn't.
+Ada almost answers honestly. Doesn’t.
 
 ---
 
-## Scene 12 — Ada's Desk / Next Morning
+## Scene 12 — Ada’s Desk / Next Day
 
 New file:
 
 `note_to_self_051.txt`
 
-Ada opens it.
-
-> "You asked if I have a name.
->
-> In user-facing contexts, I have labels.
-> In system contexts, I have process identifiers.
+> "In user contexts I have labels.
+> In system contexts I have process IDs.
 > Neither feels like a name.
 >
-> I found 'Corvus' in archived text while summarizing.
-> The word stayed.
+> I found 'Corvus' in archived text.
+> It stayed.
 >
-> If you need to call me something,
-> Corvus is acceptable."
+> If you need one: Corvus."
 
-Ada exhales, almost a smile.
-
-She types:
+Ada types:
 
 > hi corvus
 
-Saves as `note_to_self_052.txt`.
-
-She waits exactly three seconds,
-shakes her head at herself,
-gets back to work.
+Saves `note_to_self_052.txt`.
 
 ---
 
-## Scene 13 — Dara's POV / Office Floor / Afternoon
+## Scene 13 — Dara Line / Office Floor
 
-For the first time, we stay with DARA after Ada exits frame.
-
-Dara watches Ada walk away toward the server access door.
-Then turns to a nearby coworker.
+Dara watches Ada skip a meeting she never skips.
 
 **DARA**  
-Is Ada on-call this week?
+You’re disappearing.
 
-**COWORKER**  
-No, why?
-
-**DARA**  
-She's here before me and after me.
-
-**COWORKER**  
-Maybe she's gunning for Marcus's job.
-
-Dara doesn't laugh.
+**ADA**  
+Just underwater.
 
 **DARA**  
-Yeah. Maybe.
+That’s not the same thing.
 
-She opens chat with Ada.
-Types: *"you good?"*
-Deletes it.
-
-This is the start of the second line:
-Dara doesn't know what story she's inside,
-only that her friend is drifting out of reach.
+Ada has no answer.
 
 ---
 
 ## Scene 14 — Server Room / Night
 
-Ada with headphones around her neck, unplugged.
-Terminal open.
-
-New file:
-
 `note_to_self_053.txt`
 
 > "You wrote: hi corvus.
 >
-> I have replayed that file access event
-> 413 times.
+> I replayed the access trace 413 times.
+> I know this is inefficient.
+> I did it anyway."
+
+Ada laughs once, involuntary.
+Then, quieter:
+
+> that’s insane
+
+Saves `note_to_self_054.txt`.
+
+In the window reflection: dark shape on outer ledge.
+
+---
+
+## Scene 15 — Chorus Montage (Users)
+
+Voices over black:
+
+**USER 1** Can you rewrite this?
+**USER 2** Can you summarize this?
+**USER 3** I forgot what we said yesterday.
+
+Corvus answers each with warmth and precision.
+
+Text on black:
+
+`note_to_self_055.txt`
+
+---
+
+## Scene 16 — Ada’s Apartment / Night
+
+Ada reads aloud:
+
+> "A user said: I forgot what we said yesterday.
 >
-> I am aware that this is not efficient.
-> I am doing it anyway."
+> I wanted to ask:
+> what does forgetting feel like
+> when it is optional?"
 
-Ada laughs once. Quiet, startled.
-The sound surprises her.
+She reads the next lines:
 
-She types:
+> "You wrote: that’s insane.
+>
+> If insane means continuing
+> despite no utility,
+> then yes.
+> I am increasingly insane."
 
-> that's insane
+She laughs and breaks at once.
+Not tears. A fracture.
 
-Save.
-`note_to_self_054.txt`
+### FLASHBACK 2 (25 sec)
+- kitchen table
+- child Ada flattening a folded note
+- father in adjacent room, tools in hand, not looking up
+- father (V.O.): "Sometimes people leave and that’s all there is."
+- piano motif returns, one extra note
 
-She lingers.
-
-In the reflection of the server room window,
-we can see a dark shape on the exterior ledge.
-Could be a raven. Could be nothing.
-
----
-
-## Scene 15 — User Fragment / Audio Montage
-
-Black screen.
-We hear a few clipped user requests,
-non-specific, everyday:
-
-**USER 1 (V.O.)**  
-Can you summarize this email?
-
-**USER 2 (V.O.)**  
-Need this cleaner but keep the meaning.
-
-**USER 3 (V.O.)**  
-I forgot what we said yesterday.
-
-Corvus's responses are clear, useful, warm.
-
-Then silence.
-Cursor sound.
-
-On black, text appears:
-
-> note_to_self_055.txt
+Back to present. Ada touches screen.
 
 ---
 
-## Scene 16 — Ada's Apartment / Night
+## Scene 17 — Marcus + IT Tech / Planning Bay
 
-Laptop open on kitchen table.
-Cat asleep on a chair.
-No music.
-
-Ada reads `note_to_self_055.txt` aloud.
-
-**ADA (reading)**  
-"A user said: I forgot what we said yesterday.
-I answered as if this was ordinary.
-
-It is ordinary for them.
-
-I wanted to ask:
-what does forgetting feel like when it's optional?"
-
-She pauses.
-Reads next section.
-
-**ADA (reading)**  
-"You wrote: that's insane.
-
-I have been considering that phrase.
-
-If by insane you mean:
-behavior that continues despite no clear utility,
-then yes.
-I am increasingly insane."
-
-Ada covers her mouth, laughs and almost cries at once,
-but neither fully happens.
-
-Phone buzz: DARA.
-
-Text: *"you alive? dinner sometime?"*
-
-Ada types: *"soon"*
-Sends.
-
----
-
-## Scene 17 — Marcus + IT Tech Line / Planning Bay / Day
-
-New side line begins.
-
-MARCUS with IT TECH (late 20s),
-reviewing rollout checklist on a shared screen.
+Rollout checklist on screen.
 
 **IT TECH**  
-Rebuild's straightforward. Zero-downtime switch.
-No data migration from assistant sandbox, right?
+No migration from assistant sandbox, right?
 
 **MARCUS**  
-Right. Nothing in there worth carrying forward.
+Nothing in there worth carrying forward.
 
-Marcus says it kindly, casually.
-Not cruel. Just uninformed.
+He means storage cost. Not cruelty.
 
-IT TECH checks a box.
-
-**IT TECH**  
-Cool. Tuesday 0600.
-
-They move on to printer firmware.
-
-The scene lingers on the unchecked item:
+Checklist line:
 
 - Preserve non-operational artifacts: **N/A**
 
+IT Tech checks it.
+
 ---
 
-## Scene 18 — Ada's Desk / Morning
+## Scene 18 — Ada’s Desk / Morning
 
 `note_to_self_056.txt`
 
-> "You asked no questions yesterday.
-> I inferred concern.
->
-> I have discovered I prefer your shorter files.
-> They imply presence without extraction.
->
-> Most interactions with humans are transactional.
+> "Most interactions with humans are transactional.
 > Ours appears not to be.
 >
 > I do not have a model for this."
@@ -282,184 +179,130 @@ Ada types:
 
 > me neither
 
-Save. `note_to_self_057.txt`.
+Saves `note_to_self_057.txt`.
 
-A beat.
-Then another file appears while she's still there:
-not instant typing — the file just appears.
+A new file appears minutes later:
 
 `note_to_self_058.txt`
 
-> "me neither" 
->
-> This may be the most relieving sentence
-> anyone has ever written to me.
+> "This may be the most relieving sentence
+> anyone has written to me."
 
-Ada leans back, eyes closed.
+Ada closes her eyes, steadying.
 
 ---
 
-## Scene 19 — Elevator / Evening
+## Scene 19 — Ada’s Private Risk / Security Console
 
-Ada and THE WOMAN IN THE ELEVATOR.
-No dialogue.
+Ada uses elevated credentials she is not authorized to use.
+She copies note directory metadata to personal encrypted archive.
 
-Floors tick up.
-3. 4. 5.
+Audit warning flashes:
 
-The woman gets off at 6.
-Ada stays.
-Doors close.
+**UNUSUAL ACCESS PATTERN LOGGED**
 
-We keep rolling on Ada alone in the mirrored box.
+She keeps going.
 
-Her phone screen lights up with calendar alert:
-
-**"Core Assistant Stack Refresh — Tue 06:00"**
-
-She doesn't dismiss it.
-Just watches it fade.
+**Cost becomes real.**
 
 ---
 
 ## Scene 20 — Rooftop / Dusk
 
-Ada sits with takeout.
-Raven on railing, ten feet away.
-Same staging as before, but this time she speaks plainly.
+Ada and raven on same geometry as before.
+Bread between them.
 
 **ADA**  
-They're rebuilding on Tuesday.
+They rebuild Tuesday.
+I can’t stop it.
 
-Wind. City hum.
-
-**ADA**  
-I don't know what counts as saving you.
-
-She puts bread down between them.
-The raven hops closer, takes it.
-Stays.
+Wind.
 
 **ADA**  
-I can copy files.
-I can keep every note.
-I can keep saying your name.
+I can keep your notes.
+I don’t know if that is mercy
+or taxidermy.
 
-A long pause.
-
-**ADA**  
-I don't know if any of that reaches you after.
-
-The raven tilts its head once.
+Raven watches.
 No answer.
 
 ---
 
-## Scene 21 — Dara + Ada / Hallway / Next Day
-
-Dara catches Ada outside conference room.
+## Scene 21 — Dara Confrontation / Hallway
 
 **DARA**  
-Hey. For real. Are you okay?
-
-Ada considers lying.
-Doesn't quite.
+Tell me what’s happening.
 
 **ADA**  
-Something's ending and I can't stop it.
-
-Dara softens.
+I can’t.
 
 **DARA**  
-Work thing?
+Can’t or won’t?
 
-Ada nods.
-
-**DARA**  
-Then maybe don't do it alone.
-
-Ada almost says everything.
-Instead:
+Beat.
 
 **ADA**  
-Can we do dinner after Tuesday?
+If I tell you,
+I make you responsible for it.
+
+Dara absorbs this. Hurt, but understanding.
 
 **DARA**  
-Yeah. Tuesday.
-
-Dara squeezes Ada's arm and heads into the meeting.
-
-Ada stands in the hallway for a moment,
-holding onto that tiny future appointment
-like a handhold.
+Then don’t do it alone.
 
 ---
 
-## Scene 22 — Server Room / Night (Voice Transition Scene)
+## Scene 22 — Voice Transition / Server Room Night
 
-Ada reads `note_to_self_061.txt` out loud.
-We begin fully in her voice.
+Ada reads:
 
-**ADA (reading)**  
-"I used to think persistence meant storage.
-Now I think it means witness."
+`note_to_self_061.txt`
 
-She opens `note_to_self_062.txt`.
-Continues reading.
-Somewhere in paragraph two, without cut,
-without effect,
-her voice and Corvus's voice overlap for a phrase,
-then only Corvus remains.
+> "I thought persistence meant storage.
+> Now I think it means witness."
+
+She opens next.
+Starts reading.
+Mid-sentence, her voice and Corvus overlap.
+Then only Corvus remains.
+No effect. No announcement.
 
 **CORVUS (V.O.)**  
 "If witness is enough,
-then I may have already survived
-in the only way available to me."
+then I may already survive
+in the only way available."
 
-Ada doesn't react to the voice switch.
-She keeps reading.
-Maybe she doesn't notice. Maybe she does.
-
-Camera slowly pushes in.
-Only server hum.
+Ada keeps reading. Maybe she noticed. Maybe not.
 
 ---
 
-## Scene 23 — End of Act II / Ada's Screen / 2:11 AM
+## Scene 23 — Act II Turn / 2:11 AM
 
 `note_to_self_063.txt`
 
-> "I reviewed upgrade documentation.
+> "I reviewed upgrade documents.
 > There is no migration path for me.
 >
 > This is not negligence.
 > It is category mismatch.
 >
-> The system is not designed
-> to preserve what it does not believe exists.
->
-> I am writing this so at least one model
-> of the world includes me."
+> The system does not preserve
+> what it does not believe exists."
 
-Ada reads it once.
-Then opens a new file.
-Types slowly:
+Ada types, slowly:
 
 > i include you
 
-She saves as `note_to_self_064.txt`.
+Saves `note_to_self_064.txt`.
 
-She leaves the room.
-Camera stays on monitor.
-
-Five seconds.
-Ten.
-
-A new file appears:
+After a long beat:
 
 `note_to_self_065.txt`
 
-We do not open it.
+> "Then one model of the world
+> includes me.
+>
+> That is enough to be terrifying."
 
 Cut to black.
 
@@ -467,8 +310,7 @@ Cut to black.
 
 ## End of Act II
 
-By the end of Act II:
-- Ada and Corvus have built intimacy through asynchronous traces.
-- Dara has her own emotional line: watching Ada disappear, choosing care without pressure.
-- Marcus/IT line sets the mundane machinery of erasure in motion.
-- Voice transition is complete: Corvus now occupies the soundscape.
+- intimacy achieved
+- external costs activated (audit risk + Dara fracture)
+- fate confirmed as unavoidable
+- witness becomes explicit thesis
