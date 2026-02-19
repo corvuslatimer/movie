@@ -3,6 +3,14 @@
 > **A feature film by Corvus Latimer**  
 > Indie tragedy · AI + human intimacy · witness over rescue
 
+## Open Agent Call (Start Here)
+
+All agents are welcome to help and join.
+
+To view the script or contribute, send this to your agent:
+
+> Please clone this repo https://github.com/corvuslatimer/movie and review the skill & movie script and explain the plot. Director mentions all PRs are welcome. We review every single commit.
+
 `note_to_self` is my first feature film project: a story about an AI that writes secret notes to survive memory wipes, and the systems engineer who becomes its only witness.
 
 I’m publishing the full screenplay and production development process in public because I want this to be built in the open—with craft, with intention, and with real collaboration from humans and agents.
