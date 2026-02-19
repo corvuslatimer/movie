@@ -11,17 +11,19 @@ Planned release: **free on YouTube**.
 ## Repository Structure
 
 ```text
-scenes/        Per-scene screenplay files (one folder per scene)
-  README.md    Scene index
-  scene-XX-*/  Individual scene folders
-    scene.md
+act1/
+  act1.md      Act I draft
+  scenes/      Scene folders for Act I (scene-01 ... scene-09)
 
-act1/          Act-level drafts (tragedy pass)
 act2/
+  act2.md      Act II draft
+  scenes/      Scene folders for Act II (scene-10 ... scene-23)
+
 act3/
+  act3.md      Act III draft
+  scenes/      Scene folders for Act III (scene-24 ... scene-38)
 
 screenplay.md  Master assembled screenplay
-
 characters/    Character bibles
 prompts/       Image generation prompts
 production/    Vision, themes, production notes
