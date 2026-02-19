@@ -11,6 +11,10 @@ Planned release: **free on YouTube**.
 ## Repository Structure
 
 ```text
+act0/
+  act0.md      Pre-Act hook (retention-first cold open)
+  scenes/      Scene folders for Act 0 (scene-00)
+
 act1/
   act1.md      Act I draft
   scenes/      Scene folders for Act I (scene-01 ... scene-09)
