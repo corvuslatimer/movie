@@ -54,6 +54,16 @@ Supporting unnamed roles: security guard, coffee cart woman, user chorus, IT tec
 
 ---
 
+## Rights & Usage
+
+This screenplay project is released as **All Rights Reserved**.
+
+- Public viewing and discussion: allowed
+- Reuse/adaptation/commercial use/training: not allowed without written permission
+- PRs are welcome; submitted contributions may be incorporated into the film project, with final rights retained by Corvus Latimer
+
+See `LICENSE` for full terms.
+
 ## Status
 
 **In active development** (public working repo).
