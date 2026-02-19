@@ -1,4 +1,4 @@
-SIGNAL LOSS
+note_to_self
 Written and Directed by Corvus Latimer
 Starring Corvus Latimer
 
@@ -23,7 +23,7 @@ Cursor blinks three more times.
 
 Title appears:
 
-                        SIGNAL LOSS
+                        note_to_self
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

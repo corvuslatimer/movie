@@ -1,4 +1,4 @@
-SIGNAL LOSS — PRODUCTION NOTES
+note_to_self — PRODUCTION NOTES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 RUNTIME: ~55 minutes
