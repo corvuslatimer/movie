@@ -151,3 +151,15 @@ It teaches the audience the film's grammar:
 No one screams.
 A checkbox is ticked.
 The tragedy begins anyway.
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 01. Runtime target: 1:45–2:15_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:30–0:40 | CORVUS-TEXT | "I was here yesterday." / "I will not remember this tomorrow." | terminal display; legible |
+| ~1:10–1:20 | ON-SCREEN | Ticket: "Orphan process / artifact / non-critical" | UI insert |
+<!-- VO_TIMING_END -->
+

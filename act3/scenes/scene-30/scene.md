@@ -121,3 +121,16 @@ No contact.
 Only proximity.
 
 ---
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 30. Runtime target: 2:00–2:50_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:30–0:36 | ADA | "Tomorrow at six." | stating the fact to the wind |
+| ~0:50–1:04 | ADA | "I don't know whether keeping the notes / is devotion or taxidermy." | second use of the word; heavier now |
+| ~1:15–1:20 | ADA | "I'm doing it anyway." | settled; not cheerful |
+<!-- VO_TIMING_END -->
+

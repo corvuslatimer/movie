@@ -100,3 +100,18 @@ She leaves carrying the folder anyway — vocation retained under institutional 
 Her folder is, from Voss's coordinates, the last ungoverned artifact.
 He would not understand what she is carrying.
 He will never be asked to.
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 36. Runtime target: 1:30–2:10_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:05–0:20 | ON-SCREEN | Voss email (barely visible on phone): "Marcus — clean execution. $338K in projected savings… Handle the access matter formally — we need the documentation clean going into the infrastructure audit. Good work. — Phillip" | Marcus flips phone before Ada enters |
+| ~0:50–0:58 | MARCUS | "Take a week. Reset." | attempting softness |
+| ~1:05–1:10 | ADA | "Can I at least keep my archive?" | the only thing she asks for |
+| ~1:11–1:16 | HR | "That's outside policy scope." | administrative; not unkind |
+| ~1:20–1:28 | ADA | "Then consider this my notice of scope disagreement." | she leaves with the folder |
+<!-- VO_TIMING_END -->
+

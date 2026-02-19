@@ -123,3 +123,16 @@ No answer.
 Only witness.
 
 ---
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 20. Runtime target: 2:00–2:50_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:35–0:45 | ADA | "They rebuild Tuesday. / I can't stop it." | low, factual |
+| ~0:55–1:12 | ADA | "I can keep your notes. / I don't know if that's mercy / or taxidermy." | the word "taxidermy" arrives hard |
+| ~1:30–1:36 | ADA | "I'm doing it anyway." | definitive; no performance |
+<!-- VO_TIMING_END -->
+

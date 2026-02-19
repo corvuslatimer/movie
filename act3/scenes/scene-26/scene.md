@@ -242,3 +242,21 @@ That costs something.
 **World pull note:** The Lena moment should not feel like cruelty. It should feel like a place the audience recognizes — having to laugh at exactly the right joke at exactly the wrong moment, with someone who genuinely likes you. The SYSTEM ADMIN mug, the easy stride, Lena already moving to the next thing — these mark the hallway as Lena's territory, Lena's world, and Ada as a visitor to it right now. 
 
 The four seconds of Ada alone in the corridor are the scene's real end. Not Marcus's office. The hallway, with the floor noise and the fluorescents and the ordinary afternoon of everyone else continuing around her.
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 26. Runtime target: 2:10–2:50_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:05–0:18 | ON-SCREEN | Voss text (pre-Ada): "Saw the access anomaly flag. Good catch. That's exactly the kind of drift we're cleaning up. Confirms we're doing the right thing Tuesday. Make sure it's documented properly. — V" | Marcus reads; face-down before Ada enters |
+| ~0:35–0:46 | MARCUS | "Security flagged unusual archive access. / Anything I should know?" | calm; not threatening |
+| ~0:50–1:00 | ADA | "I pulled logs for an anomaly I couldn't classify. / I overreached." | choosing truth carefully |
+| ~1:05–1:12 | MARCUS | "After Tuesday we reset. Clean slate." | means reassurance; lands as sentence |
+| ~1:28–1:40 | LENA | "Compliance ping? They flagged you for ghost-hunting in the logs? *(beat)* Classic. The AI logs are basically haunted." | easy, imprecise, affectionate |
+| ~1:44–1:48 | ADA | "Yeah. Something like that." | correct shape; wrong everything |
+| ~1:48–1:53 | LENA | "You're fine. Marcus is harmless." | already moving |
+| ~2:05–2:20 | ON-SCREEN | Voss text (post-Ada exit): "Also — whoever touched those logs needs a formal record. If this goes sideways post-rebuild, we need clean paper. Don't make it a big thing. Just make it clean. — V" | Marcus reads alone |
+<!-- VO_TIMING_END -->
+

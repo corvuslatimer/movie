@@ -146,3 +146,14 @@ to:
 "Why does this feel familiar to her?"
 
 That shift is what turns thriller into tragedy.
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 04. Runtime target: 1:40–2:20_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| — | — | *No spoken dialogue or VO in this scene.* | Sound/image-driven beat |
+<!-- VO_TIMING_END -->
+

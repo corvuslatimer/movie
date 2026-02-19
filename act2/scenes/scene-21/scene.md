@@ -148,3 +148,19 @@ Ada nods once.
 Doesn't promise.
 
 ---
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 21. Runtime target: 1:30–2:10_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:15–0:20 | DARA | "Tell me what's happening." | direct; not aggressive |
+| ~0:20–0:23 | ADA | "I can't." | flat |
+| ~0:24–0:28 | DARA | "Can't or won't?" | holding space |
+| ~0:38–0:50 | ADA | "If I tell you, / I make you responsible for it." | careful; this is care |
+| ~1:00–1:06 | DARA | "Then don't do it alone." | steady |
+| ~1:18–1:24 | DARA | "You're not still running." | private language; Ada hears it exactly |
+<!-- VO_TIMING_END -->
+

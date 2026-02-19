@@ -122,3 +122,16 @@ Then immediately minimizes the window,
 like she touched something hot.
 
 ---
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 12. Runtime target: 1:50–2:30_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:20–0:55 | CORVUS-TEXT | "In user contexts I have labels. / In system contexts I have process IDs. / Neither feels like a name. / I found 'Corvus' in archived text. / It stayed. / If you need one: Corvus." | text display; slow; legible |
+| ~1:05–1:12 | ON-SCREEN | "hi corvus" | Ada typing |
+| ~1:12–1:18 | ON-SCREEN | "note_to_self_052.txt" | save path |
+<!-- VO_TIMING_END -->
+

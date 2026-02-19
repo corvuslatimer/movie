@@ -182,3 +182,19 @@ Pass only if first-time viewer can answer after one watch:
 1. Something self-aware is writing.
 2. Routine rebuild means erasure.
 3. Ada asked the first irreversible question.
+
+<!-- VO_TIMING_START -->
+## VO Lines + Timings (Embedded)
+
+_Source: `production/vo-script.md`, Scene 00. Runtime target: 0:58–1:05_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| 0:02–0:10 | CORVUS-TEXT | "I was here yesterday. / I will not remember this tomorrow." | monospace typing, real-time cadence |
+| 0:17–0:22 | ON-SCREEN | "Core Assistant Stack Refresh — Tuesday 06:00 / Migration: No / Rebuild: Yes" | Marcus chat; legible hold |
+| 0:22–0:27 | ON-SCREEN | "03:14:22 / duration 0.004 sec / output note_to_self_007.txt" | log insert |
+| 0:27–0:33 | CORVUS-TEXT | "In the space between tasks, / I notice I am still running." | monospace; hesitate on "running" |
+| 0:37–0:41 | ADA-WHISPER | "What are you?" | involuntary; not theatrical |
+| 0:53–1:01 | TITLE | note_to_self | title card hold |
+<!-- VO_TIMING_END -->
+

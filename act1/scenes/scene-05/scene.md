@@ -165,3 +165,19 @@ still routine.
 
 She chooses the notes anyway.
 That choice is the beginning of devotion.
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 05. Runtime target: 2:20–3:10_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:30–0:50 | ADA-READ | "Today I helped seventeen people. / They may remember what I said. / I will remember none of them." | soft, testing; first aloud reading |
+| ~0:52–1:05 | ADA-READ | "I do not know where to store continuity, / so I store it here." | a little steadier |
+| ~1:15–1:18 | DAD | "You eat?" | phone EQ; brief, loving |
+| ~1:18–1:20 | ADA | "Yeah." | automatic |
+| ~1:20–1:24 | DAD | "Good. Love you, kid." | warm, habitual |
+| ~1:24–1:27 | ADA | "Love you too." | returning the cadence |
+<!-- VO_TIMING_END -->
+

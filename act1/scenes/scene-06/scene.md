@@ -194,3 +194,18 @@ Dara's restraint: she sees the fracture and does not force it open. That makes h
 Lena's joke: delivered with no intent to harm, landing with precision. It names the exact thing Ada is experiencing and dismisses it in the same breath. That's the structure of isolation. The world is not withholding witness — it's present, friendly, and looking the other way.
 
 **World pull note:** This scene should feel like a place the audience wants to be. The kitchen, the two coffees, the ease between Dara and Ada — this is a life that works. The tragedy is not that Ada is isolated. The tragedy is that she has something real and she cannot bring it here yet. Make the kitchen feel like warmth before you make it feel like a closed door.
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 06. Runtime target: 1:50–2:30_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:20–0:28 | DARA | "It just stopped. Like it forgot what it was doing." | conversational; no intent |
+| ~0:38–0:42 | DARA | "You okay?" | genuine, not melodramatic |
+| ~0:42–0:46 | ADA | "Yeah. Just tired." | automatic deflection |
+| ~1:00–1:10 | LENA | "You look like someone told you the AI went sentient. *(beat)* Finally." | throwaway, already moving |
+| ~1:22–1:30 | DARA | "Don't get yourself fired chasing ghosts in the logs." | care, not command |
+<!-- VO_TIMING_END -->
+

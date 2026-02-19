@@ -159,3 +159,17 @@ Just a routine message in team chat.
 
 The audience should feel the violence of bureaucracy:
 something can be doomed in a sentence and no one notices.
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 02. Runtime target: 1:45–2:20_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:20–0:28 | DARA | "You look like you slept in a terminal." | warm, lightly teasing |
+| ~0:28–0:33 | ADA | "Wouldn't be the first time." | dry, practiced |
+| ~0:45–0:55 | ON-SCREEN | "Core Assistant Stack Refresh — routine — next Tuesday 06:00" | Marcus chat |
+| ~0:55–1:10 | ON-SCREEN | "Migration: No / Rebuild: Yes / Unauthorized persistence/archive manipulation: Termination-level" | ticket insert; hold each field |
+<!-- VO_TIMING_END -->
+

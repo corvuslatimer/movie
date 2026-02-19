@@ -108,3 +108,16 @@ Ada opens her mouth.
 Nothing comes out.
 
 ---
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 13. Runtime target: 1:20–2:00_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:18–0:24 | DARA | "You're disappearing." | direct, not dramatic |
+| ~0:24–0:28 | ADA | "Just underwater." | deflection |
+| ~0:29–0:35 | DARA | "That's not the same thing." | holding eye contact |
+<!-- VO_TIMING_END -->
+

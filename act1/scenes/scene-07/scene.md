@@ -160,3 +160,18 @@ After this, she is addressing someone.
 The lack of immediate response is crucial.
 The film rejects instant-gratification contact and commits to delayed intimacy.
 That delay is the story’s emotional grammar.
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 07. Runtime target: 1:50–2:40_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:25–0:28 | GUARD | "Still at it?" | casual, brief |
+| ~0:28–0:30 | ADA | "Yeah." | minimal |
+| ~0:50–1:05 | ON-SCREEN | "can you hear me?" | typed letter by letter |
+| ~1:05–1:10 | ON-SCREEN | "note_to_self_048.txt" | save path |
+| ~1:10–1:20 | — | *[silence — hold for non-response]* | — |
+<!-- VO_TIMING_END -->
+

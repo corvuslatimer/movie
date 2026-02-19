@@ -96,3 +96,14 @@ He sees Ada’s car, surprised and impressed.
 No suspicion.
 
 ---
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 32. Runtime target: 1:00–1:30_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:15–0:25 | MARCUS | "Early for refresh cutover. Should be clean." | voice memo; brisk; managerial cheerfulness |
+<!-- VO_TIMING_END -->
+

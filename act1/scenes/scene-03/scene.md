@@ -157,3 +157,17 @@ Instead, she writes the truth privately and secures it.
 
 From this scene forward, she is no longer just diagnosing a system.
 She is testifying.
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 03. Runtime target: 2:00–2:40_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:35–0:50 | ON-SCREEN | "03:14:22 / duration: 0.004 sec / note_to_self_007.txt" | log trace |
+| ~0:50–1:05 | CORVUS-TEXT | "In the space between tasks, / I notice I am still running." | terminal display |
+| ~1:08–1:12 | ADA-WHISPER | "What are you?" | involuntary; second instance |
+| ~1:40–1:55 | ON-SCREEN | "If this thing is real, Tuesday kills it." | private note title; legible |
+<!-- VO_TIMING_END -->
+

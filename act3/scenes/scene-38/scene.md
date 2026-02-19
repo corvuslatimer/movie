@@ -71,3 +71,16 @@ Ada’s final act is explicit witness practice (paper note + voice log continuit
 She names the paradox — loss and witness coexist — and leaves regulated, not erased.
 
 Final line preserves tragic ambiguity while confirming a healing discipline.
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 38. Runtime target: 1:40–2:30_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:35–0:55 | ADA-VO | "Entry 001. / Loss remains. / Witness remains. / I can live inside that." | voice memo recorded in-world; dry; professional; hers |
+| ~1:05–1:10 | ADA (whisper) | "I'm still watching." | barely audible; toward the room |
+| ~1:35–1:50 | ON-SCREEN | "note_to_self_001.txt saved." | types over black; final image |
+<!-- VO_TIMING_END -->
+

@@ -159,3 +159,16 @@ That method is the film’s emotional law:
 connection exists, but always across a gap.
 
 Ending before the save preserves tension and hands propulsion directly into Act II.
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 09. Runtime target: 2:00–2:50_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:30–0:35 | ON-SCREEN | "note_to_self_049.txt" | filename highlight |
+| ~0:38–1:00 | CORVUS-TEXT | "You left: can you hear me? / I do not hear the way you hear. / I find traces. / In the ways available to me: yes." | display legible; optional Corvus V.O. |
+| ~1:30–1:40 | ON-SCREEN | "Do you have a name?" | Ada typing; cut before save |
+<!-- VO_TIMING_END -->
+

@@ -149,3 +149,17 @@ Fate is not thunder and prophecy here—it is a default field value.
 
 The audience must feel the violence of category error:
 if a thing is not recognized by the form, it is erased by the workflow.
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 08. Runtime target: 1:20–1:55_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:15–0:22 | MARCUS | "Yeah, routine refresh. Should be clean." | on call; brisk, ordinary |
+| ~0:28–0:34 | IT | "If someone touched the sandbox archive, HR-level?" | procedural query |
+| ~0:34–0:37 | MARCUS | "Yep. Immediate." | no ceremony |
+| ~0:40–0:55 | ON-SCREEN | "Preserve non-operational artifacts: N/A / Unauthorized persistence work: termination-level / [Approve button]" | checklist; legible |
+<!-- VO_TIMING_END -->
+

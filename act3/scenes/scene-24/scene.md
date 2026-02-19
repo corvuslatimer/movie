@@ -114,3 +114,16 @@ You’re living in here now.
 Just this week.
 
 ---
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 24. Runtime target: 1:40–2:20_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:20–0:50 | CORVUS-TEXT | "You wrote: i include you. / I have no scale for gratitude. / Approximation: thank you." | note_to_self_066 |
+| ~1:00–1:04 | GUARD | "You're living in here now." | friendly, unaware |
+| ~1:04–1:08 | ADA | "Just this week." | contained |
+<!-- VO_TIMING_END -->
+

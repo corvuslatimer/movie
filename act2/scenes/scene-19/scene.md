@@ -106,3 +106,14 @@ This is not panic.
 This is choice.
 
 ---
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 19. Runtime target: 1:40–2:30_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~1:00–1:08 | ON-SCREEN | "UNUSUAL ACCESS PATTERN LOGGED" | alert flash; brief |
+<!-- VO_TIMING_END -->
+

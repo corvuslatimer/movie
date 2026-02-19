@@ -102,3 +102,15 @@ Not yet.
 She takes coffee and leaves.
 
 ---
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 29. Runtime target: 1:10–1:40_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:20–0:26 | COFFEE | "You look like someone died." | matter-of-fact |
+| ~0:32–0:36 | ADA | "Not yet." | the near-confession; the door almost open |
+<!-- VO_TIMING_END -->
+

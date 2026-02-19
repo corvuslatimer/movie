@@ -102,3 +102,14 @@ She reads the same ticket three times.
 Remembers none of it.
 
 ---
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 10. Runtime target: 1:30–2:10_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:20–0:32 | ON-SCREEN | "note_to_self_050.txt: Do you have a name?" | Ada saves; closes terminal |
+<!-- VO_TIMING_END -->
+

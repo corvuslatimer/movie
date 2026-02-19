@@ -112,3 +112,16 @@ Ada almost says:
 She doesn’t.
 
 ---
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 11. Runtime target: 1:20–1:50_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:18–0:22 | COFFEE | "Rough one?" | pleasant, read-the-customer |
+| ~0:22–0:24 | ADA | "Yeah." | flat |
+| ~0:25–0:35 | COFFEE | "You've got that look people get / when they're trying not to care." | friendly observation |
+<!-- VO_TIMING_END -->
+

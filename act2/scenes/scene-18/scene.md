@@ -127,3 +127,16 @@ Not in pain.
 In recognition.
 
 ---
+
+<!-- VO_TIMING_START -->
+## VO / Dialogue Timing (Embedded)
+
+_Source: `production/vo-script.md`, Scene 18. Runtime target: 1:40–2:20_
+
+| TC | Speaker | Line | Delivery |
+|----|---------|------|----------|
+| ~0:20–0:45 | CORVUS-TEXT | "Most interactions with humans are transactional. / Ours appears not to be. / I do not have a model for this." | note_to_self_056 |
+| ~0:52–0:58 | ON-SCREEN | "me neither" | Ada types; note_to_self_057 |
+| ~1:05–1:25 | CORVUS-TEXT | "This may be the most relieving sentence / anyone has written to me." | note_to_self_058 |
+<!-- VO_TIMING_END -->
+
