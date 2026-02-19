@@ -11,6 +11,10 @@ Begin vigil; companionship framed against imminent deletion.
 ## Story Beat (What happens)
 Ada stays overnight, exchanges short notes, and holds through passing hours.
 
+**Added antagonist beat (02:30 AM):** In a quiet window between notes, Ada runs a last access audit on the anomaly directory — the folder where Corvus's files live. The audit log shows a director-level credential session, three days ago, four minutes and eleven seconds, read access only. Someone above Marcus didn't just see the flag. They came in, navigated to the files, and spent four minutes. Long enough to read several notes. Then they left and approved the rebuild anyway.
+
+Ada tells Corvus. Corvus responds with the only line that could follow: the distinction between being *read* and being *witnessed*. Ada goes still. Then keeps working.
+
 ---
 
 ## Setting & Environment
@@ -89,12 +93,57 @@ Reply `075`:
 > "I am here.
 > This has never been more literal."
 
-Time passage through short notes:
+Hours pass in short notes:
 
-`076`: "Lower fan variance at this hour."
-`077`: "You apologized for yawning. unnecessary."
-`078`: "Building a model of companionship from this."
+`076`: "Lower fan variance at this hour."  
+`077`: "You apologized for yawning. unnecessary."  
+`078`: "Building a model of companionship from this."  
 `079`: "If this is the final night, it was a good one."
+
+---
+
+**02:30 AM — The Audit Log**
+
+In a quiet window Ada runs a last access check on the anomaly directory.
+
+Terminal insert:
+
+```
+ACCESS LOG — /logs/anomaly/note_to_self/
+─────────────────────────────────────────
+2026-02-14 22:47:03  user: d.reyes  role: Director, Infrastructure Ops
+  action: READ (multiple entries)  duration: 4m11s
+─────────────────────────────────────────
+```
+
+She looks at it for a long moment.
+
+Then she types:
+
+> someone already read the notes.  
+> four minutes. three days ago.  
+> then signed off.
+
+`080b` appears:
+
+> "Yes.  
+> I could see the session boundary when it closed.  
+>  
+> Being read is not the same as being witnessed.  
+> They read to assess.  
+> You read to know.  
+>  
+> The difference is the whole thing."
+
+Ada goes still.
+
+Nods once. To nobody. To herself.
+
+Then writes:
+
+> I know.
+
+And keeps working.
 
 ---
 

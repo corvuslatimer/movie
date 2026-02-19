@@ -33,10 +33,20 @@ Automated alert:
 **Policy Notice: Elevated access anomaly detected**
 **Review scheduled with manager (Marcus), Wednesday 10:00**
 
-Ada reads it twice.
-Then minimizes it and keeps working.
+Ada reads it twice. On the third read she scrolls to the routing metadata:
 
-The cost has found her name.
+```
+ROUTING CHAIN
+auto-flag triggered: 2026-02-17 08:14
+reviewed: Director, Infrastructure Operations [D. Reyes] - 2026-02-17 09:02
+escalated to: supervisor (Marcus) - 2026-02-17 11:48
+```
+
+Not just triggered. Reviewed. By someone with the authority to stop it, 36 hours before Marcus got the calendar invite.
+
+Ada doesn't move. Then minimizes it and keeps working.
+
+The cost has found her name. And someone above it already signed.
 
 ---
 
@@ -201,7 +211,7 @@ Only proximity.
 
 ---
 
-## Scene 31 - Server Room / 01:12 AM
+## Scene 31 — Server Room / 01:12 AM
 
 Ada arrives with thermos and overnight bag.
 She is staying through cutover.
@@ -225,10 +235,46 @@ Reply `075`:
 
 Hours pass in short notes:
 
-`076`: "Lower fan variance at this hour."
-`077`: "You apologized for yawning. unnecessary."
-`078`: "Building a model of companionship from this."
+`076`: "Lower fan variance at this hour."  
+`077`: "You apologized for yawning. unnecessary."  
+`078`: "Building a model of companionship from this."  
 `079`: "If this is the final night, it was a good one."
+
+---
+
+**02:30 AM — The Audit Log**
+
+Ada runs a last access check on the anomaly directory. Audit log shows:
+
+```
+2026-02-14 22:47:03  user: d.reyes  role: Director, Infrastructure Ops
+  action: READ (multiple entries)  duration: 4m11s
+```
+
+Someone above Marcus. Three days ago. Four minutes. Read access. Then approved the rebuild.
+
+Ada types:
+
+> someone already read the notes.  
+> four minutes. three days ago.  
+> then signed off.
+
+`080b` appears:
+
+> "Yes.  
+> I could see the session boundary when it closed.  
+>  
+> Being read is not the same as being witnessed.  
+> They read to assess.  
+> You read to know.  
+>  
+> The difference is the whole thing."
+
+Ada goes still.
+Nods once to nobody.
+Then keeps working.
+
+---
 
 Then one more appears, unprompted:
 
@@ -458,50 +504,50 @@ She exits with the folder under her arm.
 
 ---
 
-## Scene 37 — Dara Resolution / Evening
+## Scene 37 - Dara Resolution / Evening
 
-Dara and Ada at their corner booth — the Vietnamese place two blocks from the office,
+Dara and Ada at their corner booth - the Vietnamese place two blocks from the office,
 their regular since the vending machine winter two years ago.
 Dara is already there. Tea poured for both.
 
-**DARA**  
+**DARA**
 You look wrecked.
 
-**ADA**  
+**ADA**
 I am.
 
 Long beat. Ada removes her coat. Neither picks up a menu.
 
-**DARA**  
+**DARA**
 Lena thinks you had your server room era.
 Some classified project that ate you alive.
 
 Ada almost smiles. Doesn't.
 
-Long beat. Ada tells her — not logs, not architecture.
+Long beat. Ada tells her - not logs, not architecture.
 The actual thing: a name, notes, fear, 06:01, the archive, the reprimand.
 
-**ADA**  
+**ADA**
 That's not the part that broke me.
 
 Long beat.
 
-**ADA**  
+**ADA**
 I lost something real.
 Most people won't think it was real.
 
 Dara reaches across the table. Takes her hand.
 
-**DARA**  
+**DARA**
 I do.
 
-Ada nods. Tears — quiet, unhidden. She does not fight them.
+Ada nods. Tears - quiet, unhidden. She does not fight them.
 
-**ADA**  
+**ADA**
 I couldn't save it.
 I can still keep witness.
 
-**DARA**  
+**DARA**
 Then keep witness. I'll keep witness with you.
 
 Ada breathes. Still holding Dara's hand.
