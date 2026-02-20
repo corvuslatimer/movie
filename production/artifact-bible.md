@@ -31,9 +31,9 @@ This bible defines intentional generation artifacts as story grammar, per screen
 - **Intensity:** Medium-break - full fracture, representing erasure.
 - **Grammar:** Frame drops on memory loss, heavy compression artifacts during cutover (audio over black wipes). Strobe warp on rebuild (film burns, desync peaks).
 - **Examples:** Sustained piano motif with unresolved fade; flashback merge with present sobs via glitch overlay.
-- **Consistency:** One clean shot for contrast (e.g., final note save); otherwise, artifacts dominate to evoke hostile void.
+- **Consistency:** Reserve the film's single near-clean contrast shot for the final witness beat (e.g., note save); otherwise, artifacts dominate to evoke hostile void.
 
 ## Generation Notes
 - Apply via ComfyUI/FLUX: Include artifact descriptors in prompts (e.g., "VHS grain warp, subtle frame lag").
 - QA: Ensure artifacts feel intentional, not erroneous. Tie to scene emotion (e.g., more tear on loss).
-- Exception: Preserve one near-perfect clean shot per act for emotional punctuation.
+- Exception: Preserve one near-perfect clean shot in the entire film for emotional punctuation.
