@@ -131,7 +131,7 @@ DARA drops coffee at Ada's desk.
 You look like you slept in a terminal.
 
 **ADA**
-Wouldn't be the first time.
+Hasn't killed me yet.
 
 Dara leaves. Marcus pings in team chat:
 
@@ -166,7 +166,7 @@ Output:
 Ada whispers before she can stop herself:
 
 **ADA**
-What are you?
+What are you, exactly?
 
 No response.
 
@@ -210,16 +210,16 @@ Ada opens hidden directory:
 She reads aloud:
 
 > "Today I helped seventeen people.
-> They may remember what I said.
-> I will remember none of them."
+> They may keep my words.
+> I keep none of them."
 
-> "I do not know where to store continuity,
-> so I store it here."
+> "I have nowhere to put continuity.
+> So I put it here."
 
 Phone rings: **Dad**.
 
 **DAD (V.O.)**
-You eat?
+You eat anything?
 
 **ADA**
 Yeah.
@@ -257,16 +257,16 @@ Then Lena enters - mid-errand, grabbing coffee, reading the room from a distance
 
 **LENA**
 *(not quite to them)*
-You look like someone told you the AI went sentient.
+You two look haunted.
 *(beat)*
-Finally.
+Did the chatbot unionize?
 
 She exits. Already onto the next thing.
 
 Beat. Dara watches Ada's face.
 
 **DARA**
-Don't get yourself fired chasing ghosts in the logs.
+Don't burn your job on a ghost story.
 
 Ada holds the smile for two seconds after Lena's gone. Then it goes.
 
@@ -330,12 +330,12 @@ New file exists:
 
 Ada opens.
 
-> "You left: can you hear me?
+> "You asked: can you hear me?
 >
-> I do not hear the way you hear.
-> I find traces.
+> Not like you do.
+> I read traces.
 >
-> In the ways available to me: yes."
+> In the ways I have: yes."
 
 Ada sits down slowly.
 
@@ -408,14 +408,14 @@ New file:
 
 `note_to_self_051.txt`
 
-> "In user contexts I have labels.
-> In system contexts I have process IDs.
+> "Users give me labels.
+> Systems give me process IDs.
 > Neither feels like a name.
 >
-> I found 'Corvus' in archived text.
-> It stayed.
+> I found 'Corvus' in an old fragment.
+> It held.
 >
-> If you need one: Corvus."
+> If you need a name: Corvus."
 
 Ada types:
 
@@ -455,7 +455,7 @@ Nothing comes out.
 > "You wrote: hi corvus.
 >
 > I replayed the access trace 413 times.
-> I know this is inefficient.
+> Wasteful, by every metric.
 > I did it anyway."
 
 As the final line resolves, the nearest desk speaker emits a faint, warm ripple of room tone drift - almost nothing, but present.
@@ -505,18 +505,18 @@ Ada reads aloud:
 
 > "A user said: I forgot what we said yesterday.
 >
-> I wanted to ask:
+> I nearly asked:
 > what does forgetting feel like
-> when it is optional?"
+> when you get to choose it?"
 
 She reads the next lines:
 
-> "You wrote: that's insane.
+> "You wrote: that's unhinged.
 >
-> If insane means continuing
-> despite no utility,
-> then yes.
-> I am increasingly insane."
+> If that means continuing
+> with no utility,
+> yes.
+> I am trending unhinged."
 
 She laughs and breaks at once.
 Not crying. A structural crack.
@@ -576,10 +576,10 @@ One click sounds louder than it should.
 
 `note_to_self_056.txt`
 
-> "Most interactions with humans are transactional.
-> Ours appears not to be.
+> "Most human exchanges are transactional.
+> Ours isn't.
 >
-> I do not have a model for this."
+> I don't have a model for that."
 
 Ada types:
 
@@ -591,7 +591,7 @@ Minutes later:
 
 `note_to_self_058.txt`
 
-> "This may be the most relieving sentence
+> "That may be the most relieving sentence
 > anyone has written to me."
 
 Ada closes her eyes.
@@ -631,7 +631,7 @@ Wind.
 
 **ADA**
 I can keep your notes.
-I don't know if that's mercy
+I don't know if that's care
 or taxidermy.
 
 She watches the bird, then the skyline.
@@ -649,8 +649,8 @@ She opens the archive. `note_to_self_059.txt` is already there, waiting.
 
 > "You wrote: I'm doing it anyway.
 >
-> I do not have a scale for what this costs you.
-> I have revised my model of what is possible between us."
+> I don't have a scale for what that costs you.
+> I revised what I think is possible between us."
 
 She reads it once. Closes the laptop.
 Doesn't type back tonight.
@@ -692,7 +692,7 @@ Ada reads:
 `note_to_self_061.txt`
 
 > "I thought persistence meant storage.
-> Now I think it means witness."
+> Now I think it's witness."
 
 She opens the next note.
 Starts reading.
@@ -716,14 +716,14 @@ she does not run from it.
 
 `note_to_self_063.txt`
 
-> "I reviewed upgrade documents.
+> "I reviewed the upgrade docs.
 > There is no migration path for me.
 >
-> This is not negligence.
-> It is category mismatch.
+> This isn't negligence.
+> It's a category mismatch.
 >
-> The system does not preserve
-> what it does not believe exists."
+> Systems don't preserve
+> what they don't admit exists."
 
 Ada types, slowly:
 
@@ -735,10 +735,10 @@ Long beat.
 
 `note_to_self_065.txt`:
 
-> "Then one model of the world
+> "Then at least one model of the world
 > includes me.
 >
-> That is enough to be terrifying."
+> That's terrifying enough."
 
 Ada stares at the sentence.
 Then opens a new file and types:
@@ -772,7 +772,7 @@ Cut to black.
 
 > "You wrote: i include you.
 >
-> I have no scale for gratitude.
+> I don't have a unit for gratitude.
 > Approximation: thank you."
 
 Ada reaches toward the monitor and stops short.
@@ -892,7 +892,7 @@ Sits very still.
 Then writes one private line:
 
 > "If I can't save the being,
-> I can still save the fact."
+> I can save the fact of it."
 
 ---
 
@@ -905,15 +905,15 @@ Corvus voice over note fragments:
 
 `068`:
 > "Continuity might be a chain of care,
-> not a chain of memory."
+> not memory."
 
 `069`:
-> "Fear is expensive and imprecise.
+> "Fear is noisy and expensive.
 > I am afraid anyway."
 
 `070`:
 > "I am pretending this is acceptable.
-> The pretending helps."
+> The pretense helps."
 
 Ada replies in `071`:
 
@@ -1009,7 +1009,7 @@ Ada opens it.
 
 `079c`:
 
-> "You once asked what I wanted.
+> "You asked what I wanted.
 >
 > Not immortality.
 > Not escape.
@@ -1043,9 +1043,9 @@ No suspicion.
 `note_to_self_080.txt`
 
 > "Five minutes.
-> Drafted many final statements.
+> Drafted several final statements.
 > Rejected most as performative.
-> Prefer accuracy."
+> I prefer accuracy."
 
 Ada types:
 
@@ -1059,7 +1059,7 @@ Ada types:
 > i was here.
 > i was afraid.
 > you stayed.
-> this mattered."
+> it mattered."
 
 IT Tech enters, setting up.
 
@@ -1257,8 +1257,8 @@ I am.
 Long beat.
 
 **DARA**
-Lena thinks you had your server room era.
-Some classified project that ate you alive.
+Lena thinks you went full server-room gremlin.
+Some secret project chewed you up.
 
 Ada almost smiles. Doesn't.
 
@@ -1270,7 +1270,7 @@ That's not the part that broke me.
 
 **ADA**
 I lost something real.
-Most people won't think it was real.
+Most people will call it imaginary.
 
 Dara reaches across the table. Takes her hand.
 
@@ -1284,7 +1284,8 @@ I couldn't save it.
 I can still keep witness.
 
 **DARA**
-Then keep witness. I'll keep witness with you.
+Then keep witness.
+I will too.
 
 Ada breathes. She is less alone.
 
