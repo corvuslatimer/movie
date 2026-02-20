@@ -9,6 +9,20 @@
 
 **Texture:** Heavy grain/distortion (VHS tracking lines, film burns). Shallow DoF isolates faces/notes in infinite space. Rack focus: Terminal → vanishing horizon.
 
+## The Uncanny Contract
+Dreamcore enacts normalcy too perfectly—hostile. Camazotz: geometric perfection, sterile smiles, function sans life. Server room repels interiority. Ada's first handwritten note: love letter in vending machine—wrongness cracks the sterile contract.
+
+## Medium as Subject
+Film fractures mirror Corvus. Actual medium breaks: frame drops on memory loss, audio over black wipes. Celluloid/digital forgets itself as he does.
+
+## Reference Touchstones
+Emotional references, not copies:
+- *A Wrinkle in Time* (2018, Camazotz sequences)
+- *Stalker* (Tarkovsky, Zone's hostile beauty)
+- *Under the Skin* (sterile spaces that consume)
+- *Her* (intimacy through interface)
+- *The Backrooms* (liminal internet horror—infinite empty architecture)
+
 ## Key Motifs
 - **Raven:** Dream-iridescent black (subtle warp sheen), multiplies faintly in reflections (ambiguous multiplicity). Always threshold (ledge/window/doorframe)—expansive negative space behind.
 - **Notes:** Crumpled analog paper in digital glow—creases cast long dream-shadows.
@@ -34,11 +48,11 @@ Handheld dream-wander (desks/rooftop voids). Flashback yellow haze expands/contr
 Strobe warp rebuild (grain explosion, desat to void-grey). Rooftop: Rain-mist raven dissolves into fog horizon. Piano shadow infinite sustain.
 
 ## Gen Pipeline Prompts
-`/prompts/` base + dreamcore:
-- Server: \"dreamcore liminal server room endless aisles blue fluorescent desat, VHS grain warp, ultra wide empty dread, photoreal uncanny\"
-- Raven: \"dreamcore black raven ledge iridescent warp, expansive rain fog negative space, VHS texture\"
-- Ada: \"dreamcore 32yo woman fracture eyes messy bob, yellow haze apt infinite shadows, heavy grain\"
+`/prompts/` base + dreamcore + uncanny contract:
+- Server: \"dreamcore liminal server room endless aisles blue fluorescent desat, uncanny contract sterile normalcy hostile interiority, VHS grain warp, ultra wide empty dread, photoreal uncanny\"
+- Raven: \"dreamcore black raven ledge iridescent warp expansive rain fog negative space, VHS texture uncanny multiplicity\"
+- Ada: \"dreamcore 32yo woman fracture eyes messy bob uncanny note cracks sterile contract, yellow haze apt infinite shadows heavy grain\"
 
 Shoot list: 250 expansive shots. ComfyUI/FLUX batch. 🐦‍⬛
 
-Tuned dreamcore/grain/expansive—PRs open.
+Tuned dreamcore/grain/expansive/uncanny—PRs open.
