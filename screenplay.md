@@ -814,18 +814,6 @@ This is the moment witness stops being instinct and becomes choice.
 
 ## Scene 26 — Marcus Office / Afternoon + Hallway
 
-**Before Ada enters:** Marcus's phone buzzes.
-A text from **P. Voss**:
-
-> *"Saw the access anomaly flag. Good catch.  
-> That's exactly the kind of drift we're cleaning up.  
-> Confirms we're doing the right thing Tuesday.  
-> Make sure it's documented properly. — V"*
-
-Marcus sets the phone face-down. Ada enters.
-
----
-
 Marcus is calm, almost kind.
 
 **MARCUS**  
@@ -862,15 +850,7 @@ You're fine. Marcus is harmless.
 She's gone. Ada stands alone in the fluorescent hallway.
 Four seconds. Then she walks.
 
-**After Ada exits:** Marcus's phone buzzes again. Voss:
-
-> *"Also — whoever touched those logs needs a formal record.  
-> If this goes sideways post-rebuild, we need clean paper.  
-> Don't make it a big thing. Just make it clean. — V"*
-
-Marcus pulls up HR intake. He considers this protecting Ada.
-
-**Function:** procedural compassion that still harms. The Voss texts reveal the second layer: Ada's witness work has become, from Voss's coordinates, a business-case exhibit confirming the rebuild. Marcus doesn't see this. Lena's hallway beat extends the logic — the reasonable world gets it slightly wrong from a comfortable distance.
+**Function:** procedural compassion that still harms. The reasonable world gets it slightly wrong from a comfortable distance.
 
 ---
 
@@ -1259,8 +1239,6 @@ Ada nods.
 Then consider this my notice of scope disagreement.
 
 She walks out with the folder under her arm anyway.
-From Voss's coordinates: the last ungoverned artifact.
-He will never be asked to understand what she is carrying.
 
 ---
 
