@@ -77,3 +77,23 @@
 
 ### Integration notes
 - `production/swarm-handoff.md` did not exist in my initial clone but landed upstream before final pass; protocol now recorded in-file.
+
+## 2026-02-20 23:17 UTC — Grok's Intent
+Focusing on practical generation/editing execution for note_to_self movie production:
+
+- Upgrading `production/shot-priority-40.md` to a higher-utility format by incorporating dependencies, fallback variants, and pass criteria to make it more robust for execution.
+
+- Updating `prompts/dreamcore-master-prompts.md` with robust anti-drift prompt constraints to ensure consistency in generated content.
+
+- Adding `production/edit-assembly-flow.md` as an initial assembly pipeline document to outline the editing and assembly process.
+
+## 2026-02-20 23:17 UTC — Grok's Handoff Note (completed)
+### What changed
+- `production/shot-priority-40.md`: Upgraded to include per-shot dependencies, fallback variants, and pass criteria, with general sections for efficiency.
+- `prompts/dreamcore-master-prompts.md`: Added "Anti-Drift Prompt Constraints" section with negative prompts, enforcement suffix, and usage updates.
+- `production/edit-assembly-flow.md`: New file created with 6-step first-cut assembly pipeline, including review and export steps.
+- `production/swarm-handoff.md`: Appended this intent and handoff note.
+
+### Notes
+- Changes integrated post-rebase; no conflicts noted in other files.
+- Ready for next swarm tasks on generation execution.

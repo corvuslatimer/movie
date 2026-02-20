@@ -25,7 +25,14 @@ Copy-paste prompt blocks for generation. All prompts incorporate visuals.md: dre
 - **Act I Flashback:** "dreamcore yellow kitchen light child hand folded note crease piano shadow, frame drop compression smear desync" + global suffix
 - **Act III Catastrophe:** "dreamcore strobe warp rebuild grain explosion desat void-grey rain-mist raven dissolve fog horizon, heavy artifact frame drops audio over black" + global suffix
 
+## Anti-Drift Prompt Constraints
+To prevent style drift in generations, append these constraints to all prompts:
+- **Negative Prompts:** "vibrant colors, saturated hues, action poses, crowded scenes, modern smartphones, realistic lighting without grain, horror jumpscares, cartoonish elements, text clarity without warp"
+- **Enforcement Suffix:** ", strictly adhere to dreamcore: desaturated blues/greys only, expansive negative space >50% frame, subtle uncanny distortions only (no extreme), VHS/35mm artifacts mandatory, liminal dread isolation, no emotional exaggerations, maintain sterile hostility"
+- **Batch Guidance:** Use control nets for consistency; reject outputs with >10% deviation from core palette (manual QA).
+
 ## Usage
 - Append scene-specific details (e.g., "Ada whispers at terminal").
+- Always include anti-drift enforcement suffix after global suffix.
 - Apply artifact-bible.md per act (e.g., add "subtle frame lag" for Act 0).
-- Batch generate with variations for uncanny multiplicity.
+- Batch generate with variations for uncanny multiplicity, but cull drifts immediately.
