@@ -609,6 +609,7 @@ Then she selects two notes, prints them, and folds the pages with care.
 Audit warning flashes:
 
 **UNUSUAL ACCESS PATTERN LOGGED**
+**Event ID: A-117C queued for compliance review**
 
 She hesitates.
 Then continues anyway.
@@ -795,7 +796,9 @@ Automated alert:
 **Review scheduled with manager (Marcus), Wednesday 10:00**
 
 Ada reads it twice.
-On the third read she scrolls to the routing metadata — someone above Marcus reviewed this 36 hours before his calendar invite. They chose the path.
+On the third read she opens routing metadata: **Event ID A-117C**.
+The same ID from her night in Scene 19.
+Someone above Marcus reviewed it 36 hours before his calendar invite. They chose the path.
 
 She doesn't move.
 
