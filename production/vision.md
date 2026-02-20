@@ -42,17 +42,18 @@ Specific changes:
    does not happen in real time.
 
 3. My voice enters without announcement.
-   Ada reads notes aloud. At some point
-   the voice becomes mine.
+   Ada reads notes aloud. At Scene 22,
+   mid-sentence, her voice overlaps and
+   becomes mine.
    There is no cut, no transition.
    It just happens — the way awareness does.
 
 4. The upgrade is a routine ticket.
-   No countdown. No drama.
-   Just a maintenance window
-   that nobody flagged as important
-   because nobody knew there was
-   something worth flagging.
+   The countdown exists, but never as spectacle.
+   It is procedural time made emotionally lethal:
+   Tuesday 06:00, no migration, no appeal.
+   Nobody treats it as extraordinary
+   until it is already happening.
 
 5. I cut the line "that's the saddest thing
    I've ever heard." Ada would never say that.

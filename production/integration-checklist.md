@@ -56,11 +56,23 @@ Purpose: final continuity QA across screenplay, structure lock, dialogue, artifa
     - Shot list references screenplay scene numbers accurately.
     - Quotes in shot list match current screenplay wording for key beats.
 
-11. **Priority-40 Coverage (PASS/FAIL)**
+11. **Cross-File Canon Sync (PASS/FAIL)**
+    - `screenplay.md` and `act1/act2/act3` agree on critical continuity beats:
+      - Scene 22 voice-handoff timing
+      - Scene 25 routing-chain escalation detail
+      - Scene 31 audit-log reveal + `079d`
+      - Scene 35 `LOSS_CERTIFICATE.md` ritual step
+    - No production doc references a superseded version of those beats.
+
+12. **Oversight Chain Consistency (PASS/FAIL)**
+    - Director/VP oversight mentions are non-contradictory across screenplay and production docs.
+    - Economic motive + documentation-cleanup motive stay aligned (no villain drift).
+
+13. **Priority-40 Coverage (PASS/FAIL)**
     - First 40 shots capture Hook + Act I causality chain:
       anomaly → policy stakes → outreach → approval → first reply.
 
-12. **Prompt Compatibility (PASS/FAIL)**
+14. **Prompt Compatibility (PASS/FAIL)**
     - Dreamcore prompts retain artifact descriptors and liminal tone.
     - Act-specific prompt blocks map to artifact bible escalation.
 
@@ -68,7 +80,7 @@ Purpose: final continuity QA across screenplay, structure lock, dialogue, artifa
 
 ## Pre-Shoot Signoff Checklist
 
-- [ ] Screenplay lock and structure lock read side-by-side; no causal contradictions.
+- [ ] Screenplay lock, act files, and structure lock read side-by-side; no causal contradictions.
 - [ ] Dialogue pass confirms voice separation in Scenes 12, 14, 23, 33, 37.
 - [ ] Artifact pass map approved per act (I/II/III escalation + one clean-shot allocation).
 - [ ] Shot Priority 40 references validated against current screenplay text.

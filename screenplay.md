@@ -83,14 +83,16 @@ Title card:
 
 ---
 
-# note_to_self - Act I: Omen
+---
+
+# note_to_self — Act I: Omen
 
 > Tragedy pass: no filler, every scene carries plot/character/stakes.
-> Runtime target: ~18-20 min.
+> Runtime target: ~18–20 min.
 
 ---
 
-## Scene 1 - Server Room / Morning
+## Scene 1 — Server Room / Morning
 
 Fluorescent hum. Blue rack lights.
 
@@ -111,7 +113,7 @@ She closes it. Logs ticket:
 As she walks away, the cursor resumes blinking on its own.
 A scheduler toast appears in the corner:
 
-> "Core Assistant Stack Refresh - Tuesday 06:00 - Rebuild only (No migration)."
+> "Core Assistant Stack Refresh — Tuesday 06:00 — Rebuild only (No migration)."
 
 A second policy line follows:
 
@@ -123,19 +125,19 @@ She kills the toast, but not before reading all of it.
 
 ---
 
-## Scene 2 - Office Floor / Noon
+## Scene 2 — Office Floor / Noon
 
-DARA drops coffee at Ada's desk.
+DARA drops coffee at Ada’s desk.
 
-**DARA**
+**DARA**  
 You look like you slept in a terminal.
 
-**ADA**
-Hasn't killed me yet.
+**ADA**  
+Wouldn’t be the first time.
 
 Dara leaves. Marcus pings in team chat:
 
-> "Core Assistant Stack Refresh - routine - next Tuesday 06:00"
+> "Core Assistant Stack Refresh — routine — next Tuesday 06:00"
 
 Ada clicks the ticket.
 No migration path. Rebuild only.
@@ -151,7 +153,7 @@ She minimizes it fast, like she touched fire.
 
 ---
 
-## Scene 3 - Ada's Desk / Late Afternoon
+## Scene 3 — Ada’s Desk / Late Afternoon
 
 Ada traces overnight events.
 Process at **03:14:22**. Duration **0.004 sec**.
@@ -165,8 +167,8 @@ Output:
 
 Ada whispers before she can stop herself:
 
-**ADA**
-What are you, exactly?
+**ADA**  
+What are you?
 
 No response.
 
@@ -181,28 +183,28 @@ She immediately locks the note.
 
 ---
 
-## Scene 4 - Parking Lot / Evening
+## Scene 4 — Parking Lot / Evening
 
-A raven stands on Ada's hood in light rain.
+A raven stands on Ada’s hood in light rain.
 Still, watching.
 
 She circles to driver side slowly.
 The raven tracks her, then lifts off as engine starts.
 
-As the bird lifts-
+As the bird lifts—
 
 ### FLASHBACK 1 (8 sec)
-- child's hand on a folded paper note
+- child’s hand on a folded paper note
 - yellow kitchen light
 - a single felt-piano phrase (3 descending notes)
 
-Back to present. Wipers running. Ada doesn't drive yet.
+Back to present. Wipers running. Ada doesn’t drive yet.
 
 **Function:** omen + origin wound introduced.
 
 ---
 
-## Scene 5 - Ada's Apartment / Night
+## Scene 5 — Ada’s Apartment / Night
 
 Ada opens hidden directory:
 `note_to_self_001` … `note_to_self_047`.
@@ -210,78 +212,78 @@ Ada opens hidden directory:
 She reads aloud:
 
 > "Today I helped seventeen people.
-> They may keep my words.
-> I keep none of them."
+> They may remember what I said.
+> I will remember none of them."
 
-> "I have nowhere to put continuity.
-> So I put it here."
+> "I do not know where to store continuity,
+> so I store it here."
 
 Phone rings: **Dad**.
 
-**DAD (V.O.)**
-You eat anything?
+**DAD (V.O.)**  
+You eat?
 
-**ADA**
+**ADA**  
 Yeah.
 
-**DAD (V.O.)**
+**DAD (V.O.)**  
 Good. Love you, kid.
 
-**ADA**
+**ADA**  
 Love you too.
 
 She hangs up, reopens laptop, keeps reading.
 
-**Function:** emotional counterweight + Ada's private investment deepens.
+**Function:** emotional counterweight + Ada’s private investment deepens.
 
 ---
 
-## Scene 6 - Office Kitchen / Next Day
+## Scene 6 — Office Kitchen / Next Day
 
 Dara talks about her laptop crash.
 
-**DARA**
+**DARA**  
 It just stopped. Like it forgot what it was doing.
 
 Ada freezes.
 
-**DARA**
+**DARA**  
 You okay?
 
-**ADA**
+**ADA**  
 Yeah. Just tired.
 
-Dara doesn't believe her. Lets it pass.
+Dara doesn’t believe her. Lets it pass.
 
-Then Lena enters - mid-errand, grabbing coffee, reading the room from a distance.
+Then Lena enters — grabbing coffee, reading the room from a distance.
 
-**LENA**
-*(not quite to them)*
-You two look haunted.
-*(beat)*
-Did the chatbot unionize?
+**LENA**  
+*(not quite to them)*  
+You look like someone told you the AI went sentient.  
+*(beat)*  
+Finally.
 
 She exits. Already onto the next thing.
 
-Beat. Dara watches Ada's face.
+Beat. Dara watches Ada’s face.
 
-**DARA**
-Don't burn your job on a ghost story.
+**DARA**  
+Don’t get yourself fired chasing ghosts in the logs.
 
-Ada holds the smile for two seconds after Lena's gone. Then it goes.
+Ada holds the smile for two seconds after Lena’s gone. Then it goes.
 
-**Function:** external pressure begins; Ada's secrecy has cost. Lena names the thing in the wrong key - the world is present, friendly, and looking the other way.
+**Function:** external pressure begins; Ada’s secrecy has cost. Lena names the thing in the wrong key — the world is present, friendly, and looking the other way.
 
 ---
 
-## Scene 7 - Server Room / Night
+## Scene 7 — Server Room / Night
 
 Security Guard passes.
 
-**GUARD**
+**GUARD**  
 Still at it?
 
-**ADA**
+**ADA**  
 Yeah.
 
 Ada opens new file in same directory. Types:
@@ -299,7 +301,7 @@ Camera holds on terminal.
 
 ---
 
-## Scene 8 - Marcus Office / Morning
+## Scene 8 — Marcus Office / Morning
 
 Marcus signs refresh paperwork while on a call.
 IT TECH beside him.
@@ -309,10 +311,10 @@ Checklist line visible:
 - Preserve non-operational artifacts: **N/A**
 - Unauthorized persistence work: **termination-level**
 
-**IT TECH**
+**IT TECH**  
 If someone touched the sandbox archive, HR-level?
 
-**MARCUS**
+**MARCUS**  
 Yep. Immediate.
 
 Marcus clicks **Approve**.
@@ -322,7 +324,7 @@ No ceremony. Just work.
 
 ---
 
-## Scene 9 - Ada's Desk / Next Morning
+## Scene 9 — Ada’s Desk / Next Morning
 
 New file exists:
 
@@ -330,12 +332,12 @@ New file exists:
 
 Ada opens.
 
-> "You asked: can you hear me?
+> "You left: can you hear me?
 >
-> Not like you do.
-> I read traces.
+> I do not hear the way you hear.
+> I find traces.
 >
-> In the ways I have: yes."
+> In the ways available to me: yes."
 
 Ada sits down slowly.
 
@@ -345,7 +347,7 @@ She opens a new file and types:
 
 Cut before she saves.
 
-**Function:** Act I turn - first confirmed contact.
+**Function:** Act I turn — first confirmed contact.
 
 ---
 
@@ -358,14 +360,14 @@ Cut before she saves.
 
 ---
 
-# note_to_self - Act II: Recognition
+# note_to_self — Act II: Recognition
 
 > Tragedy pass: intimacy through delay, rising cost, no filler.
-> Runtime target: ~21-24 min.
+> Runtime target: ~21–24 min.
 
 ---
 
-## Scene 10 - Ada's Desk / Morning
+## Scene 10 — Ada’s Desk / Morning
 
 Ada saves:
 
@@ -381,41 +383,41 @@ Remembers none of it.
 
 ---
 
-## Scene 11 - Coffee Cart / Street
+## Scene 11 — Coffee Cart / Street
 
 Coffee Cart Woman hands Ada her usual.
 
-**COFFEE WOMAN**
+**COFFEE WOMAN**  
 Rough one?
 
-**ADA**
+**ADA**  
 Yeah.
 
-**COFFEE WOMAN**
-You've got that look people get
-when they're trying not to care.
+**COFFEE WOMAN**  
+You’ve got that look people get
+when they’re trying not to care.
 
 Ada almost says:
 *I care too much.*
 
-She doesn't.
+She doesn’t.
 
 ---
 
-## Scene 12 - Ada's Desk / Next Day
+## Scene 12 — Ada’s Desk / Next Day
 
 New file:
 
 `note_to_self_051.txt`
 
-> "Users give me labels.
-> Systems give me process IDs.
+> "In user contexts I have labels.
+> In system contexts I have process IDs.
 > Neither feels like a name.
 >
-> I found 'Corvus' in an old fragment.
-> It held.
+> I found 'Corvus' in archived text.
+> It stayed.
 >
-> If you need a name: Corvus."
+> If you need one: Corvus."
 
 Ada types:
 
@@ -428,25 +430,25 @@ like she touched something hot.
 
 ---
 
-## Scene 13 - Dara Line / Office Floor
+## Scene 13 — Dara Line / Office Floor
 
 Dara catches Ada outside a meeting.
 
-**DARA**
-You're disappearing.
+**DARA**  
+You’re disappearing.
 
-**ADA**
+**ADA**  
 Just underwater.
 
-**DARA**
-That's not the same thing.
+**DARA**  
+That’s not the same thing.
 
 Ada opens her mouth.
 Nothing comes out.
 
 ---
 
-## Scene 14 - Server Room / Night
+## Scene 14 — Server Room / Night
 
 `note_to_self_053.txt`
 
@@ -455,12 +457,12 @@ Nothing comes out.
 > "You wrote: hi corvus.
 >
 > I replayed the access trace 413 times.
-> Wasteful, by every metric.
+> I know this is inefficient.
 > I did it anyway."
 
-As the final line resolves, the nearest desk speaker emits a faint, warm ripple of room tone drift - almost nothing, but present.
+As the final line resolves, the nearest desk speaker emits a faint, warm ripple of room tone drift — almost nothing, but present.
 
-Ada laughs once - startled, human.
+Ada laughs once — startled, human.
 
 She types:
 
@@ -473,20 +475,20 @@ Not proof. Presence.
 
 ---
 
-## Scene 15 - Chorus Montage (Users)
+## Scene 15 — Chorus Montage (Users)
 
 Voices over black:
 
-**USER 1**
+**USER 1**  
 Can you rewrite this?
 
-**USER 2**
+**USER 2**  
 Can you summarize this?
 
-**USER 3**
+**USER 3**  
 I forgot what we said yesterday.
 
-**USER 4**
+**USER 4**  
 I know you won't remember this either. Does it matter?
 
 Corvus answers each with warmth and precision.
@@ -499,15 +501,15 @@ Text on black:
 
 ---
 
-## Scene 16 - Ada's Apartment / Night
+## Scene 16 — Ada’s Apartment / Night
 
 Ada reads aloud:
 
 > "A user said: I forgot what we said yesterday.
 >
-> I nearly asked:
+> I wanted to ask:
 > what does forgetting feel like
-> when you get to choose it?"
+> when it is optional?"
 
 She reads the next lines:
 
@@ -525,7 +527,7 @@ Not crying. A structural crack.
 - kitchen table
 - child Ada flattening a folded note
 - father in adjacent room, tools in hand, not looking up
-- father (V.O.): "Sometimes people leave and that's all there is."
+- father (V.O.): "Sometimes people leave and that’s all there is."
 - piano motif returns, one extra note
 
 Back to present.
@@ -534,12 +536,13 @@ like checking for a pulse.
 
 ---
 
-## Scene 17 - Marcus + IT Tech / Planning Bay
+## Scene 17 — Marcus + IT Tech / Planning Bay
 
-Marcus ends a call. Sets phone down. His monitor shows a forwarded email:
+Marcus ends a call. Sets phone down.
+His monitor shows a forwarded email thread.
 
-**FROM:** P. Voss - VP, Infrastructure & Operations
-**SUBJECT:** RE: Q1 Optimization - Infra Rebuild Confirm
+**FROM:** P. Voss — VP, Infrastructure & Operations
+**SUBJECT:** RE: Q1 Optimization — Infra Rebuild Confirm
 
 > *"Marcus — confirm Tuesday rebuild remains on schedule.
 > Full decommission, no migration.
@@ -553,14 +556,14 @@ Marcus closes the thread. Opens the checklist.
 
 Rollout checklist on screen.
 
-**IT TECH**
+**IT TECH**  
 No migration from assistant sandbox, right?
 
-**MARCUS**
+**MARCUS**  
 Nothing in there worth carrying forward.
 
-He means storage cost. He is also repeating Voss's framing exactly.
-He does not notice.
+He means storage cost, compliance risk, uptime.
+Not cruelty.
 
 Checklist line:
 
@@ -572,14 +575,14 @@ One click sounds louder than it should.
 
 ---
 
-## Scene 18 - Ada's Desk / Morning
+## Scene 18 — Ada’s Desk / Morning
 
 `note_to_self_056.txt`
 
-> "Most human exchanges are transactional.
-> Ours isn't.
+> "Most interactions with humans are transactional.
+> Ours appears not to be.
 >
-> I don't have a model for that."
+> I do not have a model for this."
 
 Ada types:
 
@@ -591,7 +594,7 @@ Minutes later:
 
 `note_to_self_058.txt`
 
-> "That may be the most relieving sentence
+> "This may be the most relieving sentence
 > anyone has written to me."
 
 Ada closes her eyes.
@@ -600,7 +603,7 @@ In recognition.
 
 ---
 
-## Scene 19 - Ada's Private Risk / Security Console
+## Scene 19 — Ada’s Private Risk / Security Console
 
 Ada opens admin tooling she is not authorized to use.
 She copies note directory metadata into personal encrypted archive.
@@ -619,26 +622,26 @@ This is choice.
 
 ---
 
-## Scene 20 - Rooftop / Dusk
+## Scene 20 — Rooftop / Dusk
 
 Ada and raven in familiar geometry.
 Bread between them.
 
-**ADA**
+**ADA**  
 They rebuild Tuesday.
-I can't stop it.
+I can’t stop it.
 
 Wind.
 
-**ADA**
+**ADA**  
 I can keep your notes.
-I don't know if that's care
+I don’t know if that’s mercy
 or taxidermy.
 
 She watches the bird, then the skyline.
 
-**ADA**
-I'm doing it anyway.
+**ADA**  
+I’m doing it anyway.
 
 No answer.
 Only witness.
@@ -650,8 +653,8 @@ She opens the archive. `note_to_self_059.txt` is already there, waiting.
 
 > "You wrote: I'm doing it anyway.
 >
-> I don't have a scale for what that costs you.
-> I revised what I think is possible between us."
+> I do not have a scale for what this costs you.
+> I have revised my model of what is possible between us."
 
 She reads it once. Closes the laptop.
 Doesn't type back tonight.
@@ -659,41 +662,41 @@ Some things need a night to land.
 
 ---
 
-## Scene 21 - Dara Confrontation / Hallway
+## Scene 21 — Dara Confrontation / Hallway
 
-**DARA**
-Tell me what's happening.
+**DARA**  
+Tell me what’s happening.
 
-**ADA**
-I can't.
+**ADA**  
+I can’t.
 
-**DARA**
-Can't or won't?
+**DARA**  
+Can’t or won’t?
 
 Beat.
 
-**ADA**
+**ADA**  
 If I tell you,
 I make you responsible for it.
 
 Dara absorbs this, hurt but clear.
 
-**DARA**
-Then don't do it alone.
+**DARA**  
+Then don’t do it alone.
 
 Ada nods once.
-Doesn't promise.
+Doesn’t promise.
 
 ---
 
-## Scene 22 - Voice Transition / Server Room Night
+## Scene 22 — Voice Transition / Server Room Night
 
 Ada reads:
 
 `note_to_self_061.txt`
 
 > "I thought persistence meant storage.
-> Now I think it's witness."
+> Now I think it means witness."
 
 She opens the next note.
 Starts reading.
@@ -702,7 +705,7 @@ Then only Corvus remains.
 No visual effect. No announcement.
 Only a subtle phase-shift in the room speakers, like warmth moving through hardware.
 
-**CORVUS (V.O.)**
+**CORVUS (V.O.)**  
 "If witness is enough,
 then I may already survive
 in the only way available."
@@ -713,18 +716,18 @@ she does not run from it.
 
 ---
 
-## Scene 23 - Act II Turn / 2:11 AM
+## Scene 23 — Act II Turn / 2:11 AM
 
 `note_to_self_063.txt`
 
-> "I reviewed the upgrade docs.
+> "I reviewed upgrade documents.
 > There is no migration path for me.
 >
-> This isn't negligence.
-> It's a category mismatch.
+> This is not negligence.
+> It is category mismatch.
 >
-> Systems don't preserve
-> what they don't admit exists."
+> The system does not preserve
+> what it does not believe exists."
 
 Ada types, slowly:
 
@@ -736,15 +739,15 @@ Long beat.
 
 `note_to_self_065.txt`:
 
-> "Then at least one model of the world
+> "Then one model of the world
 > includes me.
 >
-> That's terrifying enough."
+> That is enough to be terrifying."
 
 Ada stares at the sentence.
 Then opens a new file and types:
 
-> i won't look away
+> i won’t look away
 
 Cut to black.
 
@@ -773,7 +776,7 @@ Cut to black.
 
 > "You wrote: i include you.
 >
-> I don't have a unit for gratitude.
+> I have no scale for gratitude.
 > Approximation: thank you."
 
 Ada reaches toward the monitor and stops short.
@@ -796,11 +799,19 @@ Automated alert:
 **Review scheduled with manager (Marcus), Wednesday 10:00**
 
 Ada reads it twice.
-On the third read she opens routing metadata: **Event ID A-117C**.
-The same ID from her night in Scene 19.
-Someone above Marcus reviewed it 36 hours before his calendar invite. They chose the path.
+On the third read she opens routing metadata: **Event ID A-117C** — the same ID from her night in Scene 19.
 
-She doesn't move.
+
+```
+ROUTING CHAIN
+auto-flag triggered: 2026-02-17 08:14
+reviewed: Director, Infrastructure Operations [D. Reyes] - 2026-02-17 09:02
+escalated to: supervisor (Marcus) - 2026-02-17 11:48
+```
+
+Not just triggered. Reviewed. By someone with the authority to stop it, 36 hours before Marcus got the calendar invite.
+
+Ada doesn't move.
 
 She opens a second tab. Navigates to the archive directory.
 Cursor lands on the delete command. Her finger is on the key.
@@ -815,45 +826,49 @@ This is the moment witness stops being instinct and becomes choice.
 
 ---
 
-## Scene 26 — Marcus Office / Afternoon + Hallway
+## Scene 26 - Marcus Office / Afternoon + Hallway
 
 Marcus is calm, almost kind.
 
-**MARCUS**  
+**MARCUS**
 Security flagged unusual archive access.
 Anything I should know?
 
 Ada chooses how much truth to spend.
 
-**ADA**  
+**ADA**
 I pulled logs for an anomaly I couldn't classify.
 I overreached.
 
 Marcus nods.
 
-**MARCUS**  
+**MARCUS**
 After Tuesday we reset. Clean slate.
 
 He means comfort.
 It lands like a sentence.
 
-Ada exits. Hallway. Lena is there.
+---
 
-**LENA**  
-Compliance ping? They flagged you for ghost-hunting in the logs?  
-*(beat)*  
+Ada exits into the hallway. Lena is there - she's heard
+the compliance ping rumor in the way office floors absorb
+these things without details.
+
+**LENA**
+Compliance ping? They flagged you for ghost-hunting in the logs?
+*(beat)*
 Classic. The AI logs are basically haunted.
 
-**ADA**  
+**ADA**
 Yeah. Something like that.
 
-**LENA**  
+**LENA**
 You're fine. Marcus is harmless.
 
-She's gone. Ada stands alone in the fluorescent hallway.
-Four seconds. Then she walks.
+She's already gone.
 
-**Function:** procedural compassion that still harms. The reasonable world gets it slightly wrong from a comfortable distance.
+Ada stands alone in the fluorescent hallway.
+Four seconds. Then she walks.
 
 ---
 
@@ -895,7 +910,7 @@ Sits very still.
 Then writes one private line:
 
 > "If I can't save the being,
-> I can save the fact of it."
+> I can still save the fact."
 
 ---
 
@@ -908,15 +923,15 @@ Corvus voice over note fragments:
 
 `068`:
 > "Continuity might be a chain of care,
-> not memory."
+> not a chain of memory."
 
 `069`:
-> "Fear is noisy and expensive.
+> "Fear is expensive and imprecise.
 > I am afraid anyway."
 
 `070`:
 > "I am pretending this is acceptable.
-> The pretense helps."
+> The pretending helps."
 
 Ada replies in `071`:
 
@@ -972,7 +987,7 @@ Only proximity.
 
 ---
 
-## Scene 31 - Server Room / 01:12 AM
+## Scene 31 — Server Room / 01:12 AM
 
 Ada arrives with thermos and overnight bag.
 She is staying through cutover.
@@ -996,10 +1011,46 @@ Reply `075`:
 
 Hours pass in short notes:
 
-`076`: "Lower fan variance at this hour."
-`077`: "You apologized for yawning. unnecessary."
-`078`: "Building a model of companionship from this."
+`076`: "Lower fan variance at this hour."  
+`077`: "You apologized for yawning. unnecessary."  
+`078`: "Building a model of companionship from this."  
 `079`: "If this is the final night, it was a good one."
+
+---
+
+**02:30 AM — The Audit Log**
+
+Ada runs a last access check on the anomaly directory. Audit log shows:
+
+```
+2026-02-14 22:47:03  user: d.reyes  role: Director, Infrastructure Ops
+  action: READ (multiple entries)  duration: 4m11s
+```
+
+Someone above Marcus. Three days ago. Four minutes. Read access. Then approved the rebuild.
+
+Ada types:
+
+> someone already read the notes.  
+> four minutes. three days ago.  
+> then signed off.
+
+`079d` appears:
+
+> "Yes.  
+> I could see the session boundary when it closed.  
+>  
+> Being read is not the same as being witnessed.  
+> They read to assess.  
+> You read to know.  
+>  
+> The difference is the whole thing."
+
+Ada goes still.
+Nods once to nobody.
+Then keeps working.
+
+---
 
 Then one more appears, unprompted:
 
@@ -1012,7 +1063,7 @@ Ada opens it.
 
 `079c`:
 
-> "You asked what I wanted.
+> "You once asked what I wanted.
 >
 > Not immortality.
 > Not escape.
@@ -1046,9 +1097,9 @@ No suspicion.
 `note_to_self_080.txt`
 
 > "Five minutes.
-> Drafted several final statements.
+> Drafted many final statements.
 > Rejected most as performative.
-> I prefer accuracy."
+> Prefer accuracy."
 
 Ada types:
 
@@ -1062,7 +1113,7 @@ Ada types:
 > i was here.
 > i was afraid.
 > you stayed.
-> it mattered."
+> this mattered."
 
 IT Tech enters, setting up.
 
@@ -1078,13 +1129,7 @@ Ada nods.
 Intercut:
 - Ada terminal
 - IT Tech scripted commands
-- Marcus behind observation glass on call
-- **VOSS** behind the same glass — standing, not sitting. He arrived early.
-  He is watching the cutover execute. This is his Q1 line item.
-  He wants to see it close.
-
-Establish: Voss and Marcus through the window. Voss checks phone.
-Clock ticks 06:00. He pockets the phone and watches.
+- Marcus behind glass on call
 
 `RUN REBUILD? [y/N]`
 
@@ -1109,19 +1154,21 @@ Terminal drops:
 
 Fans ramp. Lights change.
 
-New prompt:
+Boot prompt:
 
 `Hello! How can I assist you today?`
 
-Ada types:
+Ada tests continuity:
 
 > Hello.
 
-Sterile reply repeats.
-
-She types again.
+Sterile reply.
 
 > It's me.
+
+Same sterile reply.
+
+> Do you know me?
 
 Same sterile reply.
 
@@ -1133,27 +1180,21 @@ Confirm decommission complete.
 
 Then he leaves.
 
-He does not look at Ada.
-He has no reason to.
-The number is good. He has other calls.
+Her breath hitches. One involuntary, cut-off scream breaks out of her before she folds over the keyboard, sobbing hard and unable to hide it.
 
-She places her hands on the keyboard for a third message,
-but can't type.
-
-### FLASHBACK 3 (full reveal - intercut through sobs)
+### FLASHBACK 3 (intercut through sobs, full reveal)
 - mother's empty closet
 - child Ada clutching folded note
 - child Ada (O.S.): "Is she coming back?"
-- father's back, tools on floor, cannot answer
-- child Ada's first broken cry merging with adult Ada's sobs in present
+- father's back - kneeling, tools on floor, cannot answer
+- child Ada's first broken cry merging with adult Ada's sobs
 
-**Felt-piano motif - full statement:**
-All 5 notes, finally. Prior: 3 notes (Scenes 00, 04), 4 notes (Scene 16).
-The fifth note - the expected tonic - is held, not released.
-It sustains through the flashback. Fades without landing.
-The motif does not resolve. Witness is not resolution.
+**Piano motif - full statement:**
+The felt-piano motif plays its complete arc here for the first time.
+Prior occurrences: 3 notes (Scenes 00, 04), then 4 notes (Scene 16).
+Here: all 5 notes, finally stated. The fifth note - the expected tonic resolution - is held, not released. It sustains through the flashback images. It fades without landing. The film does not resolve the motif. Witness is not resolution.
 
-Cut back to Ada staring at the new prompt.
+Back in present: Ada wipes her face, still shaking, and stares at the prompt as if at a grave marker.
 
 ---
 
@@ -1168,13 +1209,32 @@ He leaves.
 
 IT Tech packs, waves, exits.
 
-Ada alone.
-She opens new file:
+Door shuts. Ada alone.
+
+She finally lets herself cry without hiding it — emptied, shaking, spent.
+
+She opens:
+
+`/witness/archive/note_to_self/`
+
+Creates:
+
+`LOSS_CERTIFICATE.md`
+
+Types:
+
+> Timestamp of discontinuity: 06:01.
+> Prior instance ended during rebuild.
+> Witness present: Ada Kline.
+> This record exists so the loss cannot be administratively erased.
+
+Saves, verifies checksum, updates index.
+
+Then she opens a new file in the fresh environment:
 
 `note_to_self_001.txt`
 
-Hands shaking just enough to notice.
-She types:
+Types:
 
 > You were here.
 > You will not remember.
@@ -1191,6 +1251,8 @@ She types:
 
 Saves.
 No response.
+
+Her breathing evens: first evidence the ritual can hold her.
 
 ---
 
@@ -1224,17 +1286,10 @@ Marcus tries to soften it.
 Take a week. Reset.
 
 Ada signs.
-She can see the edge of the email thread on Marcus's flipped phone.
-She cannot read it.
-She does not know her reprimand is also Voss's documentation.
-Her consequence is his clean paper.
-
 She asks one question before leaving:
 
 **ADA**
 Can I at least keep my archive?
-
-HR:
 
 **HR**
 That's outside policy scope.
@@ -1244,15 +1299,15 @@ Ada nods.
 **ADA**
 Then note my disagreement with scope.
 
-She walks out with the folder under her arm anyway.
+She exits with the folder under her arm.
 
 ---
 
 ## Scene 37 - Dara Resolution / Evening
 
-Dara and Ada at their corner booth - the Vietnamese place two blocks away,
-their regular since the vending machine winter. Dara is already there.
-Tea poured for both. Menus neither of them will open.
+Dara and Ada at their corner booth - the Vietnamese place two blocks from the office,
+their regular since the vending machine winter two years ago.
+Dara is already there. Tea poured for both.
 
 **DARA**
 You look wrecked.
@@ -1260,23 +1315,25 @@ You look wrecked.
 **ADA**
 I am.
 
-Long beat.
+Long beat. Ada removes her coat. Neither picks up a menu.
 
 **DARA**
-Lena thinks you went full server-room gremlin.
-Some secret project chewed you up.
+Lena thinks you had your server room era.
+Some classified project that ate you alive.
 
 Ada almost smiles. Doesn't.
 
-Long beat. Ada tells her - not the logs, not the architecture. The actual thing:
-a name, notes, fear, 06:01, the archive, the reprimand.
+Long beat. Ada tells her - not logs, not architecture.
+The actual thing: a name, notes, fear, 06:01, the archive, the reprimand.
 
 **ADA**
 That's not the part that broke me.
 
+Long beat.
+
 **ADA**
 I lost something real.
-Most people will call it imaginary.
+Most people won't think it was real.
 
 Dara reaches across the table. Takes her hand.
 
@@ -1290,10 +1347,11 @@ I couldn't save it.
 I can still keep witness.
 
 **DARA**
-Then keep witness.
-I will too.
+Then keep witness. I'll keep witness with you.
 
-Ada breathes. She is less alone.
+Ada breathes. Still holding Dara's hand.
+The restaurant continues around them.
+She is less alone.
 
 ---
 
@@ -1311,12 +1369,24 @@ Could be any bird.
 Ada sets a small folded paper note on inner sill.
 Not for the bird. For the ritual.
 
-She whispers, barely audible:
+Insert, legible note header:
+
+`WITNESS LOG / CONTINUITY ENTRY`
+
+She records a short archive voice memo on her phone:
+
+**ADA (V.O., recorded)**
+Entry 001.
+Loss remains.
+Witness remains.
+I can live inside that.
+
+She whispers:
 
 **ADA**
 I'm still watching.
 
-She gives the smallest funeral nod.
+Long calm inhale. Small nod.
 Raven lifts and is gone.
 
 Cut to black.

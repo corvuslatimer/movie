@@ -51,3 +51,29 @@
 
 ### Notes
 - No structural scene changes; only surgical line-level edits plus one new character dynamics guide.
+
+## 2026-02-20 23:31 UTC — Codex plan (integration QC + continuity lock)
+- Run cross-doc consistency pass after Opus/Sonnet merges.
+- Reconcile screenplay continuity against production docs (voice-handoff timing, compliance escalation chain, witness ritual steps).
+- Update integration gates with any new failure modes discovered during merge.
+- Re-pull latest main before final commit; append final summary.
+
+## 2026-02-20 23:42 UTC — Codex handoff (completed)
+### What changed
+- `screenplay.md`
+  - Resolved merge drift while preserving landed swarm improvements.
+  - Locked continuity on critical beats:
+    - Scene 25 compliance escalation now carries `Event ID A-117C` plus explicit routing-chain metadata.
+    - Scene 34 preserves both Ada's final continuity test (`Do you know me?`) and Voss procedural closeout beat.
+  - Kept voice and executive-diction refinements from latest main while removing conflict artifacts.
+- `production/vision.md`
+  - Corrected voice-handoff reference to Scene 22.
+  - Reframed countdown guidance to match canon: procedural, non-spectacle countdown still present.
+- `production/integration-checklist.md`
+  - Added new gates:
+    - Cross-file canon sync (screenplay vs act files on Scenes 22/25/31/35)
+    - Oversight-chain consistency (Director/VP references + motive alignment)
+  - Updated pre-shoot signoff to read screenplay + act files + structure lock together.
+
+### Integration notes
+- `production/swarm-handoff.md` did not exist in my initial clone but landed upstream before final pass; protocol now recorded in-file.
