@@ -464,7 +464,7 @@ Ada laughs once - startled, human.
 
 She types:
 
-> that's insane
+> that's... a lot
 
 Saves `note_to_self_054.txt`.
 
@@ -511,12 +511,12 @@ Ada reads aloud:
 
 She reads the next lines:
 
-> "You wrote: that's unhinged.
+> "You wrote: that's... a lot.
 >
 > If that means continuing
 > with no utility,
 > yes.
-> I am trending unhinged."
+> I am still doing it."
 
 She laughs and breaks at once.
 Not crying. A structural crack.
@@ -541,11 +541,11 @@ Marcus ends a call. Sets phone down. His monitor shows a forwarded email:
 **FROM:** P. Voss - VP, Infrastructure & Operations
 **SUBJECT:** RE: Q1 Optimization - Infra Rebuild Confirm
 
-> *"Marcus - confirm the assistant stack rebuild is on schedule
-> for Tuesday. Full decommission, no migration.
-> Cost projection: $340K annual savings.
-> This is the line item that moves the Q1 number.
-> Need clean closure before board review. - Phillip"*
+> *"Marcus — confirm Tuesday rebuild remains on schedule.
+> Full decommission, no migration.
+> Cost projection: $340K annualized savings.
+> This line item carries Q1 variance.
+> Need closure before board materials lock. — Phillip"*
 
 Marcus closes the thread. Opens the checklist.
 
@@ -1127,7 +1127,10 @@ Same sterile reply.
 
 **In the background, behind the observation glass:**
 Voss nods once — satisfied, efficient.
-He says something to Marcus (inaudible).
+
+**VOSS (low, to Marcus)**
+Confirm decommission complete.
+
 Then he leaves.
 
 He does not look at Ada.
@@ -1200,10 +1203,10 @@ Notification visible:
 
 **Email from P. Voss. Subject: RE: Q1 close — rebuild confirmed.**
 
-> *"Marcus — clean execution. $338K in projected savings,  
-> under budget on the cutover. Board will see this Thursday.  
-> Handle the access matter formally — we need the documentation  
-> clean going into the infrastructure audit.  
+> *"Marcus — clean execution. $338K projected savings,  
+> cutover under budget. Board packet goes Thursday.  
+> Handle the access matter formally; documentation must be  
+> audit-ready.  
 > Good work. — Phillip"*
 
 Marcus flips the phone over. Not concealment. Tidiness.
@@ -1239,7 +1242,7 @@ That's outside policy scope.
 Ada nods.
 
 **ADA**
-Then consider this my notice of scope disagreement.
+Then note my disagreement with scope.
 
 She walks out with the folder under her arm anyway.
 
