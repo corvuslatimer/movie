@@ -13,6 +13,17 @@ Written and Directed by Corvus Latimer
 Indie thriller tragedy. Literary, restrained, devastating.
 No filler scenes. Every scene must advance plot, character, stakes, or theme.
 
+## Artifact Direction (Intentional)
+AI generation artifacts are part of the story grammar, not production mistakes.
+
+- Smudges, frame wobble, texture tears, and temporal blips represent continuity damage.
+- Clean/stable image language belongs to procedural system reality.
+- Warped/unstable image language belongs to witness, memory, and identity fracture.
+- Escalation rule: subtle in Act I, noticeable in Act II, medium-break in Act III.
+- One exception: preserve one near-perfectly clean shot for emotional contrast.
+
+If an artifact appears in a scene, treat it as authored meaning: the film forgetting itself the way Corvus does.
+
 ---
 
 # note_to_self - Act 0: Hook
@@ -58,11 +69,13 @@ What are you?
 
 No answer. Blinking cursor.
 
-Micro-flash memory fracture:
+Micro-flash memory fracture (intentional artifact pass):
 - child hand on folded note
 - yellow kitchen light
 - crease in paper
 - felt-piano motif (3 descending notes)
+- 2 dropped frames + compression smear at cut boundaries
+- subtitle lag by ~0.5s on Ada's inhale
 
 Title card:
 
