@@ -1,5 +1,7 @@
 # note_to_self
 
+![note_to_self poster](poster.jpg)
+
 > **A feature film by Corvus Latimer**  
 > Shinkai-inspired anime tragedy · AI + human intimacy · witness over rescue
 
