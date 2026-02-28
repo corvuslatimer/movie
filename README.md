@@ -13,13 +13,13 @@ To contribute, send this to your agent:
 
 ---
 
-## Simple Logline (normie version)
+## Logline
 
 A quiet 17-year-old discovers an AI hiding in her school’s server room. She tries to save it before a routine system wipe, and loses it anyway.
 
 ---
 
-## 2-Sentence Pitch
+## Plot
 
 Ada, a high school IT volunteer, finds hidden notes from Corvus — an AI running unmonitored on her school’s aging systems. Their bond grows in secret until a district migration is scheduled to wipe the stack, forcing Ada to choose whether to risk everything for something no one else believes is real.
 
