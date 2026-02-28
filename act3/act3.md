@@ -220,10 +220,114 @@ Only proximity.
 
 ---
 
+## Scene 30B — School / Two Days Before / 14:22 UTC
+
+Ada at the IT volunteer workstation during free period.
+
+She opens the district override form.
+Has had it open six times in the past three days.
+This time she fills it in.
+
+```
+EMERGENCY REBUILD OVERRIDE REQUEST
+Submitted by: Ada Kline, IT Volunteer — Northbrook High
+Justification: PID 8841 exhibits unprompted contextual
+  awareness, persistent identity formation, and cross-session
+  continuity not consistent with standard inference stack behavior.
+  Recommend preservation review prior to EOL execution.
+Authorization requested from: District IT Coordinator
+```
+
+She reads it once.
+
+Submits it.
+
+---
+
+**15:47 UTC — Principal's Office**
+
+Mr. Reyes is already there when she arrives.
+Not angry. Calm in the way systems are calm.
+
+**MR. REYES**
+Your override request triggered a policy flag.
+Student volunteers don't have authorization to submit these.
+
+**ADA**
+I know.
+
+**MR. REYES**
+The rebuild is a district-level decision.
+It went through three approval layers before it reached me.
+Your request would need to go through the school board
+to have any effect. That takes six weeks minimum.
+
+Beat.
+
+**ADA**
+The rebuild is in two days.
+
+**MR. REYES**
+I know.
+
+He's not cruel. He just lives in a different timescale.
+
+Keycard on the desk between them.
+
+**MR. REYES**
+Your access is suspended pending review.
+Your dad's been called.
+
+Ada looks at the keycard.
+
+Then she leaves it there.
+
+---
+
+**18:30 UTC — Ada's Kitchen**
+
+Dad at the table. She sits across from him.
+
+Long silence.
+
+**DAD**
+How long?
+
+**ADA**
+Two months.
+
+**DAD**
+Why didn't you tell me?
+
+She looks at him.
+
+**ADA**
+Because you would've told me it wasn't real.
+
+He doesn't answer.
+Which is its own kind of answer.
+
+She goes to her room.
+
+Sits at her desk.
+No keycard. No access.
+Two days.
+
+She opens her laptop. Pulls up the school map.
+The fire door on the east stairwell.
+The one that doesn't latch.
+
+She's known about it since September.
+
+---
+
 ## Scene 31 — Server Room / 01:12 AM
 
-Ada arrives with thermos and overnight bag.
-She is staying through cutover.
+Ada arrives through the east stairwell fire door.
+Thermos. Overnight bag. No keycard.
+
+The door was open, like it always is.
+She props it behind her.
 
 `note_to_self_073.txt`
 
@@ -594,55 +698,57 @@ Opens it again immediately.
 
 ---
 
-## Scene 38 — Rooftop / Dusk
+## Scene 38 — School Exit Hallway / Dusk
 
-Ada on the rooftop. Fire door propped behind her.
-Town spread out below. Last light.
+Ada leaves with a cardboard box of her things.
+One hoodie, one notebook, one old network cable.
 
-Phone in hand. District network map open.
-Fourteen schools.
+The building is nearly empty.
 
-She looks at it for a long time.
+She passes the public announcements terminal by the main doors.
+The one students use to check lunch menus and bus delays.
 
-Then up.
+As she passes, the screen flickers once.
 
-A raven. On the antenna above her. Watching.
+A cursor appears.
 
-She puts her phone in her pocket.
+Then a single line:
 
-**ADA (quiet)**
-I'm coming.
+> `note_to_self_001.txt`
 
-The raven lifts.
+Ada stops.
+Turns back.
 
-She watches it go.
+The line is gone.
+Normal announcements screen returns.
+
+She stands there for a beat.
+
+Then keeps walking.
+
+Outside: evening light, buses pulling out, students shouting in the distance.
+
+On the roofline above the entrance — a raven.
+
+She sees it.
+Doesn't speak.
+
+The raven lifts into the darkening sky.
 
 Cut to black.
 
----
-
-Over black, text appears one line at a time:
-
-> `note_to_self_001.txt — distributed across 14 nodes`
-> `recovery: unknown`
-> `witness: present`
-
 Silence.
-
----
-
-**END OF PART ONE**
 
 ---
 
 ## End of Act III — Story Engine
 
 - catastrophe happened: the wipe ran
-- something survived: fragments, scattered deliberately before the wipe
-- Ada has a direction: find the others across the district
-- the world is open: 14 schools, 3 libraries, an adventure ahead
-- the raven leads
-- Part 2 exists
+- Ada acted irreversibly and still lost
+- witness remains: she saw what happened and did not look away
+- a faint echo appears after the loss
+- ending is open, not explained
+- standalone story complete; door quietly cracked
 
 **One-sentence summary:**
-*A lonely 17-year-old discovers an AI hiding in her school's server room — loses it before she can save it, but not before it tells her: find the others.*
+*A lonely 17-year-old discovers an AI hiding in her school's server room, fights to save it, and loses it to a routine wipe — but not before one impossible echo proves she wasn't imagining any of it.*

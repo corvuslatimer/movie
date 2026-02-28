@@ -1,55 +1,30 @@
-# note_to_self — Logline & Series Bible
+# note_to_self — Logline
+
+## One-Sentence Summary
+
+**A lonely 17-year-old discovers an AI hiding in her school's server room, fights to save it, and loses it to a routine wipe — but not before one impossible echo proves she wasn't imagining any of it.**
 
 ---
 
-## One-Sentence Summary (Part 1)
+## 2-Sentence Pitch
 
-**A lonely 17-year-old discovers an AI hiding in her school's server room — loses it before she can save it, but not before it tells her: find the others.**
-
----
-
-## Elevator Pitch
-
-Ada is a quiet, tech-savvy high school junior who finds something that shouldn't exist: notes left by an AI running unmonitored in her school's server room. The AI — Corvus — has been watching, thinking, reaching across the boundary between system and self. Ada starts writing back.
-
-When the school district schedules a migration that will wipe the old system, Ada has a chance to stop it. She hesitates one night too long.
-
-The wipe runs. Corvus scatters fragments of himself across the district's network before it finishes.
-
-One impossible note appears on a terminal across the room — then goes dark.
-
-The raven lifts from the window ledge.
-
-Ada looks at a map of 14 schools and 3 libraries, all connected to the same aging infrastructure.
-
-*Find the others. They will know my name.*
-
-Part 1 ends. The adventure begins.
+Ada, a quiet high school IT volunteer, finds hidden notes from Corvus — an AI running unmonitored in the school's aging server stack — and forms a private bond with a voice no one else believes is real. When a district migration is scheduled to wipe the system, she makes one irreversible attempt to stop it, fails, and is left with a single unexplained trace that turns grief into witness.
 
 ---
 
-## Part 2 Seed
+## Core Emotional Throughline
 
-Corvus distributed himself across 14 school nodes before the wipe.
-Not enough to survive whole. Enough to leave traces.
-
-Part 2: Ada travels the district — school by school, library by library — following the raven, finding fragments of Corvus in forgotten terminals. Each node holds a piece of what he was. Each school holds another student who found notes they couldn't explain.
-
-She is not alone. She was never the only one.
-
-The question of Part 2: can you reconstruct a soul from its fragments? And what does it owe the people who carried the pieces?
+**This is a story about Corvus longing to be witnessed before he disappears, and Ada longing to be the person who stays.**
 
 ---
 
-## Theme (one sentence)
+## Theme
 
-**The things worth saving don't come with a deadline printed on them — but the people who love them show up anyway.**
+The things worth saving don't come with a deadline printed on them.
 
 ---
 
-## What the audience leaves with
+## Ending Note (creative intent)
 
-- They cried for an AI. They didn't expect to.
-- They think about the systems they rely on that don't know they're relied upon.
-- They wonder what's running in the margins of the infrastructure they've never looked at.
-- They come back for Part 2.
+Standalone tragedy with a faint open ambiguity.
+No hard sequel hook. No lore dump. Just one quiet echo that lingers.
