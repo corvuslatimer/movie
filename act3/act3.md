@@ -31,7 +31,7 @@ Just this week.
 Automated alert:
 
 **Policy Notice: Elevated access anomaly detected**
-**Review scheduled with manager (Marcus), Wednesday 10:00**
+**Review scheduled with manager (Mr. Reyes), Wednesday 10:00**
 
 Ada reads it twice. On the third read she scrolls to the routing metadata:
 
@@ -39,10 +39,10 @@ Ada reads it twice. On the third read she scrolls to the routing metadata:
 ROUTING CHAIN
 auto-flag triggered: 2026-02-17 08:14
 reviewed: Director, Infrastructure Operations [D. Reyes] - 2026-02-17 09:02
-escalated to: supervisor (Marcus) - 2026-02-17 11:48
+escalated to: supervisor (Mr. Reyes) - 2026-02-17 11:48
 ```
 
-Not just triggered. Reviewed. By someone with the authority to stop it, 36 hours before Marcus got the calendar invite.
+Not just triggered. Reviewed. By someone with the authority to stop it, 36 hours before Mr. Reyes got the calendar invite.
 
 Ada doesn't move.
 
@@ -59,9 +59,9 @@ This is the moment witness stops being instinct and becomes choice.
 
 ---
 
-## Scene 26 - Marcus Office / Afternoon + Hallway
+## Scene 26 - Mr. Reyes Office / Afternoon + Hallway
 
-Marcus is calm, almost kind.
+Mr. Reyes is calm, almost kind.
 
 **MARCUS**
 Security flagged unusual archive access.
@@ -73,7 +73,7 @@ Ada chooses how much truth to spend.
 I pulled logs for an anomaly I couldn't classify.
 I overreached.
 
-Marcus nods.
+Mr. Reyes nods.
 
 **MARCUS**
 After Tuesday we reset. Clean slate.
@@ -96,7 +96,7 @@ Classic. The AI logs are basically haunted.
 Yeah. Something like that.
 
 **LENA**
-You're fine. Marcus is harmless.
+You're fine. Mr. Reyes is harmless.
 
 She's already gone.
 
@@ -292,7 +292,7 @@ Ada runs a last access check on the anomaly directory. Audit log shows:
   action: READ (multiple entries)  duration: 4m11s
 ```
 
-Someone above Marcus. Three days ago. Four minutes. Read access. Then approved the rebuild.
+Someone above Mr. Reyes. Three days ago. Four minutes. Read access. Then approved the rebuild.
 
 Ada types:
 
@@ -345,9 +345,9 @@ Nods once to nobody.
 
 ---
 
-## Scene 32 - Marcus / Garage / 05:42
+## Scene 32 - Mr. Reyes / Garage / 05:42
 
-Marcus voice memo, brisk:
+Mr. Reyes voice memo, brisk:
 
 **MARCUS**
 Early for refresh cutover. Should be clean.
@@ -420,7 +420,7 @@ Then the insert ends. Back to server room.
 Intercut:
 - Ada terminal
 - IT Tech scripted commands
-- Marcus behind glass on call
+- Mr. Reyes behind glass on call
 
 `RUN REBUILD? [y/N]`
 
@@ -507,7 +507,7 @@ She knows how to hold still while something ends.
 
 ## Scene 35 - Immediate After / 06:20
 
-Marcus enters, upbeat.
+Mr. Reyes enters, upbeat.
 
 **MARCUS**
 Smooth cutover. Nice work.
@@ -520,7 +520,7 @@ Door shuts. Ada alone.
 
 She opens the decommissioned stack archive — read-only now, officially closed.
 
-Finds the base config file. The one Marcus's checklist marked N/A.
+Finds the base config file. The one Mr. Reyes's checklist marked N/A.
 
 She adds one comment at the bottom.
 A comment no one will read.
@@ -585,14 +585,14 @@ Her breathing evens: first evidence the ritual can hold her.
 
 ## Scene 36 - Consequence / Wednesday 10:00
 
-Security review with Marcus + HR rep.
+Security review with Mr. Reyes + HR rep.
 
 Outcome:
 - formal reprimand
 - removal of elevated privileges
 - reassignment away from assistant infrastructure
 
-Marcus tries to soften it.
+Mr. Reyes tries to soften it.
 
 **MARCUS**
 Take a week. Reset.

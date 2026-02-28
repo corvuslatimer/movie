@@ -174,21 +174,21 @@ like checking for a pulse.
 
 ---
 
-## Scene 17 - Marcus + IT Tech / Planning Bay
+## Scene 17 - Mr. Reyes + IT Tech / Planning Bay
 
-Marcus ends a call. Sets phone down.
+Mr. Reyes ends a call. Sets phone down.
 His monitor shows a forwarded email thread.
 
 **FROM:** P. Voss - VP, Infrastructure & Operations
 **SUBJECT:** RE: Q1 Optimization - Infra Rebuild Confirm
 
-> *"Marcus - confirm the assistant stack rebuild is on schedule
+> *"Mr. Reyes - confirm the assistant stack rebuild is on schedule
 > for Tuesday. Full decommission, no migration.
 > Cost projection: $340K annual savings.
 > This is the line item that moves the Q1 number.
 > Need clean closure before board review. - Phillip"*
 
-Marcus closes the thread. Opens the checklist.
+Mr. Reyes closes the thread. Opens the checklist.
 
 ---
 
@@ -253,7 +253,7 @@ While navigating the admin panel she finds it — almost by accident:
 EMERGENCY REBUILD OVERRIDE
 Requires: supervisor credentials + written justification
 Window: closes 72h before scheduled cutover
-Authorization chain: Marcus → D. Reyes → VP Infrastructure
+Authorization chain: Mr. Reyes → D. Reyes → VP Infrastructure
 Consequence of unauthorized use: immediate access revocation,
   compliance review, potential termination
 ```

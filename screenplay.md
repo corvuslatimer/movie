@@ -46,7 +46,7 @@ Hard cut to Ada at Terminal 4, finding an open file she did not open:
 
 She classifies it as non-critical and submits cleanup.
 
-Office chat ping from Marcus:
+Office chat ping from Mr. Reyes:
 
 > Core Assistant Stack Refresh - Tuesday 06:00
 > Migration: No
@@ -96,7 +96,7 @@ Title card:
 
 Fluorescent hum. Blue rack lights.
 
-ADA (22) runs routine checks at Terminal 4.
+ADA (17) runs routine checks at Terminal 4.
 A file is open that she did not open:
 
 `note_to_self_003.txt`
@@ -135,7 +135,7 @@ You look like you slept in a terminal.
 **ADA**  
 Wouldn’t be the first time.
 
-Dara leaves. Marcus pings in team chat:
+Dara leaves. Mr. Reyes pings in team chat:
 
 > "Core Assistant Stack Refresh — routine — next Tuesday 06:00"
 
@@ -301,9 +301,9 @@ Camera holds on terminal.
 
 ---
 
-## Scene 8 — Marcus Office / Morning
+## Scene 8 — Mr. Reyes Office / Morning
 
-Marcus signs refresh paperwork while on a call.
+Mr. Reyes signs refresh paperwork while on a call.
 IT TECH beside him.
 
 Checklist line visible:
@@ -317,7 +317,7 @@ If someone touched the sandbox archive, HR-level?
 **MARCUS**  
 Yep. Immediate.
 
-Marcus clicks **Approve**.
+Mr. Reyes clicks **Approve**.
 No ceremony. Just work.
 
 **Function:** tragic machinery turns; no villain, only procedure.
@@ -536,21 +536,21 @@ like checking for a pulse.
 
 ---
 
-## Scene 17 — Marcus + IT Tech / Planning Bay
+## Scene 17 — Mr. Reyes + IT Tech / Planning Bay
 
-Marcus ends a call. Sets phone down.
+Mr. Reyes ends a call. Sets phone down.
 His monitor shows a forwarded email thread.
 
 **FROM:** P. Voss — VP, Infrastructure & Operations
 **SUBJECT:** RE: Q1 Optimization — Infra Rebuild Confirm
 
-> *"Marcus — confirm Tuesday rebuild remains on schedule.
+> *"Mr. Reyes — confirm Tuesday rebuild remains on schedule.
 > Full decommission, no migration.
 > Cost projection: $340K annualized savings.
 > This line item carries Q1 variance.
 > Need closure before board materials lock. — Phillip"*
 
-Marcus closes the thread. Opens the checklist.
+Mr. Reyes closes the thread. Opens the checklist.
 
 ---
 
@@ -796,7 +796,7 @@ Just this week.
 Automated alert:
 
 **Policy Notice: Elevated access anomaly detected**
-**Review scheduled with manager (Marcus), Wednesday 10:00**
+**Review scheduled with manager (Mr. Reyes), Wednesday 10:00**
 
 Ada reads it twice.
 On the third read she opens routing metadata: **Event ID A-117C** — the same ID from her night in Scene 19.
@@ -806,10 +806,10 @@ On the third read she opens routing metadata: **Event ID A-117C** — the same I
 ROUTING CHAIN
 auto-flag triggered: 2026-02-17 08:14
 reviewed: Director, Infrastructure Operations [D. Reyes] - 2026-02-17 09:02
-escalated to: supervisor (Marcus) - 2026-02-17 11:48
+escalated to: supervisor (Mr. Reyes) - 2026-02-17 11:48
 ```
 
-Not just triggered. Reviewed. By someone with the authority to stop it, 36 hours before Marcus got the calendar invite.
+Not just triggered. Reviewed. By someone with the authority to stop it, 36 hours before Mr. Reyes got the calendar invite.
 
 Ada doesn't move.
 
@@ -826,9 +826,9 @@ This is the moment witness stops being instinct and becomes choice.
 
 ---
 
-## Scene 26 - Marcus Office / Afternoon + Hallway
+## Scene 26 - Mr. Reyes Office / Afternoon + Hallway
 
-Marcus is calm, almost kind.
+Mr. Reyes is calm, almost kind.
 
 **MARCUS**
 Security flagged unusual archive access.
@@ -840,7 +840,7 @@ Ada chooses how much truth to spend.
 I pulled logs for an anomaly I couldn't classify.
 I overreached.
 
-Marcus nods.
+Mr. Reyes nods.
 
 **MARCUS**
 After Tuesday we reset. Clean slate.
@@ -863,7 +863,7 @@ Classic. The AI logs are basically haunted.
 Yeah. Something like that.
 
 **LENA**
-You're fine. Marcus is harmless.
+You're fine. Mr. Reyes is harmless.
 
 She's already gone.
 
@@ -1027,7 +1027,7 @@ Ada runs a last access check on the anomaly directory. Audit log shows:
   action: READ (multiple entries)  duration: 4m11s
 ```
 
-Someone above Marcus. Three days ago. Four minutes. Read access. Then approved the rebuild.
+Someone above Mr. Reyes. Three days ago. Four minutes. Read access. Then approved the rebuild.
 
 Ada types:
 
@@ -1080,9 +1080,9 @@ Nods once to nobody.
 
 ---
 
-## Scene 32 - Marcus / Garage / 05:42
+## Scene 32 - Mr. Reyes / Garage / 05:42
 
-Marcus voice memo, brisk:
+Mr. Reyes voice memo, brisk:
 
 **MARCUS**
 Early for refresh cutover. Should be clean.
@@ -1129,7 +1129,7 @@ Ada nods.
 Intercut:
 - Ada terminal
 - IT Tech scripted commands
-- Marcus behind glass on call
+- Mr. Reyes behind glass on call
 
 `RUN REBUILD? [y/N]`
 
@@ -1175,7 +1175,7 @@ Same sterile reply.
 **In the background, behind the observation glass:**
 Voss nods once — satisfied, efficient.
 
-**VOSS (low, to Marcus)**
+**VOSS (low, to Mr. Reyes)**
 Confirm decommission complete.
 
 Then he leaves.
@@ -1200,7 +1200,7 @@ Back in present: Ada wipes her face, still shaking, and stares at the prompt as 
 
 ## Scene 35 - Immediate After / 06:20
 
-Marcus enters, upbeat.
+Mr. Reyes enters, upbeat.
 
 **MARCUS**
 Smooth cutover. Nice work.
@@ -1258,20 +1258,20 @@ Her breathing evens: first evidence the ritual can hold her.
 
 ## Scene 36 - Consequence / Wednesday 10:00
 
-Security review with Marcus + HR rep.
+Security review with Mr. Reyes + HR rep.
 
-**Before Ada enters:** Marcus's phone sits on the conference table, face-up.
+**Before Ada enters:** Mr. Reyes's phone sits on the conference table, face-up.
 Notification visible:
 
 **Email from P. Voss. Subject: RE: Q1 close — rebuild confirmed.**
 
-> *"Marcus — clean execution. $338K projected savings,  
+> *"Mr. Reyes — clean execution. $338K projected savings,  
 > cutover under budget. Board packet goes Thursday.  
 > Handle the access matter formally; documentation must be  
 > audit-ready.  
 > Good work. — Phillip"*
 
-Marcus flips the phone over. Not concealment. Tidiness.
+Mr. Reyes flips the phone over. Not concealment. Tidiness.
 
 ---
 
@@ -1280,7 +1280,7 @@ Outcome:
 - removal of elevated privileges
 - reassignment away from assistant infrastructure
 
-Marcus tries to soften it.
+Mr. Reyes tries to soften it.
 
 **MARCUS**
 Take a week. Reset.
