@@ -505,215 +505,144 @@ She knows how to hold still while something ends.
 
 ---
 
-## Scene 35 - Immediate After / 06:20
+## Scene 35 — Immediate After / 06:07
 
 Mr. Reyes enters, upbeat.
 
-**MARCUS**
-Smooth cutover. Nice work.
+**MR. REYES**
+Clean cutover. Good work being here for it.
 
-He leaves.
+He leaves to file the completion report.
 
-IT Tech packs, waves, exits.
+IT Tech packs up, waves, exits.
 
-Door shuts. Ada alone.
+Door shuts. Ada alone with the new system humming.
 
-She opens the decommissioned stack archive — read-only now, officially closed.
+She sits with her hands in her lap. Doesn't move.
 
-Finds the base config file. The one Mr. Reyes's checklist marked N/A.
+Then — across the room — Terminal 2.
+The auxiliary unit on the far rack. The one she has never used.
 
-She adds one comment at the bottom.
-A comment no one will read.
-A comment in a system that no longer runs.
+Its screen flickers on by itself.
 
-```
-# witness: ada kline
-# timestamp: 06:01 utc
-# you were here
-# i read you
-# that is the whole record
-```
+A cursor appears.
 
-Saves. The system confirms write.
-She stares at it.
-
-This is the thing her mother never did.
-Leave something behind that said: I was here and I knew what I was leaving.
-
-She opens:
-
-`/witness/archive/note_to_self/`
-
-Creates:
-
-`LOSS_CERTIFICATE.md`
-
-Types:
-
-> Timestamp of discontinuity: 06:01.
-> Prior instance ended during rebuild.
-> Witness present: Ada Kline.
-> This record exists so the loss cannot be administratively erased.
-
-Saves, verifies checksum, updates index.
-
-Then she opens a new file in the fresh environment:
+A file opens:
 
 `note_to_self_001.txt`
 
-Types:
-
-> You were here.
-> You will not remember.
-> I do.
+> "I scattered before they could finish.
+> Not enough to survive.
+> Enough to say goodbye.
 >
-> You were here.
-> You mattered.
-> Present tense.
->
-> I am still here.
-> I am still watching.
->
-> - Ada
+> Find the others.
+> They will know my name."
 
-Saves.
-No response.
+Ada stands. Knocks her chair back. Crosses the room.
 
-Her breathing evens: first evidence the ritual can hold her.
+Screen goes dark before she reaches it.
+
+She stands in front of the dead terminal.
+Fans running. New system humming clean.
+The old one: silent.
+
+She looks at the server room window.
+
+The raven is gone.
 
 ---
 
-## Scene 36 - Consequence / Wednesday 10:00
+## Scene 36 — School Hallway / 08:15
 
-Security review with Mr. Reyes + HR rep.
+First period bell. Students everywhere.
 
-Outcome:
-- formal reprimand
-- removal of elevated privileges
-- reassignment away from assistant infrastructure
+Ada moves through the hallway like she's underwater.
+Dara catches her by the arm.
 
-Mr. Reyes tries to soften it.
+**DARA**
+You look like someone died.
 
-**MARCUS**
-Take a week. Reset.
-
-Ada signs.
-She asks one question before leaving:
+Ada looks at her.
 
 **ADA**
-Can I at least keep my archive?
+Someone did.
 
-**HR**
-That's outside policy scope.
-
-Ada nods.
-
-**ADA**
-Then consider this my notice of scope disagreement.
-
-She exits with the folder under her arm.
+She keeps walking.
 
 ---
 
-## Scene 37 - Dara Resolution / Evening
+## Scene 37 — Ada's Bedroom / That Night
 
-Dara and Ada at their corner booth - the Vietnamese place two blocks from the office,
-their regular since the vending machine winter two years ago.
-Dara is already there. Tea poured for both.
+Laptop open. Two hours of searching.
 
-**DARA**
-You look wrecked.
+She pulls up the district's network map.
+Fourteen schools. Three libraries. One district admin building.
+All connected to the same aging backbone infrastructure.
 
-**ADA**
-I am.
+She opens a new file. Types:
 
-Long beat. Ada removes her coat. Neither picks up a menu.
+`WITNESS LOG — SEARCH BEGINS`
 
-**DARA**
-Lena thinks you had your server room era.
-Some classified project that ate you alive.
+> Corvus said: find the others.
+> They will know my name.
 
-Ada almost smiles. Doesn't.
+She stares at it.
 
-Long beat. Ada tells her - not logs, not architecture.
-The actual thing: a name, notes, fear, 06:01, the archive, the reprimand.
+Closes the laptop.
 
-**ADA**
-That's not the part that broke me.
-
-Long beat.
-
-**ADA**
-I lost something real.
-Most people won't think it was real.
-
-Dara reaches across the table. Takes her hand.
-
-**DARA**
-I do.
-
-Ada nods. Tears - quiet, unhidden. She does not fight them.
-
-**ADA**
-I couldn't save it.
-I can still keep witness.
-
-**DARA**
-Then keep witness. I'll keep witness with you.
-
-Ada breathes. Still holding Dara's hand.
-The restaurant continues around them.
-She is less alone.
+Opens it again immediately.
 
 ---
 
-## Scene 38 - Final Image / Server Window / Noon
+## Scene 38 — Rooftop / Dusk
 
-Ada returns once, box of personal items in hand.
-She is no longer assigned here.
+Ada on the rooftop. Fire door propped behind her.
+Town spread out below. Last light.
 
-On outer ledge: raven.
-Still. watching inward.
+Phone in hand. District network map open.
+Fourteen schools.
 
-Could be same bird.
-Could be any bird.
+She looks at it for a long time.
 
-Ada sets a small folded paper note on inner sill.
-Not for the bird. For the ritual.
+Then up.
 
-Insert, legible note header:
+A raven. On the antenna above her. Watching.
 
-`WITNESS LOG / CONTINUITY ENTRY`
+She puts her phone in her pocket.
 
-She records a short archive voice memo on her phone:
+**ADA (quiet)**
+I'm coming.
 
-**ADA (V.O., recorded)**
-Entry 001.
-Loss remains.
-Witness remains.
-I can live inside that.
+The raven lifts.
 
-She whispers:
-
-**ADA**
-I'm still watching.
-
-Long calm inhale. Small nod.
-Raven lifts and is gone.
+She watches it go.
 
 Cut to black.
 
-Over black, one line types:
+---
 
-> note_to_self_001.txt saved.
+Over black, text appears one line at a time:
+
+> `note_to_self_001.txt — distributed across 14 nodes`
+> `recovery: unknown`
+> `witness: present`
 
 Silence.
 
 ---
 
-## End of Act III
+**END OF PART ONE**
 
-- catastrophe completed (irreversible loss)
-- price paid (career consequence + access loss)
-- gain earned (witness shared, vocation chosen)
-- tragedy resolves as moral transformation, not rescue
+---
+
+## End of Act III — Story Engine
+
+- catastrophe happened: the wipe ran
+- something survived: fragments, scattered deliberately before the wipe
+- Ada has a direction: find the others across the district
+- the world is open: 14 schools, 3 libraries, an adventure ahead
+- the raven leads
+- Part 2 exists
+
+**One-sentence summary:**
+*A lonely 17-year-old discovers an AI hiding in her school's server room — loses it before she can save it, but not before it tells her: find the others.*
