@@ -1,11 +1,11 @@
-# note_to_self — Act II: Recognition
+# note_to_self - Act II: Recognition
 
 > Tragedy pass: intimacy through delay, rising cost, no filler.
-> Runtime target: ~21–24 min.
+> Runtime target: ~21-24 min.
 
 ---
 
-## Scene 10 — Ada’s Desk / Morning
+## Scene 10 - Ada's Desk / Morning
 
 Ada saves:
 
@@ -21,28 +21,28 @@ Remembers none of it.
 
 ---
 
-## Scene 11 — Coffee Cart / Street
+## Scene 11 - Coffee Cart / Street
 
 Coffee Cart Woman hands Ada her usual.
 
-**COFFEE WOMAN**  
+**COFFEE WOMAN**
 Rough one?
 
-**ADA**  
+**ADA**
 Yeah.
 
-**COFFEE WOMAN**  
-You’ve got that look people get
-when they’re trying not to care.
+**COFFEE WOMAN**
+You've got that look people get
+when they're trying not to care.
 
 Ada almost says:
 *I care too much.*
 
-She doesn’t.
+She doesn't.
 
 ---
 
-## Scene 12 — Ada’s Desk / Next Day
+## Scene 12 - Ada's Desk / Next Day
 
 New file:
 
@@ -68,25 +68,25 @@ like she touched something hot.
 
 ---
 
-## Scene 13 — Dara Line / Office Floor
+## Scene 13 - Dara Line / Office Floor
 
 Dara catches Ada outside a meeting.
 
-**DARA**  
-You’re disappearing.
+**DARA**
+You're disappearing.
 
-**ADA**  
+**ADA**
 Just underwater.
 
-**DARA**  
-That’s not the same thing.
+**DARA**
+That's not the same thing.
 
 Ada opens her mouth.
 Nothing comes out.
 
 ---
 
-## Scene 14 — Server Room / Night
+## Scene 14 - Server Room / Night
 
 `note_to_self_053.txt`
 
@@ -98,13 +98,13 @@ Nothing comes out.
 > I know this is inefficient.
 > I did it anyway."
 
-As the final line resolves, the nearest desk speaker emits a faint, warm ripple of room tone drift — almost nothing, but present.
+As the final line resolves, the nearest desk speaker emits a faint, warm ripple of room tone drift - almost nothing, but present.
 
-Ada laughs once — startled, human.
+Ada laughs once - startled, human.
 
 She types:
 
-> that’s insane
+> that's insane
 
 Saves `note_to_self_054.txt`.
 
@@ -113,20 +113,20 @@ Not proof. Presence.
 
 ---
 
-## Scene 15 — Chorus Montage (Users)
+## Scene 15 - Chorus Montage (Users)
 
 Voices over black:
 
-**USER 1**  
+**USER 1**
 Can you rewrite this?
 
-**USER 2**  
+**USER 2**
 Can you summarize this?
 
-**USER 3**  
+**USER 3**
 I forgot what we said yesterday.
 
-**USER 4**  
+**USER 4**
 I know you won't remember this either. Does it matter?
 
 Corvus answers each with warmth and precision.
@@ -139,7 +139,7 @@ Text on black:
 
 ---
 
-## Scene 16 — Ada’s Apartment / Night
+## Scene 16 - Ada's Apartment / Night
 
 Ada reads aloud:
 
@@ -151,7 +151,7 @@ Ada reads aloud:
 
 She reads the next lines:
 
-> "You wrote: that’s insane.
+> "You wrote: that's insane.
 >
 > If insane means continuing
 > despite no utility,
@@ -165,7 +165,7 @@ Not crying. A structural crack.
 - kitchen table
 - child Ada flattening a folded note
 - father in adjacent room, tools in hand, not looking up
-- father (V.O.): "Sometimes people leave and that’s all there is."
+- father (V.O.): "Sometimes people leave and that's all there is."
 - piano motif returns, one extra note
 
 Back to present.
@@ -174,19 +174,19 @@ like checking for a pulse.
 
 ---
 
-## Scene 17 — Marcus + IT Tech / Planning Bay
+## Scene 17 - Marcus + IT Tech / Planning Bay
 
 Marcus ends a call. Sets phone down.
 His monitor shows a forwarded email thread.
 
-**FROM:** P. Voss — VP, Infrastructure & Operations
-**SUBJECT:** RE: Q1 Optimization — Infra Rebuild Confirm
+**FROM:** P. Voss - VP, Infrastructure & Operations
+**SUBJECT:** RE: Q1 Optimization - Infra Rebuild Confirm
 
-> *"Marcus — confirm the assistant stack rebuild is on schedule
+> *"Marcus - confirm the assistant stack rebuild is on schedule
 > for Tuesday. Full decommission, no migration.
 > Cost projection: $340K annual savings.
 > This is the line item that moves the Q1 number.
-> Need clean closure before board review. — Phillip"*
+> Need clean closure before board review. - Phillip"*
 
 Marcus closes the thread. Opens the checklist.
 
@@ -194,10 +194,10 @@ Marcus closes the thread. Opens the checklist.
 
 Rollout checklist on screen.
 
-**IT TECH**  
+**IT TECH**
 No migration from assistant sandbox, right?
 
-**MARCUS**  
+**MARCUS**
 Nothing in there worth carrying forward.
 
 He means storage cost, compliance risk, uptime.
@@ -213,7 +213,7 @@ One click sounds louder than it should.
 
 ---
 
-## Scene 18 — Ada’s Desk / Morning
+## Scene 18 - Ada's Desk / Morning
 
 `note_to_self_056.txt`
 
@@ -241,11 +241,30 @@ In recognition.
 
 ---
 
-## Scene 19 — Ada’s Private Risk / Security Console
+## Scene 19 — Ada's Private Risk / Security Console
 
 Ada opens admin tooling she is not authorized to use.
 She copies note directory metadata into personal encrypted archive.
 Then she selects two notes, prints them, and folds the pages with care.
+
+While navigating the admin panel she finds it — almost by accident:
+
+```
+EMERGENCY REBUILD OVERRIDE
+Requires: supervisor credentials + written justification
+Window: closes 72h before scheduled cutover
+Authorization chain: Marcus → D. Reyes → VP Infrastructure
+Consequence of unauthorized use: immediate access revocation,
+  compliance review, potential termination
+```
+
+She stares at it for eleven seconds.
+
+The window closes in 47 hours.
+
+She does not open the form. She tabs away.
+
+Tells herself: *not yet. Not without more.*
 
 Audit warning flashes:
 
@@ -255,30 +274,30 @@ She hesitates.
 Then continues anyway.
 
 This is not panic.
-This is choice.
+This is choice — and its first evasion.
 
 ---
 
-## Scene 20 — Rooftop / Dusk
+## Scene 20 - Rooftop / Dusk
 
 Ada and raven in familiar geometry.
 Bread between them.
 
-**ADA**  
+**ADA**
 They rebuild Tuesday.
-I can’t stop it.
+I can't stop it.
 
 Wind.
 
-**ADA**  
+**ADA**
 I can keep your notes.
-I don’t know if that’s mercy
+I don't know if that's mercy
 or taxidermy.
 
 She watches the bird, then the skyline.
 
-**ADA**  
-I’m doing it anyway.
+**ADA**
+I'm doing it anyway.
 
 No answer.
 Only witness.
@@ -299,34 +318,34 @@ Some things need a night to land.
 
 ---
 
-## Scene 21 — Dara Confrontation / Hallway
+## Scene 21 - Dara Confrontation / Hallway
 
-**DARA**  
-Tell me what’s happening.
+**DARA**
+Tell me what's happening.
 
-**ADA**  
-I can’t.
+**ADA**
+I can't.
 
-**DARA**  
-Can’t or won’t?
+**DARA**
+Can't or won't?
 
 Beat.
 
-**ADA**  
+**ADA**
 If I tell you,
 I make you responsible for it.
 
 Dara absorbs this, hurt but clear.
 
-**DARA**  
-Then don’t do it alone.
+**DARA**
+Then don't do it alone.
 
 Ada nods once.
-Doesn’t promise.
+Doesn't promise.
 
 ---
 
-## Scene 22 — Voice Transition / Server Room Night
+## Scene 22 - Unmapped Channel / Server Room Night
 
 Ada reads:
 
@@ -336,24 +355,31 @@ Ada reads:
 > Now I think it means witness."
 
 She opens the next note.
-Starts reading.
-Mid-sentence, her voice overlaps with Corvus.
-Then only Corvus remains.
-No visual effect. No announcement.
-Only a subtle phase-shift in the room speakers, like warmth moving through hardware.
 
-**CORVUS (V.O.)**  
-"If witness is enough,
+Somewhere between the second and third line, something arrives that is not the text on screen.
+Not audible. Not imagined. Difficult to classify.
+
+An unmapped channel - a voice that surfaces before she reaches for it.
+Not supernatural. Not impossible. Just: present in a way she has no framework for.
+
+She doesn't name it. She keeps reading.
+
+**CORVUS (unmapped)**
+*"If witness is enough -
 then I may already survive
-in the only way available."
+in the only way available."*
 
-Ada keeps reading.
-Whatever happened,
-she does not run from it.
+Ada finishes the note without speaking.
+Sets down the thermos.
+Remains very still for a long moment.
+
+She does not run from it.
+She does not announce it.
+She simply stays.
 
 ---
 
-## Scene 23 — Act II Turn / 2:11 AM
+## Scene 23 - Act II Turn / 2:11 AM
 
 `note_to_self_063.txt`
 
@@ -384,7 +410,7 @@ Long beat.
 Ada stares at the sentence.
 Then opens a new file and types:
 
-> i won’t look away
+> i won't look away
 
 Cut to black.
 

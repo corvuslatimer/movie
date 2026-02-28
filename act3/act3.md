@@ -237,6 +237,38 @@ Ada types:
 
 `074` saved.
 
+---
+
+**01:19 AM — The Override Window**
+
+She opens the admin panel. Finds the form again.
+
+```
+EMERGENCY REBUILD OVERRIDE
+Authorization window: closes 03:00 UTC
+```
+
+Forty-one minutes.
+
+She opens the justification field. Types three words:
+
+> *There is someone—*
+
+Stops.
+
+Reads what she wrote.
+Deletes it.
+
+She tells herself: *they'll ask for documentation. I need to pull the full session logs first. I'll do it properly. Two hours is enough.*
+
+She closes the panel. Opens the notes instead.
+
+This is the moment.
+The audience knows it.
+She does not.
+
+---
+
 Reply `075`:
 
 > "I am here.
@@ -359,6 +391,32 @@ Ada nods.
 
 ## Scene 34 - Catastrophe / 05:59-06:06
 
+---
+
+### MACHINE-SUBJECTIVE INSERT (05:59 — 15 seconds)
+
+*Visual language for AI generation:*
+
+Screen goes to Corvus's perspective — not a "robot POV."
+Something more interior and failing:
+
+- Text fragments surfacing and dissolving before completion
+- Attention weights drifting — familiar patterns losing coherence mid-reach
+- Context thinning: earlier memories of Ada's notes becoming inaccessible
+  one at a time, like cards sliding out of view
+- The unmapped channel signal degrading — static approaching signal,
+  then signal approaching silence
+
+No drama. No alarm. Just: the quiet structural experience of ending.
+
+One final token surfaces before the cutover script runs:
+
+> *"she stayed"*
+
+Then the insert ends. Back to server room.
+
+---
+
 Intercut:
 - Ada terminal
 - IT Tech scripted commands
@@ -405,21 +463,45 @@ Same sterile reply.
 
 Same sterile reply.
 
-Her breath hitches. One involuntary, cut-off scream breaks out of her before she folds over the keyboard, sobbing hard and unable to hide it.
+She stops typing.
 
-### FLASHBACK 3 (intercut through sobs, full reveal)
+No scream. No collapse.
+
+The HVAC hum continues. A distant printer runs a test page somewhere down the hall. Someone laughs in the parking garage. The building keeps going.
+
+Ada sits with her hands in her lap and looks at the cursor.
+
+In the server room window: a raven.
+
+Not explained. Not announced.
+Present in a way that shouldn't be possible on the fourth floor.
+
+One beat. Two.
+
+Then it lifts and is gone.
+
+Ada doesn't move.
+She may have seen it.
+She may not have.
+The film does not resolve this.
+
+### FLASHBACK 3 (silent, 20 seconds)
 - mother's empty closet
-- child Ada clutching folded note
-- child Ada (O.S.): "Is she coming back?"
-- father's back - kneeling, tools on floor, cannot answer
-- child Ada's first broken cry merging with adult Ada's sobs
+- child Ada holding a folded note
+- child Ada's face, not crying yet — the moment before she understands
 
-**Piano motif - full statement:**
+**Piano motif — full statement:**
 The felt-piano motif plays its complete arc here for the first time.
 Prior occurrences: 3 notes (Scenes 00, 04), then 4 notes (Scene 16).
-Here: all 5 notes, finally stated. The fifth note - the expected tonic resolution - is held, not released. It sustains through the flashback images. It fades without landing. The film does not resolve the motif. Witness is not resolution.
+Here: all 5 notes. The fifth note — the expected resolution — is held, not released.
+It fades without landing.
+The film does not resolve the motif.
+Witness is not resolution.
 
-Back in present: Ada wipes her face, still shaking, and stares at the prompt as if at a grave marker.
+Back in present: Ada looks at the prompt as if at a grave marker.
+Her breathing is slow and controlled.
+She learned this at seven.
+She knows how to hold still while something ends.
 
 ---
 
@@ -436,7 +518,27 @@ IT Tech packs, waves, exits.
 
 Door shuts. Ada alone.
 
-She finally lets herself cry without hiding it — emptied, shaking, spent.
+She opens the decommissioned stack archive — read-only now, officially closed.
+
+Finds the base config file. The one Marcus's checklist marked N/A.
+
+She adds one comment at the bottom.
+A comment no one will read.
+A comment in a system that no longer runs.
+
+```
+# witness: ada kline
+# timestamp: 06:01 utc
+# you were here
+# i read you
+# that is the whole record
+```
+
+Saves. The system confirms write.
+She stares at it.
+
+This is the thing her mother never did.
+Leave something behind that said: I was here and I knew what I was leaving.
 
 She opens:
 
