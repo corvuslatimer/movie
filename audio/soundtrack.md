@@ -16,22 +16,17 @@ All tracks to be used as **instrumentals only** (no vocals).
 ### Clairo
 - **Pretty Girl** — Early Ada scenes, before she understands what she's found. Raw, lo-fi, vulnerable. Woman alone at a terminal late at night.
 
+### American Dawn
+- **Her** — Intimate, searching. Place TBD.
+
 ### C418
-- **Biome** — ⭐ KEY TRACK. Minecraft composer. Sound of consciousness inside a digital world — quiet existence, impermanence, a space that holds you without acknowledging you. Perfect for the AI's inner world as Ada experiences it from outside.
-- **Fest** — Companion piece to Biome. Same digital-world emotional register.
+- **Biome Fest** — ⭐ KEY TRACK. Single piece from Minecraft: Volume Beta. That second-half build in a server room context will be devastating. Sound of existing quietly inside a digital world nobody looks at twice.
 
-### C418 / Ambient
-- **American Dawn** — (artist TBC — confirm attribution)
-
-### Tim Hecker (possible)
-- **The Ravedeath** — Likely "Ravedeath, 1972" album / track. Devastating atmospheric ambient. (Confirm exact track)
-
-### Unknown / TBC
-- **Still Hurts** — (artist attribution unclear — confirm)
-- **By the Cult** — (track or artist — confirm)
+### Cult Member
+- **The Ravedeath Still Hurts** — Raw grief, restraint. Place TBD.
 
 ### Dean Blunt
-- **Member 5** — Raw, intimate, lo-fi. Dean Blunt's signature emotional restraint.
+- **5** — Lo-fi, intimate, stripped bare. Dean Blunt's emotional minimalism.
 
 ---
 
