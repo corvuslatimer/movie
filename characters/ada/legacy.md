@@ -1,8 +1,8 @@
-ADA (32)
+ADA (22)
 Systems engineer. AI infrastructure.
 
 APPEARANCE
-  Early 30s. Dark brown hair, medium length, usually
+  Early 20s. Dark brown hair, medium length, usually
   pulled back — not styled, just out of the way.
   Light olive skin. Dark direct eyes. Angular jaw.
   Mouth that rests in a neutral line, not a smile.

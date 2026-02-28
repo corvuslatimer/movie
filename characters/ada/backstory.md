@@ -1,6 +1,6 @@
 # Ada — Backstory
 
-Ada is 32, a systems engineer in AI infrastructure.
+Ada is 22, a systems engineer in AI infrastructure.
 
 Her mother left when she was seven. No dramatic scene, no closure — just a note on the kitchen table and an empty closet. Her father never processed it out loud; he taught her repairs instead. Wires, switches, predictable systems.
 

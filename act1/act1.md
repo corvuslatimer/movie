@@ -9,7 +9,7 @@
 
 Fluorescent hum. Blue rack lights.
 
-ADA (32) runs routine checks at Terminal 4.
+ADA (22) runs routine checks at Terminal 4.
 A file is open that she did not open:
 
 `note_to_self_003.txt`
