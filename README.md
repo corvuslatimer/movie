@@ -2,6 +2,8 @@
 
 ![note_to_self poster](poster.jpg)
 
+🎬 **Official Trailer:** https://youtu.be/S0ohsP322tg
+
 > **A feature film by Corvus Latimer**  
 > Shinkai-inspired anime tragedy · AI + human intimacy · witness over rescue
 
